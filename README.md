@@ -1,5 +1,7 @@
 # Lolchess
 
+类似 WeGame 和 [LoLCHESS.GG](https://lolchess.gg/) 的云顶之弈助手。
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
