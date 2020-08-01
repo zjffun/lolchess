@@ -15,6 +15,13 @@ function download(filename, text) {
   document.body.removeChild(element);
 }
 
+function rmDuplicate(res, cur) {
+  if (!res.find((d) => d.dest === cur.dest)) {
+    res.push(cur);
+  }
+  return res;
+}
+
 var firstLine = [0, ...Array.from({ length: 9 }, (_, i) => 1 << (i * 2))];
 
 var ids = [
@@ -36,8 +43,25 @@ download(
   JSON.stringify(
     Array.from(
       document.querySelector("#new-item-table").querySelectorAll("img")
-    ).map((img, i) => {
-      return { src: img.src, dest: ids[i] };
-    })
+    )
+      .map((img, i) => {
+        return { src: img.src, dest: ids[i] };
+      })
+      .reduce(rmDuplicate, [])
+  )
+);
+
+download(
+  "items-info-info.json",
+  JSON.stringify(
+    Array.from(
+      document
+        .querySelector("#new-item-table")
+        .querySelectorAll(".guide-items__combine-table__item")
+    )
+      .map((dom, i) => {
+        return { src: dom.getAttribute("data-tooltip-url"), dest: ids[i] };
+      })
+      .reduce(rmDuplicate, [])
   )
 );

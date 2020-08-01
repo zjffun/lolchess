@@ -7,7 +7,7 @@ const imgs = require("./data/items-img-info.json");
 async function main() {
   for (const img of imgs) {
     const file = fs.createWriteStream(
-      path.resolve(__dirname, "../src/assets/items", `${img.dest}.png`)
+      path.resolve(__dirname, "../src/assets/items/imgs", `${img.dest}.png`)
     );
     https.get(img.src, function (response) {
       response.pipe(file);
