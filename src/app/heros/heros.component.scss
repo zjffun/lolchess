@@ -1,0 +1,19 @@
+.grid-container {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.heros {
+  display: flex;
+  flex-wrap: wrap;
+  .hero {
+    margin: 0.5rem;
+    width: 4rem;
+    text-align: center;
+    &__avatar {
+      width: 80%;
+    }
+    &__name {
+    }
+  }
+}
