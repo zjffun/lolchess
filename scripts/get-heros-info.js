@@ -25,9 +25,14 @@ download(
         .querySelector(".guide-champion-list__content")
         .querySelectorAll(".guide-champion-list__item")
     ).map((hero) => {
+      let keyword = hero.getAttribute("data-keyword");
+      if (keyword === "wukongmonkeyking") {
+        keyword = "monkeyking";
+      }
+
       return {
         imgSrc: hero.querySelector("img").src,
-        keyword: hero.getAttribute("data-keyword"),
+        keyword,
         name: hero.querySelector(".guide-champion-list__item__name").innerHTML,
       };
     }),

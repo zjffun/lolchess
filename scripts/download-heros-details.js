@@ -2,14 +2,15 @@ const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
-const heros = require("./data/heros-info.json");
+const infos = require("./data/heros-info.json");
+const baseURL = "https://lolchess.gg/champions/set3.5";
 
 async function main() {
-  for (const hero of heros) {
+  for (const info of infos) {
     const filePath = path.resolve(
       __dirname,
-      "../src/assets/heros/imgs",
-      `${hero.keyword}.png`
+      "../src/assets/heros/details",
+      `${info.keyword}.en.detail`
     );
 
     if (fs.existsSync(filePath)) {
@@ -17,7 +18,7 @@ async function main() {
     }
 
     const file = fs.createWriteStream(filePath);
-    https.get(hero.imgSrc, function (response) {
+    https.get(`${baseURL}/${info.keyword}`, function (response) {
       response.pipe(file);
     });
 

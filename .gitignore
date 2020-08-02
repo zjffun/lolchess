@@ -1,6 +1,7 @@
 package-lock.json
 yarn.lock
 /src/assets/**/*.en.info
+/src/assets/**/*.en.detail
 
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
