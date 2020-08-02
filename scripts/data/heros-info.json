@@ -1,0 +1,287 @@
+[
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/ahri.png",
+    "keyword": "ahri",
+    "name": "Ahri"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/annie.png",
+    "keyword": "annie",
+    "name": "Annie"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/ashe.png",
+    "keyword": "ashe",
+    "name": "Ashe"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/aurelionsol.png",
+    "keyword": "aurelionsol",
+    "name": "Aurelion Sol"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/bard.png",
+    "keyword": "bard",
+    "name": "Bard"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/blitzcrank.png",
+    "keyword": "blitzcrank",
+    "name": "Blitzcrank"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/caitlyn.png",
+    "keyword": "caitlyn",
+    "name": "Caitlyn"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/cassiopeia.png",
+    "keyword": "cassiopeia",
+    "name": "Cassiopeia"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/darius.png",
+    "keyword": "darius",
+    "name": "Darius"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/ekko.png",
+    "keyword": "ekko",
+    "name": "Ekko"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/ezreal.png",
+    "keyword": "ezreal",
+    "name": "Ezreal"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/fiora.png",
+    "keyword": "fiora",
+    "name": "Fiora"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/fizz.png",
+    "keyword": "fizz",
+    "name": "Fizz"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/gangplank.png",
+    "keyword": "gangplank",
+    "name": "Gangplank"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/gnar.png",
+    "keyword": "gnar",
+    "name": "Gnar"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/graves.png",
+    "keyword": "graves",
+    "name": "Graves"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/illaoi.png",
+    "keyword": "illaoi",
+    "name": "Illaoi"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/irelia.png",
+    "keyword": "irelia",
+    "name": "Irelia"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/janna.png",
+    "keyword": "janna",
+    "name": "Janna"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/jarvaniv.png",
+    "keyword": "jarvaniv",
+    "name": "Jarvan IV"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/jayce.png",
+    "keyword": "jayce",
+    "name": "Jayce"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/jhin.png",
+    "keyword": "jhin",
+    "name": "Jhin"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/jinx.png",
+    "keyword": "jinx",
+    "name": "Jinx"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/karma.png",
+    "keyword": "karma",
+    "name": "Karma"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/kogmaw.png",
+    "keyword": "kogmaw",
+    "name": "KogMaw"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/leona.png",
+    "keyword": "leona",
+    "name": "Leona"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/lucian.png",
+    "keyword": "lucian",
+    "name": "Lucian"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/lulu.png",
+    "keyword": "lulu",
+    "name": "Lulu"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/malphite.png",
+    "keyword": "malphite",
+    "name": "Malphite"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/masteryi.png",
+    "keyword": "masteryi",
+    "name": "Master Yi"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/mordekaiser.png",
+    "keyword": "mordekaiser",
+    "name": "Mordekaiser"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/nautilus.png",
+    "keyword": "nautilus",
+    "name": "Nautilus"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/neeko.png",
+    "keyword": "neeko",
+    "name": "Neeko"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/nocturne.png",
+    "keyword": "nocturne",
+    "name": "Nocturne"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/poppy.png",
+    "keyword": "poppy",
+    "name": "Poppy"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/rakan.png",
+    "keyword": "rakan",
+    "name": "Rakan"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/riven.png",
+    "keyword": "riven",
+    "name": "Riven"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/rumble.png",
+    "keyword": "rumble",
+    "name": "Rumble"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/shaco.png",
+    "keyword": "shaco",
+    "name": "Shaco"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/shen.png",
+    "keyword": "shen",
+    "name": "Shen"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/soraka.png",
+    "keyword": "soraka",
+    "name": "Soraka"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/syndra.png",
+    "keyword": "syndra",
+    "name": "Syndra"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/teemo.png",
+    "keyword": "teemo",
+    "name": "Teemo"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/thresh.png",
+    "keyword": "thresh",
+    "name": "Thresh"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/twistedfate.png",
+    "keyword": "twistedfate",
+    "name": "TwistedFate"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/urgot.png",
+    "keyword": "urgot",
+    "name": "Urgot"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/vayne.png",
+    "keyword": "vayne",
+    "name": "Vayne"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/vi.png",
+    "keyword": "vi",
+    "name": "Vi"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/viktor.png",
+    "keyword": "viktor",
+    "name": "Viktor"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/monkeyking.png",
+    "keyword": "wukongmonkeyking",
+    "name": "Wukong"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/xayah.png",
+    "keyword": "xayah",
+    "name": "Xayah"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/xerath.png",
+    "keyword": "xerath",
+    "name": "Xerath"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/xinzhao.png",
+    "keyword": "xinzhao",
+    "name": "Xin Zhao"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/yasuo.png",
+    "keyword": "yasuo",
+    "name": "Yasuo"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/zed.png",
+    "keyword": "zed",
+    "name": "Zed"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/ziggs.png",
+    "keyword": "ziggs",
+    "name": "Ziggs"
+  },
+  {
+    "imgSrc": "https://cdn.lolchess.gg/images/tft/champions/set3/zoe.png",
+    "keyword": "zoe",
+    "name": "Zoe"
+  }
+]
