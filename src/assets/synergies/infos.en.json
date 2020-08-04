@@ -1,0 +1,413 @@
+[
+  {
+    "name": "Astro",
+    "keyword": "astro",
+    "heros": [
+      "nautilus",
+      "bard",
+      "gnar",
+      "teemo"
+    ],
+    "desc": "",
+    "stats": [
+      "(3) Astro Champions reduce their mana costs by 30"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Battlecast",
+    "keyword": "battlecast",
+    "heros": [
+      "illaoi",
+      "nocturne",
+      "kogmaw",
+      "cassiopeia",
+      "viktor",
+      "urgot"
+    ],
+    "desc": "Battlecast champions, upon dealing or taking 10 instances of damage, heal if below half health, or deal magic damage to the nearest enemy if above half.",
+    "stats": [
+      "(2) 80 Healing or Damage",
+      "(4) 180 Healing or Damage",
+      "(6) 480 Healing or Damage",
+      "(8) 880 Healing or Damage"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Celestial",
+    "keyword": "celestial",
+    "heros": [
+      "xayah",
+      "rakan",
+      "xinzhao",
+      "ashe",
+      "lulu"
+    ],
+    "desc": "All allies heal for some of the damage they deal with spells and attacks.",
+    "stats": [
+      "(2) 15% Healing",
+      "(4) 45% Healing",
+      "(6) 150% Healing"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Chrono",
+    "keyword": "chrono",
+    "heros": [
+      "twistedfate",
+      "caitlyn",
+      "blitzcrank",
+      "shen",
+      "ezreal",
+      "riven",
+      "monkeyking",
+      "thresh"
+    ],
+    "desc": "All allies gain 15% Attack Speed every some seconds.",
+    "stats": [
+      "(2) every 8 seconds",
+      "(4) every 3.5 seconds",
+      "(6) every 1.5 seconds",
+      "(8) every 0.75 seconds"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Cybernetic",
+    "keyword": "cybernetic",
+    "heros": [
+      "fiora",
+      "leona",
+      "lucian",
+      "vayne",
+      "vi",
+      "irelia",
+      "ekko"
+    ],
+    "desc": "Cybernetic champions with at least one item gain Health and Attack Damage.",
+    "stats": [
+      "(3) 300 Health and 35 Attack Damage",
+      "(6) 550 Health and 70 Attack Damage"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Dark Star",
+    "keyword": "dark-star",
+    "heros": [
+      "jarvaniv",
+      "mordekaiser",
+      "karma",
+      "shaco",
+      "jhin",
+      "xerath"
+    ],
+    "desc": "When any ally champion dies, all other allied Dark Star Champions gain Attack Damage and Spell Power",
+    "stats": [
+      "(2) Attack Damage and Spell Power +8",
+      "(4) Attack Damage and Spell Power +18",
+      "(6) Attack Damage and Spell Power +28",
+      "(8) Attack Damage and Spell Power +38"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Mech-Pilot",
+    "keyword": "mech-pilot",
+    "heros": [
+      "annie",
+      "rumble",
+      "fizz"
+    ],
+    "desc": "The Super-Mech has the traits of its pilots, 3random items from among them and gains 60% of the combined pilot's health and attack damage When the Super-Mech dies the Piots are ejected with 35% of thier maximun health and continue of fight",
+    "stats": [
+      "(3) At the start of combat, three random mech-pilots are teleported into a super-mech"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Rebel",
+    "keyword": "rebel",
+    "heros": [
+      "ziggs",
+      "malphite",
+      "yasuo",
+      "zed",
+      "masteryi",
+      "jinx",
+      "aurelionsol"
+    ],
+    "desc": "At the start of combat, Rebels gain a shield and increased damage for each adjacent Rebel. The shield lasts for 8 seconds.",
+    "stats": [
+      "(3) 150 Shield & 10% Damage",
+      "(6) 210 Shield & 12% Damage",
+      "(9) 330 Shield & 15% Damage"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Space Pirate",
+    "keyword": "space-pirate",
+    "heros": [
+      "graves",
+      "darius",
+      "jayce",
+      "gangplank"
+    ],
+    "desc": "Whenever a Space Pirate lands a killing blow on a Champion there is a chance to drop extra loot.",
+    "stats": [
+      "(2) 50% for 1 gold",
+      "(4) 50% for 1 gold and 25% for a component item"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Star Guardian",
+    "keyword": "star-guardian",
+    "heros": [
+      "zoe",
+      "poppy",
+      "ahri",
+      "neeko",
+      "syndra",
+      "soraka",
+      "janna"
+    ],
+    "desc": "Star Guardians' spellcasts grant Mana to other Star Guardians spread among them.",
+    "stats": [
+      "(3) 15 Total Mana",
+      "(6) 25 Total Mana",
+      "(9) 45 Total Mana"
+    ],
+    "type": "origins"
+  },
+  {
+    "name": "Blademaster",
+    "keyword": "blademaster",
+    "heros": [
+      "fiora",
+      "xayah",
+      "shen",
+      "yasuo",
+      "masteryi",
+      "irelia",
+      "riven"
+    ],
+    "desc": "Blademasters' Basic Attacks have a chance to trigger two additional attacks against their target. These additional attacks deal damage like Basic Attacks and trigger on-hit effects.",
+    "stats": [
+      "(3) 30% Chance to trigger",
+      "(6) 65% Chance to trigger",
+      "(9) 100% Chance to trigger"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Blaster",
+    "keyword": "blaster",
+    "heros": [
+      "graves",
+      "kogmaw",
+      "lucian",
+      "ezreal",
+      "jinx"
+    ],
+    "desc": "Every fourth Basic Attack from a Blaster fires additional attacks at random enemies. These additional attacks deal damage like Basic Attacks, trigger on-hit effects and can critically hit.",
+    "stats": [
+      "(2) 3 Additional Attacks",
+      "(4) 6 Additional Attacks"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Brawler",
+    "keyword": "brawler",
+    "heros": [
+      "illaoi",
+      "malphite",
+      "blitzcrank",
+      "vi",
+      "gnar"
+    ],
+    "desc": "Brawlers gain bonus Maximum Health.",
+    "stats": [
+      "(2) 350 Bonus Health",
+      "(4) 600 Bonus Health"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Demolitionist",
+    "keyword": "demolitionist",
+    "heros": [
+      "ziggs",
+      "rumble",
+      "gangplank"
+    ],
+    "desc": "",
+    "stats": [
+      "(2) Damage from Demolitionists' spellcasts stun their for 1.50 seconds. (Once per spellcast)"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Infiltrator",
+    "keyword": "infiltrator",
+    "heros": [
+      "nocturne",
+      "zed",
+      "shaco",
+      "fizz",
+      "ekko"
+    ],
+    "desc": "Innate: At the start of combat, Infiltrators move to the enemy's backline. Infiltrators gain Attack Speed for 6 seconds at the start of combat, refreshes on takedown",
+    "stats": [
+      "(2) 40% Bonus Attack Speed",
+      "(4) 80% Bonus Attack Speed",
+      "(6) 120% Bonus Attack Speed"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Mana-Reaver",
+    "keyword": "mana-reaver",
+    "heros": [
+      "darius",
+      "irelia",
+      "thresh"
+    ],
+    "desc": "",
+    "stats": [
+      "(2) Mana-Reaver attacks increase the mana cost of their target’s next spell by 40%"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Mercenary",
+    "keyword": "mercenary",
+    "heros": [
+      "gangplank"
+    ],
+    "desc": "",
+    "stats": [
+      "(1) Innate: Upgrades for Mercenaries's spells have a chance to appear in the shop."
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Mystic",
+    "keyword": "mystic",
+    "heros": [
+      "bard",
+      "cassiopeia",
+      "karma",
+      "soraka",
+      "lulu"
+    ],
+    "desc": "All allies gain Magic Resistance.",
+    "stats": [
+      "(2) 50 Magic Resistance",
+      "(4) 120 Magic Resistance"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Paragon",
+    "keyword": "paragon",
+    "heros": [
+      "janna"
+    ],
+    "desc": "",
+    "stats": [
+      "(1) Ally Star Guardian basic attacks are converted to true damage. All other ally basic attacks are converted to magic damage."
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Protector",
+    "keyword": "protector",
+    "heros": [
+      "jarvaniv",
+      "rakan",
+      "xinzhao",
+      "neeko",
+      "urgot"
+    ],
+    "desc": "Protectors shield themselves for 4 seconds whenever they cast a spell. This shield doesn't stack.",
+    "stats": [
+      "(2) 30% Maximum Health Shield",
+      "(4) 40% Maximum Health Shield",
+      "(6) 50% Maximum Health Shield"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Sniper",
+    "keyword": "sniper",
+    "heros": [
+      "caitlyn",
+      "ashe",
+      "vayne",
+      "jhin",
+      "teemo"
+    ],
+    "desc": "Snipers deal increased damage for each hex between themselves and their target.",
+    "stats": [
+      "(2) 10% increased damage for each hex",
+      "(4) 18% increased damage for each hex"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Sorcerer",
+    "keyword": "sorcerer",
+    "heros": [
+      "zoe",
+      "twistedfate",
+      "ahri",
+      "annie",
+      "syndra",
+      "viktor",
+      "xerath"
+    ],
+    "desc": "All allies have increased Spell Power.",
+    "stats": [
+      "(2) 20% Spell Power",
+      "(4) 40% Spell Power",
+      "(6) 70% Spell Power"
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Starship",
+    "keyword": "starship",
+    "heros": [
+      "aurelionsol"
+    ],
+    "desc": "",
+    "stats": [
+      "(1) Innate: Starships gain 40 Mana per second, maneuver around the board, and are immune to movement impairing effects, but can't Basic Attack."
+    ],
+    "type": "classes"
+  },
+  {
+    "name": "Vanguard",
+    "keyword": "vanguard",
+    "heros": [
+      "leona",
+      "poppy",
+      "mordekaiser",
+      "nautilus",
+      "jayce",
+      "monkeyking"
+    ],
+    "desc": "Vanguard champions gain bonus Armor.",
+    "stats": [
+      "(2) 125 Armor",
+      "(4) 300 Armor",
+      "(6) 1000 Armor"
+    ],
+    "type": "classes"
+  }
+]
