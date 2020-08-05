@@ -15,7 +15,7 @@ import { ItemsComponent } from './items/items.component';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatCardModule } from '@angular/material/card';
 import { MatMenuModule } from '@angular/material/menu';
-import { HerosComponent } from './heros/heros.component';
+import { HeroesComponent } from './heroes/heroes.component';
 import { SynergiesComponent } from './synergies/synergies.component';
 
 @NgModule({
@@ -23,7 +23,7 @@ import { SynergiesComponent } from './synergies/synergies.component';
     AppComponent,
     NavigationComponent,
     ItemsComponent,
-    HerosComponent,
+    HeroesComponent,
     SynergiesComponent,
   ],
   imports: [

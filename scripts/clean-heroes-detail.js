@@ -15,7 +15,7 @@ function trimAll(str) {
 }
 
 async function main() {
-  const baseDir = path.resolve(__dirname, "../src/assets/heros");
+  const baseDir = path.resolve(__dirname, "../src/assets/heroes");
   const rowDetailsBaseDir = path.resolve(baseDir, "details");
   const rowInfos = fs
     .readdirSync(rowDetailsBaseDir)

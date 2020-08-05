@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const { JSDOM } = require("jsdom");
-const herosDetails = require("../src/assets/heros/details.en.json");
+const heroesDetails = require("../src/assets/heroes/details.en.json");
 
 function getKeyword(name) {
   return name.toLowerCase().replace(/ /g, "-");
@@ -17,12 +17,12 @@ function getInfo(type) {
 
     // content
     const content = dom.querySelector(".guide-synergy-table__synergy__content");
-    const heros = Array.from(
+    const heroes = Array.from(
       content
         .querySelector(".guide-synergy-table__synergy__champions")
         .querySelectorAll("img")
     ).map((d) => {
-      return herosDetails.find((heroDetail) => heroDetail.name === d.alt)
+      return heroesDetails.find((heroDetail) => heroDetail.name === d.alt)
         .keyword;
     });
     const descDom = content.querySelector(
@@ -39,7 +39,7 @@ function getInfo(type) {
       imgURL,
       name,
       keyword,
-      heros,
+      heroes,
       desc,
       stats,
       type,

@@ -2,7 +2,7 @@
   {
     "name": "Astro",
     "keyword": "astro",
-    "heros": [
+    "heroes": [
       "nautilus",
       "bard",
       "gnar",
@@ -17,7 +17,7 @@
   {
     "name": "Battlecast",
     "keyword": "battlecast",
-    "heros": [
+    "heroes": [
       "illaoi",
       "nocturne",
       "kogmaw",
@@ -37,7 +37,7 @@
   {
     "name": "Celestial",
     "keyword": "celestial",
-    "heros": [
+    "heroes": [
       "xayah",
       "rakan",
       "xinzhao",
@@ -55,7 +55,7 @@
   {
     "name": "Chrono",
     "keyword": "chrono",
-    "heros": [
+    "heroes": [
       "twistedfate",
       "caitlyn",
       "blitzcrank",
@@ -77,7 +77,7 @@
   {
     "name": "Cybernetic",
     "keyword": "cybernetic",
-    "heros": [
+    "heroes": [
       "fiora",
       "leona",
       "lucian",
@@ -96,7 +96,7 @@
   {
     "name": "Dark Star",
     "keyword": "dark-star",
-    "heros": [
+    "heroes": [
       "jarvaniv",
       "mordekaiser",
       "karma",
@@ -116,7 +116,7 @@
   {
     "name": "Mech-Pilot",
     "keyword": "mech-pilot",
-    "heros": [
+    "heroes": [
       "annie",
       "rumble",
       "fizz"
@@ -130,7 +130,7 @@
   {
     "name": "Rebel",
     "keyword": "rebel",
-    "heros": [
+    "heroes": [
       "ziggs",
       "malphite",
       "yasuo",
@@ -150,7 +150,7 @@
   {
     "name": "Space Pirate",
     "keyword": "space-pirate",
-    "heros": [
+    "heroes": [
       "graves",
       "darius",
       "jayce",
@@ -166,7 +166,7 @@
   {
     "name": "Star Guardian",
     "keyword": "star-guardian",
-    "heros": [
+    "heroes": [
       "zoe",
       "poppy",
       "ahri",
@@ -186,7 +186,7 @@
   {
     "name": "Blademaster",
     "keyword": "blademaster",
-    "heros": [
+    "heroes": [
       "fiora",
       "xayah",
       "shen",
@@ -206,7 +206,7 @@
   {
     "name": "Blaster",
     "keyword": "blaster",
-    "heros": [
+    "heroes": [
       "graves",
       "kogmaw",
       "lucian",
@@ -223,7 +223,7 @@
   {
     "name": "Brawler",
     "keyword": "brawler",
-    "heros": [
+    "heroes": [
       "illaoi",
       "malphite",
       "blitzcrank",
@@ -240,7 +240,7 @@
   {
     "name": "Demolitionist",
     "keyword": "demolitionist",
-    "heros": [
+    "heroes": [
       "ziggs",
       "rumble",
       "gangplank"
@@ -254,7 +254,7 @@
   {
     "name": "Infiltrator",
     "keyword": "infiltrator",
-    "heros": [
+    "heroes": [
       "nocturne",
       "zed",
       "shaco",
@@ -272,7 +272,7 @@
   {
     "name": "Mana-Reaver",
     "keyword": "mana-reaver",
-    "heros": [
+    "heroes": [
       "darius",
       "irelia",
       "thresh"
@@ -286,7 +286,7 @@
   {
     "name": "Mercenary",
     "keyword": "mercenary",
-    "heros": [
+    "heroes": [
       "gangplank"
     ],
     "desc": "",
@@ -298,7 +298,7 @@
   {
     "name": "Mystic",
     "keyword": "mystic",
-    "heros": [
+    "heroes": [
       "bard",
       "cassiopeia",
       "karma",
@@ -315,7 +315,7 @@
   {
     "name": "Paragon",
     "keyword": "paragon",
-    "heros": [
+    "heroes": [
       "janna"
     ],
     "desc": "",
@@ -327,7 +327,7 @@
   {
     "name": "Protector",
     "keyword": "protector",
-    "heros": [
+    "heroes": [
       "jarvaniv",
       "rakan",
       "xinzhao",
@@ -345,7 +345,7 @@
   {
     "name": "Sniper",
     "keyword": "sniper",
-    "heros": [
+    "heroes": [
       "caitlyn",
       "ashe",
       "vayne",
@@ -362,7 +362,7 @@
   {
     "name": "Sorcerer",
     "keyword": "sorcerer",
-    "heros": [
+    "heroes": [
       "zoe",
       "twistedfate",
       "ahri",
@@ -382,7 +382,7 @@
   {
     "name": "Starship",
     "keyword": "starship",
-    "heros": [
+    "heroes": [
       "aurelionsol"
     ],
     "desc": "",
@@ -394,7 +394,7 @@
   {
     "name": "Vanguard",
     "keyword": "vanguard",
-    "heros": [
+    "heroes": [
       "leona",
       "poppy",
       "mordekaiser",

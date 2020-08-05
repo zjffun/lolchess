@@ -2,13 +2,13 @@ const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
-const heros = require("./data/heros-info.json");
+const heroes = require("./data/heroes-info.json");
 
 async function main() {
-  for (const hero of heros) {
+  for (const hero of heroes) {
     const filePath = path.resolve(
       __dirname,
-      "../src/assets/heros/imgs",
+      "../src/assets/heroes/imgs",
       `${hero.keyword}.png`
     );
 

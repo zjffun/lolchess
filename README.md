@@ -34,5 +34,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 2. `ng add @angular/material`
 3. `ng generate @angular/material:navigation navigation`
 4. `ng generate @angular/material:dashboard items`
-4. `ng generate @angular/material:dashboard heros`
+4. `ng generate @angular/material:dashboard heroes`
 4. `ng generate component synergies`

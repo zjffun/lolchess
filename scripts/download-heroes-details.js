@@ -2,14 +2,14 @@ const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
-const infos = require("./data/heros-info.json");
+const infos = require("./data/heroes-info.json");
 const baseURL = "https://lolchess.gg/champions/set3.5";
 
 async function main() {
   for (const info of infos) {
     const filePath = path.resolve(
       __dirname,
-      "../src/assets/heros/details",
+      "../src/assets/heroes/details",
       `${info.keyword}.en.detail`
     );
 

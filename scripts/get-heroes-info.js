@@ -18,7 +18,7 @@ function download(filename, text) {
 }
 
 download(
-  "heros-info.json",
+  "heroes-info.json",
   JSON.stringify(
     Array.from(
       document
