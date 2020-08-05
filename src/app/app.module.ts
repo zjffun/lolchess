@@ -10,18 +10,21 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
+import { MatExpansionModule } from '@angular/material/expansion';
 import { ItemsComponent } from './items/items.component';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { MatCardModule } from '@angular/material/card';
 import { MatMenuModule } from '@angular/material/menu';
 import { HerosComponent } from './heros/heros.component';
+import { SynergiesComponent } from './synergies/synergies.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavigationComponent,
     ItemsComponent,
-    HerosComponent
+    HerosComponent,
+    SynergiesComponent,
   ],
   imports: [
     BrowserModule,
@@ -35,8 +38,9 @@ import { HerosComponent } from './heros/heros.component';
     MatGridListModule,
     MatCardModule,
     MatMenuModule,
+    MatExpansionModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
