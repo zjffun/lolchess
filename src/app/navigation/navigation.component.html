@@ -1,24 +1,35 @@
 <mat-sidenav-container class="sidenav-container">
-  <mat-sidenav #drawer class="sidenav" fixedInViewport [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
-    [mode]="(isHandset$ | async) ? 'over' : 'side'" [opened]="(isHandset$ | async) === false">
+  <mat-sidenav
+    #drawer
+    class="sidenav"
+    fixedInViewport
+    [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+    [mode]="(isHandset$ | async) ? 'over' : 'side'"
+    [opened]="(isHandset$ | async) === false"
+  >
     <mat-toolbar>菜单</mat-toolbar>
     <mat-nav-list>
-      <a mat-list-item href="#">装备</a>
-      <a mat-list-item href="#">特性 & 职业</a>
-      <a mat-list-item href="#">英雄</a>
+      <a mat-list-item routerLink="/items" (click)="drawer.close()">装备</a>
+      <a mat-list-item routerLink="/synergies" (click)="drawer.close()"
+        >特性 & 职业</a
+      >
+      <a mat-list-item routerLink="/heroes" (click)="drawer.close()">英雄</a>
     </mat-nav-list>
   </mat-sidenav>
   <mat-sidenav-content>
     <mat-toolbar color="primary">
-      <button type="button" aria-label="Toggle sidenav" mat-icon-button (click)="drawer.toggle()"
-        *ngIf="isHandset$ | async">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+        *ngIf="isHandset$ | async"
+      >
         <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
       </button>
       <span>云顶之弈助手</span>
     </mat-toolbar>
     <!-- Add Content Here -->
-    <app-items></app-items>
-    <app-synergies></app-synergies>
-    <app-heroes></app-heroes>
+    <ng-content select="[router-outlet]"></ng-content>
   </mat-sidenav-content>
 </mat-sidenav-container>

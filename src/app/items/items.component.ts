@@ -1,6 +1,6 @@
 import { Component, ViewChild, ElementRef } from '@angular/core';
 import { BreakpointObserver } from '@angular/cdk/layout';
-import { createPopper } from '@popperjs/core';
+import { createPopper, popper } from '@popperjs/core';
 import infos from '../../assets/items/infos.en.json';
 
 const firstLine = [0, ...Array.from({ length: 9 }, (_, i) => 1 << (i * 2))];
@@ -22,6 +22,16 @@ export class ItemsComponent {
   @ViewChild('tooltip') tooltip: ElementRef;
 
   currentItem = item;
+
+  popper = null;
+
+  handleDocClick = function (event) {
+    event.stopPropagation();
+    this.currentItem = item;
+    if (this.popper) {
+      this.popper.destroy();
+    }
+  }.bind(this);
 
   itemsList = [
     firstLine.map((itemId) => {
@@ -46,10 +56,19 @@ export class ItemsComponent {
     }),
   ];
 
-  handlePopoverOpened(id, event) {
+  handleItemClick(id, event) {
+    event.stopPropagation();
     this.currentItem = infos.find((info) => info.id === id) || item;
-    createPopper(event.target, this.tooltip.nativeElement, {});
+    this.popper = createPopper(event.target, this.tooltip.nativeElement, {});
   }
 
   constructor(private breakpointObserver: BreakpointObserver) {}
+
+  ngOnInit() {
+    document.addEventListener('click', this.handleDocClick);
+  }
+
+  ngOnDestroy() {
+    document.removeEventListener('click', this.handleDocClick);
+  }
 }

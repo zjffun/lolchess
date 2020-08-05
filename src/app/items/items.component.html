@@ -3,23 +3,33 @@
   <mat-grid-list cols="10">
     <ng-container *ngFor="let items of itemsList">
       <mat-grid-tile *ngFor="let item of items" [colspan]="1" [rowspan]="1">
-        <img class="item-img" [src]="item.src" alt="item.name" (click)="handlePopoverOpened(item.id, $event)">
+        <img
+          class="item-img"
+          [src]="item.src"
+          alt="item.name"
+          (click)="handleItemClick(item.id, $event)"
+        />
       </mat-grid-tile>
     </ng-container>
   </mat-grid-list>
 
-  <div #tooltip class="item">
+  <div
+    #tooltip
+    class="item"
+    [class]="currentItem.id !== -1 ? '' : 'd-none'"
+    (click)="$event.stopPropagation()"
+  >
     <p class="item__name">
-      {{currentItem.name}}
+      {{ currentItem.name }}
     </p>
-    <p class="item__desc">{{currentItem.desc}}</p>
+    <p class="item__desc">{{ currentItem.desc }}</p>
     <ul class="item__attrs">
-      <li *ngFor="let attr of currentItem.attrs">{{attr}}</li>
+      <li *ngFor="let attr of currentItem.attrs">{{ attr }}</li>
     </ul>
     <div class="item__raw">
-      {{currentItem.raws[0]}}
+      {{ currentItem.raws[0] }}
       <ng-container *ngFor="let raw of currentItem.raws.slice(1)">
-        + {{raw}}
+        + {{ raw }}
       </ng-container>
     </div>
   </div>

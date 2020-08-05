@@ -36,3 +36,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 4. `ng generate @angular/material:dashboard items`
 4. `ng generate @angular/material:dashboard heroes`
 4. `ng generate component synergies`
+4. `ng generate module app-routing --flat --module=app`

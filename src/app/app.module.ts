@@ -17,6 +17,7 @@ import { MatCardModule } from '@angular/material/card';
 import { MatMenuModule } from '@angular/material/menu';
 import { HeroesComponent } from './heroes/heroes.component';
 import { SynergiesComponent } from './synergies/synergies.component';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -39,6 +40,7 @@ import { SynergiesComponent } from './synergies/synergies.component';
     MatCardModule,
     MatMenuModule,
     MatExpansionModule,
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
