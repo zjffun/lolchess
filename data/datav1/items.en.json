@@ -1,0 +1,675 @@
+[
+  {
+    "id": 1,
+    "name": "B.F. Sword",
+    "raws": [
+      1
+    ],
+    "desc": "",
+    "attrs": [
+      "+15 Attack Damage"
+    ]
+  },
+  {
+    "id": 1024,
+    "name": "Tear of the Goddess",
+    "raws": [
+      1024
+    ],
+    "desc": "",
+    "attrs": [
+      "+15 Mana"
+    ]
+  },
+  {
+    "id": 1025,
+    "name": "Spear of Shojin",
+    "raws": [
+      1,
+      1024
+    ],
+    "desc": "After first casting their spell, the holder's basic attacks restore 18% of their maximum mana on-hit",
+    "attrs": [
+      "+15 Attack Damage",
+      "+15 Mana"
+    ]
+  },
+  {
+    "id": 1028,
+    "name": "Statikk Shiv",
+    "raws": [
+      4,
+      1024
+    ],
+    "desc": "Every third Basic Attack from the wearer deals 90 magic damage to 3/4/5 enemies.",
+    "attrs": [
+      "+15% Attack Speed",
+      "+15 Mana"
+    ]
+  },
+  {
+    "id": 1040,
+    "name": "Frozen Heart",
+    "raws": [
+      16,
+      1024
+    ],
+    "desc": "Angrenzende Gegner verlieren 50% Angriffstempo. (Stacking increases the radius of this effect, not the amount of the slow)",
+    "attrs": [
+      "+25 Armor",
+      "+15 Mana"
+    ]
+  },
+  {
+    "id": 1088,
+    "name": "Chalice of Power",
+    "raws": [
+      64,
+      1024
+    ],
+    "desc": "At start of combat, the holder and their left and right neighbors gain 30 AP for 20 seconds.",
+    "attrs": [
+      "+25 Magic Resist",
+      "+15 Mana"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Dragon's Claw",
+    "raws": [
+      64,
+      64
+    ],
+    "desc": "Reduces incoming magic damage by 50%",
+    "attrs": [
+      "+25 Magic Resist",
+      "+25 Magic Resist"
+    ]
+  },
+  {
+    "id": 1280,
+    "name": "Luden's Echo",
+    "raws": [
+      256,
+      1024
+    ],
+    "desc": "When the wearer casts their spell, the first target dealt magic damage and up to 3 nearby enemies are dealt an additional 200 magic damage.",
+    "attrs": [
+      "+20% Spell Power",
+      "+15 Mana"
+    ]
+  },
+  {
+    "id": 131072,
+    "name": "Thief's Gloves",
+    "raws": [
+      65536,
+      65536
+    ],
+    "desc": "Each planning phase, fetch two temporary items, quality based upon your player level. [Consumes Three item Slots]",
+    "attrs": [
+      "+10% Dodge change, +10% Crit chance",
+      "+10% Dodge change, +10% Crit chance"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Chain Vest",
+    "raws": [
+      16
+    ],
+    "desc": "",
+    "attrs": [
+      "+25 Armor"
+    ]
+  },
+  {
+    "id": 16384,
+    "name": "Spatula",
+    "raws": [
+      16384
+    ],
+    "desc": "",
+    "attrs": [
+      "You will get a special ability"
+    ]
+  },
+  {
+    "id": 16385,
+    "name": "Blade of the Ruined King",
+    "raws": [
+      1,
+      16384
+    ],
+    "desc": "Wearer is also a Blademaster",
+    "attrs": [
+      "+15 Attack Damage"
+    ]
+  },
+  {
+    "id": 16388,
+    "name": "Infiltrator's Talons",
+    "raws": [
+      4,
+      16384
+    ],
+    "desc": "The wearer gains the Infiltrator trait.",
+    "attrs": [
+      "+15% Attack Speed"
+    ]
+  },
+  {
+    "id": 16400,
+    "name": "Rebel Medal",
+    "raws": [
+      16,
+      16384
+    ],
+    "desc": "The wearer gains the Rebel trait.",
+    "attrs": [
+      "+25 Armor"
+    ]
+  },
+  {
+    "id": 16448,
+    "name": "Celestial Orb",
+    "raws": [
+      64,
+      16384
+    ],
+    "desc": "The wearer gains the Celestial trait.",
+    "attrs": [
+      "+25 Magic Resist"
+    ]
+  },
+  {
+    "id": 16640,
+    "name": "BattlecastArmor",
+    "raws": [
+      256,
+      16384
+    ],
+    "desc": "The wearer gains the Battlecast trait.",
+    "attrs": [
+      "+20% Spell Power"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Guardian Angel",
+    "raws": [
+      1,
+      16
+    ],
+    "desc": "Wearer revives with 400 HP",
+    "attrs": [
+      "+15 Attack Damage",
+      "+25 Armor"
+    ]
+  },
+  {
+    "id": 17408,
+    "name": "Star Guardian's Charm",
+    "raws": [
+      1024,
+      16384
+    ],
+    "desc": "The wearer gains the Star Guardian trait.",
+    "attrs": [
+      "+15 Mana"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Deathblade",
+    "raws": [
+      1,
+      1
+    ],
+    "desc": "Contributing to a kill grants +25 Attack Damage for the remainder of combat. This effect can stack any number of times (starting at 2).",
+    "attrs": [
+      "+15 Attack Damage",
+      "+15 Attack Damage"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Titan’s Resolve",
+    "raws": [
+      4,
+      16
+    ],
+    "desc": "When the wearer takes damage or inflicts a critical hit, they gain a 2% stacking damage bonus. Stacks up to 50 times, at which point the wearer gains 25 Armor and Magic Resistance, and increases in size.",
+    "attrs": [
+      "+15% Attack Speed",
+      "+25 Armor"
+    ]
+  },
+  {
+    "id": 2048,
+    "name": "BlueSentinel",
+    "raws": [
+      1024,
+      1024
+    ],
+    "desc": "[Unique] Sets holder's mana to 20 after each cast.",
+    "attrs": [
+      "+15 Mana",
+      "+15 Mana"
+    ]
+  },
+  {
+    "id": 20480,
+    "name": "Protector's Chestguard",
+    "raws": [
+      4096,
+      16384
+    ],
+    "desc": "The wearer gains the Protector trait.",
+    "attrs": [
+      "+200 Health"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Needlessly Large Rod",
+    "raws": [
+      256
+    ],
+    "desc": "",
+    "attrs": [
+      "+20% Spell Power"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Hextech Gunblade",
+    "raws": [
+      1,
+      256
+    ],
+    "desc": "45% healing from spell damage.",
+    "attrs": [
+      "+15 Attack Damage",
+      "+20% Spell Power"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Guinsoo's Rageblade",
+    "raws": [
+      4,
+      256
+    ],
+    "desc": "Basic Attacks grant +5% bonus Attack Speed for the rest of combat. No stacking limit.",
+    "attrs": [
+      "+15% Attack Speed",
+      "+20% Spell Power"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Locket of the Iron Solari",
+    "raws": [
+      16,
+      256
+    ],
+    "desc": "Shields allies within two hexes in the same row for 250 / 275 / 350 damage for 8 seconds (scales with wearer’s Star Level)",
+    "attrs": [
+      "+25 Armor",
+      "+20% Spell Power"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Bramble Vest",
+    "raws": [
+      16,
+      16
+    ],
+    "desc": "Negates bonus damage from incoming critical hits. On being hit by a Basic Attack, deal 100 / 140 / 200 magic damage to all nearby enemies (once every 2.5 second maximum). Scales with wearer’s Star Level.",
+    "attrs": [
+      "+25 Armor",
+      "+25 Armor"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Ionic Spark",
+    "raws": [
+      64,
+      256
+    ],
+    "desc": "Enemies within 2 hexes have their Magic Resist reduced by 40% (does not stack). When they cast a spell, they are zapped taking magic damage equal to 225% of their max Mana.",
+    "attrs": [
+      "+25 Magic Resist",
+      "+20% Spell Power"
+    ]
+  },
+  {
+    "id": 32768,
+    "name": "Force of Nature",
+    "raws": [
+      16384,
+      16384
+    ],
+    "desc": "Gain +1 team size",
+    "attrs": []
+  },
+  {
+    "id": 4,
+    "name": "Recurve Bow",
+    "raws": [
+      4
+    ],
+    "desc": "",
+    "attrs": [
+      "+15% Attack Speed"
+    ]
+  },
+  {
+    "id": 4096,
+    "name": "Giant's Belt",
+    "raws": [
+      4096
+    ],
+    "desc": "",
+    "attrs": [
+      "+200 Health"
+    ]
+  },
+  {
+    "id": 4097,
+    "name": "Zeke's Herald",
+    "raws": [
+      1,
+      4096
+    ],
+    "desc": "When combat begins, the wearer and all allies within 1 hex in the same row gain +30% Attack Speed for the rest of combat.",
+    "attrs": [
+      "+15 Attack Damage",
+      "+200 Health"
+    ]
+  },
+  {
+    "id": 4100,
+    "name": "Zz'Rot Portal",
+    "raws": [
+      4,
+      4096
+    ],
+    "desc": "When the wearer dies, a Construct with 1500/2250/3000 ★ Health aries to continue the fight.",
+    "attrs": [
+      "+15% Attack Speed",
+      "+200 Health"
+    ]
+  },
+  {
+    "id": 4112,
+    "name": "Red Buff",
+    "raws": [
+      16,
+      4096
+    ],
+    "desc": "Gains 10% max hp true damage over 4 seconds on hit in addition to its burn. And reducing healing by 50% for the duration of the burn.",
+    "attrs": [
+      "+25 Armor",
+      "+200 Health"
+    ]
+  },
+  {
+    "id": 4160,
+    "name": "Zephyr",
+    "raws": [
+      64,
+      4096
+    ],
+    "desc": "When combat begins, the wearer summons a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds.",
+    "attrs": [
+      "+25 Magic Resist",
+      "+200 Health"
+    ]
+  },
+  {
+    "id": 4352,
+    "name": "Morellonomicon",
+    "raws": [
+      256,
+      4096
+    ],
+    "desc": "When the wearer deals damage with their spell, they burn the target, dealing 25% of the target's Maximum Health as true damage over 10 seconds and reducing healing by 50% for the duration of the burn.",
+    "attrs": [
+      "+20% Spell Power",
+      "+200 Health"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Giant Slayer",
+    "raws": [
+      1,
+      4
+    ],
+    "desc": "The holder's spells and basic attacks do 20% bonus true damage. if the target has more than 1750 maximum Health, the bonus increases to 80%",
+    "attrs": [
+      "+15 Attack Damage",
+      "+15% Attack Speed"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Rabadon's Deathcap",
+    "raws": [
+      256,
+      256
+    ],
+    "desc": "Wearer's Spell Power stat is amplified by 50%",
+    "attrs": [
+      "+20% Spell Power",
+      "+20% Spell Power"
+    ]
+  },
+  {
+    "id": 5120,
+    "name": "Redemption",
+    "raws": [
+      1024,
+      4096
+    ],
+    "desc": "When the wearer dies, allies are healed for 800 Health.",
+    "attrs": [
+      "+15 Mana",
+      "+200 Health"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Negatron Cloak",
+    "raws": [
+      64
+    ],
+    "desc": "",
+    "attrs": [
+      "+25 Magic Resist"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Bloodthirster",
+    "raws": [
+      1,
+      64
+    ],
+    "desc": "Basic Attacks heal the wearer for 45% of the damage dealt.",
+    "attrs": [
+      "+15 Attack Damage",
+      "+25 Magic Resist"
+    ]
+  },
+  {
+    "id": 65536,
+    "name": "Sparring Gloves",
+    "raws": [
+      65536
+    ],
+    "desc": "",
+    "attrs": [
+      "+10% Dodge change, +10% Crit chance"
+    ]
+  },
+  {
+    "id": 65537,
+    "name": "Infinity Edge",
+    "raws": [
+      1,
+      65536
+    ],
+    "desc": "[Unique] The holder gains 20% bonus critical strike damage, and 100% critical hit chance.",
+    "attrs": [
+      "+15 Attack Damage",
+      "+20% Crit Chance"
+    ]
+  },
+  {
+    "id": 65540,
+    "name": "Last Whisper",
+    "raws": [
+      4,
+      65536
+    ],
+    "desc": "When the wearer inflicts a critical hit, the target's Armor is reduced by 75% for 3 seconds. This effect does not stack",
+    "attrs": [
+      "+15% Attack Speed",
+      "+20% Crit Chance"
+    ]
+  },
+  {
+    "id": 65552,
+    "name": "Shroud of Stillness",
+    "raws": [
+      16,
+      65536
+    ],
+    "desc": "When combat begins, shoots a beam straight ahead that delays affected enemies' first spellcast, increasing their max Mana by 40% until they cast.",
+    "attrs": [
+      "+25 Armor",
+      "+10% Dodge change, +10% Crit chance"
+    ]
+  },
+  {
+    "id": 65600,
+    "name": "Quicksilver",
+    "raws": [
+      64,
+      65536
+    ],
+    "desc": "[UNIQUE] The wearer is immute to croud control for the first 10 seconds of combat",
+    "attrs": [
+      "+25 Magic Resist",
+      "+20% Dodge Chance"
+    ]
+  },
+  {
+    "id": 65792,
+    "name": "Jeweled Gauntlet",
+    "raws": [
+      256,
+      65536
+    ],
+    "desc": "Holder’s spells can crit and holder gains +30% Critical Strike Damage.",
+    "attrs": [
+      "+20% Spell Power",
+      "+20% Crit Chance"
+    ]
+  },
+  {
+    "id": 66560,
+    "name": "Hand of Justice",
+    "raws": [
+      1024,
+      65536
+    ],
+    "desc": "At the begining of Each planning phase, gain one: Deal +50% more damage / Basic Attack heal 50 health on Hit",
+    "attrs": [
+      "+15 Mana",
+      "+20% Crit Chance"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Runaan's Hurricane",
+    "raws": [
+      4,
+      64
+    ],
+    "desc": "Basic Attacks fire a bolt at another nearby enemy, dealing 70% of the wearer's Attack Damage and applying on-hit effects.",
+    "attrs": [
+      "+15% Attack Speed",
+      "+25 Magic Resist"
+    ]
+  },
+  {
+    "id": 69632,
+    "name": "Trap Claw",
+    "raws": [
+      4096,
+      65536
+    ],
+    "desc": "Start combat with a spell shield. Stun the champion that breaks it for 4 sec",
+    "attrs": [
+      "+200 Health",
+      "+20% Dodge Chance"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Rapid Firecannon",
+    "raws": [
+      4,
+      4
+    ],
+    "desc": "+200% Range and holder’s attacks can’t miss.",
+    "attrs": [
+      "+15% Attack Speed",
+      "+15% Attack Speed"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Sword Breaker",
+    "raws": [
+      16,
+      64
+    ],
+    "desc": "25% chance to disarm for 3 seconds",
+    "attrs": [
+      "+25 Armor",
+      "+25 Magic Resist"
+    ]
+  },
+  {
+    "id": 8192,
+    "name": "Warmog's Armor",
+    "raws": [
+      4096,
+      4096
+    ],
+    "desc": "+600 Additional Health.",
+    "attrs": [
+      "+200 Health",
+      "+200 Health"
+    ]
+  },
+  {
+    "id": 81920,
+    "name": "Dark Star's Heart",
+    "raws": [
+      16384,
+      65536
+    ],
+    "desc": "The wearer gains the Dark Star trait.",
+    "attrs": [
+      "+10% Dodge change, +10% Crit chance"
+    ]
+  }
+]
