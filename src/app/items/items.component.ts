@@ -1,7 +1,7 @@
 import { Component, ViewChild, ElementRef } from '@angular/core';
 import { BreakpointObserver } from '@angular/cdk/layout';
 import { createPopper, popper } from '@popperjs/core';
-import infos from '../../assets/items/infos.en.json';
+import items from '../../assets/items.zh-CN.json';
 
 const firstLine = [0, ...Array.from({ length: 9 }, (_, i) => 1 << (i * 2))];
 
@@ -38,7 +38,7 @@ export class ItemsComponent {
       return {
         id: itemId,
         src: `/assets/items/imgs/${itemId}.png`,
-        info: infos.find((info) => info.id === itemId),
+        info: items.find((info) => info.id === itemId),
       };
     }),
     ...Array.from({ length: 9 }, (_, i) => {
@@ -49,7 +49,7 @@ export class ItemsComponent {
           return {
             id: itemId,
             src: `/assets/items/imgs/${itemId}.png`,
-            info: infos.find((info) => info.id === itemId),
+            info: items.find((info) => info.id === itemId),
           };
         }),
       ];
@@ -58,7 +58,7 @@ export class ItemsComponent {
 
   handleItemClick(id, event) {
     event.stopPropagation();
-    this.currentItem = infos.find((info) => info.id === id) || item;
+    this.currentItem = items.find((info) => info.id === id) || item;
     this.popper = createPopper(event.target, this.tooltip.nativeElement, {});
   }
 
