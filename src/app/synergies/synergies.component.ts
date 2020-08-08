@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import synergies from '../../assets/synergies/infos.en.json';
+import synergies from '../../assets/synergies.zh-CN.json';
 
 @Component({
   selector: 'app-synergies',
@@ -8,7 +8,14 @@ import synergies from '../../assets/synergies/infos.en.json';
   styleUrls: ['./synergies.component.css'],
 })
 export class SynergiesComponent implements OnInit {
-  synergies = synergies;
+  synergies = synergies.map((synergy) => {
+    return {
+      ...synergy,
+      stats: Object.entries(synergy.stats).map(
+        (stat) => `【${stat[0]}】${stat[1]}`
+      ),
+    };
+  });
 
   panelOpenState = false;
 
