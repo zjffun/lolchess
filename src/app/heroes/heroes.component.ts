@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { map } from 'rxjs/operators';
 import { Breakpoints, BreakpointObserver } from '@angular/cdk/layout';
-import heroes from '../../assets/heroes/details.en.json';
+import heroes from '../../assets/heroes.zh-CN.json';
 
 @Component({
   selector: 'app-heroes',

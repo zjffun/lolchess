@@ -13,7 +13,7 @@ const heroesResult = heroes.map((hero) => {
   return {
     keyword: v1.keyword,
     armor: lq.armor, // 防御
-    attack: lq.attack,
+    magicResistance: lq.spellBlock,
     attackDamage: lq.attackData,
     attackMag: lq.attackMag,
     attackRange: lq.attackRange,
@@ -23,14 +23,13 @@ const heroesResult = heroes.map((hero) => {
     illustrate: lq.illustrate,
     health: lq.lifeData,
     healthMag: lq.lifeMag,
-    magic: lq.magic,
+    mana: lq.magic,
+    startMana: lq.startMagic,
     price: lq.price,
     proStatus: lq.proStatus,
     skillDetail: lq.skillDetail,
-    spellBlock: lq.spellBlock,
     skillName: lq.skillName,
     skillType: lq.skillType,
-    startMagic: lq.startMagic,
     title: lq.title,
   };
 });

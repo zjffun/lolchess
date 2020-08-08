@@ -18,6 +18,7 @@ import { MatMenuModule } from '@angular/material/menu';
 import { HeroesComponent } from './heroes/heroes.component';
 import { SynergiesComponent } from './synergies/synergies.component';
 import { AppRoutingModule } from './app-routing.module';
+import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { AppRoutingModule } from './app-routing.module';
     ItemsComponent,
     HeroesComponent,
     SynergiesComponent,
+    HeroDetailComponent,
   ],
   imports: [
     BrowserModule,
