@@ -10,8 +10,8 @@ const routes: Routes = [
   { path: 'items', component: ItemsComponent },
   { path: 'hero/:keyword', component: HeroDetailComponent },
   { path: 'synergies', component: SynergiesComponent },
-  { path: '', redirectTo: '/itmes', pathMatch: 'full' },
-  { path: '**', redirectTo: '/itmes' },
+  { path: '', redirectTo: '/items', pathMatch: 'full' },
+  { path: '**', redirectTo: '/items' },
 ];
 
 @NgModule({
