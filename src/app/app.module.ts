@@ -22,6 +22,8 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { HeroFigureComponent } from './hero-figure/hero-figure.component';
+import { ItemDetailComponent } from './item-detail/item-detail.component';
+import { ItemFigureComponent } from './item-figure/item-figure.component';
 
 @NgModule({
   declarations: [
@@ -32,6 +34,8 @@ import { HeroFigureComponent } from './hero-figure/hero-figure.component';
     SynergiesComponent,
     HeroDetailComponent,
     HeroFigureComponent,
+    ItemDetailComponent,
+    ItemFigureComponent,
   ],
   imports: [
     BrowserModule,

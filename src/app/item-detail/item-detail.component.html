@@ -1,0 +1,21 @@
+<article class="item">
+  <h4 class="item__name">
+    {{ item.name }}
+  </h4>
+  <p class="item__desc">{{ item.desc }}</p>
+  <ul class="item__attrs">
+    <li *ngFor="let attr of item.attrs">{{ attr }}</li>
+  </ul>
+  <p>lolqq 适合英雄</p>
+  <ul class="hero-list">
+    <li class="hero-list__item" *ngFor="let hero of item.lolqqheroes">
+      <app-hero-figure [hero-keyword]="hero" size="sm"></app-hero-figure>
+    </li>
+  </ul>
+  <p>lolchess 适合英雄</p>
+  <ul class="hero-list">
+    <li class="hero-list__item" *ngFor="let hero of item.lolchessheroes">
+      <app-hero-figure [hero-keyword]="hero" size="sm"></app-hero-figure>
+    </li>
+  </ul>
+</article>

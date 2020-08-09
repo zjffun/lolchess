@@ -46,19 +46,15 @@ export class ItemsComponent {
       return [
         ...Array.from({ length: 10 }, (_, i2) => {
           let itemId = firstLine[i2] + t;
-          return {
-            id: itemId,
-            src: `/assets/items/imgs/${itemId}.png`,
-            info: items.find((info) => info.id === itemId),
-          };
+          return items.find((info) => info.id === itemId);
         }),
       ];
     }),
   ];
 
-  handleItemClick(id, event) {
+  handleItemClick(item, event) {
     event.stopPropagation();
-    this.currentItem = items.find((info) => info.id === id) || item;
+    this.currentItem = item;
     this.popper = createPopper(event.target, this.tooltip.nativeElement, {});
   }
 

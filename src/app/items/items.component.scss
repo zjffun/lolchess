@@ -1,18 +1,18 @@
-.item {
-  width: 12rem;
+.item-detail {
+  width: 14rem;
+  max-height: 14rem;
   padding: 1rem;
+  overflow: auto;
+
   font-size: 14px;
+
   background: #000;
   color: #fff;
+}
 
-  &-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 4px;
-  }
-
-  &__name {
-  }
+.item-figure {
+  width: 100%;
+  height: 100%;
 }
 
 .grid-container {

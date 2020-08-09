@@ -9,17 +9,23 @@ import heroes from '../../assets/heroes.zh-CN.json';
 export class HeroFigureComponent implements OnInit {
   @Input('hero') hero;
   @Input('hero-keyword') heroKeyword: string;
+  @Input('size') inputSize: string;
+
+  size;
 
   heroInfo;
 
   constructor() {}
 
   ngOnInit(): void {
-    console.log(this.hero, this.heroKeyword);
     if (this.hero) {
       this.heroInfo = this.hero;
     } else {
       this.heroInfo = heroes.find((d) => d.keyword === this.heroKeyword);
+    }
+
+    if (this.inputSize === 'sm') {
+      this.size = 'hero--sm';
     }
   }
 }

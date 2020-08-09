@@ -56,10 +56,10 @@ const itemsResult = items.map((item) => {
     proStatus: lq.proStatus,
     desc: lq.effect,
     attrs: v1.attrs,
-    lolqqheros: heroes
+    lolqqheroes: heroes
       .filter((d) => d.lq.recEquip.split(",").includes(lq.equipId))
       .map((d) => d.v1.keyword),
-    lolchessheros: heroes
+    lolchessheroes: heroes
       .filter((d) => d.v1.recommendItems.includes(v1.id))
       .map((d) => d.v1.keyword),
   };

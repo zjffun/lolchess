@@ -11,8 +11,8 @@
     "attrs": [
       "+15 Attack Damage"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 1024,
@@ -26,8 +26,8 @@
     "attrs": [
       "+15 Mana"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 1025,
@@ -43,7 +43,7 @@
       "+15 Attack Damage",
       "+15 Mana"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "ashe",
       "bard",
       "ezreal",
@@ -54,7 +54,7 @@
       "twistedfate",
       "zoe"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ashe",
       "bard",
       "ezreal",
@@ -85,10 +85,10 @@
       "+15% Attack Speed",
       "+15 Mana"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "kogmaw"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ashe",
       "kogmaw",
       "thresh",
@@ -109,12 +109,12 @@
       "+25 Armor",
       "+15 Mana"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "gnar",
       "monkeyking",
       "vi"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ekko",
       "fizz",
       "gnar",
@@ -140,13 +140,13 @@
       "+25 Magic Resist",
       "+15 Mana"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "ahri",
       "blitzcrank",
       "janna",
       "zoe"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ahri",
       "bard",
       "janna",
@@ -171,13 +171,13 @@
       "+25 Magic Resist",
       "+25 Magic Resist"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "gnar",
       "jayce",
       "malphite",
       "xinzhao"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "gnar",
       "jayce",
       "monkeyking",
@@ -200,11 +200,11 @@
       "+20% Spell Power",
       "+15 Mana"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "ezreal",
       "riven"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ahri",
       "aurelionsol",
       "cassiopeia",
@@ -229,8 +229,8 @@
       "+10% Dodge change, +10% Crit chance",
       "+10% Dodge change, +10% Crit chance"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 16,
@@ -244,8 +244,8 @@
     "attrs": [
       "+25 Armor"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 16384,
@@ -259,8 +259,8 @@
     "attrs": [
       "You will get a special ability"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 16385,
@@ -275,8 +275,8 @@
     "attrs": [
       "+15 Attack Damage"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 16388,
@@ -291,8 +291,8 @@
     "attrs": [
       "+15% Attack Speed"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 16400,
@@ -307,8 +307,8 @@
     "attrs": [
       "+25 Armor"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 16448,
@@ -323,8 +323,8 @@
     "attrs": [
       "+25 Magic Resist"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 16640,
@@ -339,8 +339,8 @@
     "attrs": [
       "+20% Spell Power"
     ],
-    "lolqqheros": [],
-    "lolchessheros": [
+    "lolqqheroes": [],
+    "lolchessheroes": [
       "blitzcrank",
       "ezreal",
       "graves",
@@ -361,7 +361,7 @@
       "+15 Attack Damage",
       "+25 Armor"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "darius",
       "fiora",
       "gangplank",
@@ -382,7 +382,7 @@
       "yasuo",
       "zed"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "darius",
       "gangplank",
       "irelia",
@@ -411,8 +411,8 @@
     "attrs": [
       "+15 Mana"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 2,
@@ -428,8 +428,8 @@
       "+15 Attack Damage",
       "+15 Attack Damage"
     ],
-    "lolqqheros": [],
-    "lolchessheros": [
+    "lolqqheroes": [],
+    "lolchessheroes": [
       "irelia",
       "jhin",
       "kogmaw",
@@ -452,13 +452,13 @@
       "+15% Attack Speed",
       "+25 Armor"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "annie",
       "fizz",
       "rumble",
       "xinzhao"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "annie",
       "rumble",
       "xinzhao"
@@ -478,7 +478,7 @@
       "+15 Mana",
       "+15 Mana"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "aurelionsol",
       "bard",
       "cassiopeia",
@@ -488,7 +488,7 @@
       "viktor",
       "ziggs"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ashe",
       "aurelionsol",
       "bard",
@@ -518,8 +518,8 @@
     "attrs": [
       "+200 Health"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 256,
@@ -533,8 +533,8 @@
     "attrs": [
       "+20% Spell Power"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 257,
@@ -550,8 +550,8 @@
       "+15 Attack Damage",
       "+20% Spell Power"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 260,
@@ -567,13 +567,13 @@
       "+15% Attack Speed",
       "+20% Spell Power"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "ashe",
       "caitlyn",
       "masteryi",
       "xerath"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ashe",
       "bard",
       "masteryi",
@@ -595,12 +595,12 @@
       "+25 Armor",
       "+20% Spell Power"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "illaoi",
       "jarvaniv",
       "shen"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "fiora",
       "jarvaniv",
       "vi",
@@ -621,7 +621,7 @@
       "+25 Armor",
       "+25 Armor"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "annie",
       "fizz",
       "illaoi",
@@ -635,7 +635,7 @@
       "shen",
       "xinzhao"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "annie",
       "gnar",
       "illaoi",
@@ -666,7 +666,7 @@
       "+25 Magic Resist",
       "+20% Spell Power"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "blitzcrank",
       "ekko",
       "fiora",
@@ -680,7 +680,7 @@
       "rakan",
       "vi"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "annie",
       "darius",
       "ekko",
@@ -716,8 +716,8 @@
     "proStatus": "无",
     "desc": "可上阵人数+1。",
     "attrs": [],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 4,
@@ -731,8 +731,8 @@
     "attrs": [
       "+15% Attack Speed"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 4096,
@@ -746,8 +746,8 @@
     "attrs": [
       "+200 Health"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 4097,
@@ -763,8 +763,8 @@
       "+15 Attack Damage",
       "+200 Health"
     ],
-    "lolqqheros": [],
-    "lolchessheros": [
+    "lolqqheroes": [],
+    "lolchessheroes": [
       "karma",
       "nocturne",
       "yasuo",
@@ -785,14 +785,14 @@
       "+15% Attack Speed",
       "+200 Health"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "illaoi",
       "jarvaniv",
       "leona",
       "mordekaiser",
       "shen"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "annie",
       "blitzcrank",
       "illaoi",
@@ -819,13 +819,13 @@
       "+25 Armor",
       "+200 Health"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "graves",
       "jinx",
       "kogmaw",
       "lucian"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ekko",
       "ezreal",
       "graves",
@@ -848,13 +848,13 @@
       "+25 Magic Resist",
       "+200 Health"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "janna",
       "karma",
       "nautilus",
       "thresh"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "bard",
       "blitzcrank",
       "caitlyn",
@@ -884,7 +884,7 @@
       "+20% Spell Power",
       "+200 Health"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "ahri",
       "aurelionsol",
       "cassiopeia",
@@ -897,7 +897,7 @@
       "twistedfate",
       "viktor"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ahri",
       "aurelionsol",
       "cassiopeia",
@@ -929,14 +929,14 @@
       "+15 Attack Damage",
       "+15% Attack Speed"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "graves",
       "jinx",
       "lucian",
       "vayne",
       "xayah"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ahri",
       "caitlyn",
       "jhin",
@@ -961,7 +961,7 @@
       "+20% Spell Power",
       "+20% Spell Power"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "aurelionsol",
       "darius",
       "ekko",
@@ -976,7 +976,7 @@
       "ziggs",
       "zoe"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "aurelionsol",
       "cassiopeia",
       "darius",
@@ -1007,11 +1007,11 @@
       "+15 Mana",
       "+200 Health"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "leona",
       "nautilus"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "blitzcrank",
       "fiora",
       "graves",
@@ -1034,8 +1034,8 @@
     "attrs": [
       "+25 Magic Resist"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 65,
@@ -1051,8 +1051,8 @@
       "+15 Attack Damage",
       "+25 Magic Resist"
     ],
-    "lolqqheros": [],
-    "lolchessheros": [
+    "lolqqheroes": [],
+    "lolchessheroes": [
       "shaco"
     ]
   },
@@ -1068,8 +1068,8 @@
     "attrs": [
       "+10% Dodge change, +10% Crit chance"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   },
   {
     "id": 65537,
@@ -1085,7 +1085,7 @@
       "+15 Attack Damage",
       "+20% Crit Chance"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "irelia",
       "jhin",
       "nocturne",
@@ -1095,7 +1095,7 @@
       "yasuo",
       "zed"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "caitlyn",
       "darius",
       "irelia",
@@ -1125,13 +1125,13 @@
       "+15% Attack Speed",
       "+20% Crit Chance"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "irelia",
       "jhin",
       "vayne",
       "xayah"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "caitlyn",
       "irelia",
       "jhin",
@@ -1156,8 +1156,8 @@
       "+25 Armor",
       "+10% Dodge change, +10% Crit chance"
     ],
-    "lolqqheros": [],
-    "lolchessheros": [
+    "lolqqheroes": [],
+    "lolchessheroes": [
       "blitzcrank",
       "fiora",
       "illaoi",
@@ -1182,7 +1182,7 @@
       "+25 Magic Resist",
       "+20% Dodge Chance"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "annie",
       "fizz",
       "masteryi",
@@ -1190,7 +1190,7 @@
       "urgot",
       "xerath"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "annie",
       "janna",
       "masteryi",
@@ -1214,11 +1214,11 @@
       "+20% Spell Power",
       "+20% Crit Chance"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "ahri",
       "darius"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ahri",
       "aurelionsol",
       "darius",
@@ -1246,11 +1246,11 @@
       "+15 Mana",
       "+20% Crit Chance"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "fiora",
       "yasuo"
     ],
-    "lolchessheros": []
+    "lolchessheroes": []
   },
   {
     "id": 68,
@@ -1266,11 +1266,11 @@
       "+15% Attack Speed",
       "+25 Magic Resist"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "bard",
       "caitlyn"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "ashe",
       "caitlyn",
       "janna",
@@ -1295,10 +1295,10 @@
       "+200 Health",
       "+20% Dodge Chance"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "caitlyn"
     ],
-    "lolchessheros": []
+    "lolchessheroes": []
   },
   {
     "id": 8,
@@ -1314,7 +1314,7 @@
       "+15% Attack Speed",
       "+15% Attack Speed"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "cassiopeia",
       "graves",
       "masteryi",
@@ -1323,7 +1323,7 @@
       "soraka",
       "zed"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "cassiopeia",
       "masteryi",
       "shaco",
@@ -1346,8 +1346,8 @@
       "+25 Armor",
       "+25 Magic Resist"
     ],
-    "lolqqheros": [],
-    "lolchessheros": [
+    "lolqqheroes": [],
+    "lolchessheroes": [
       "ezreal"
     ]
   },
@@ -1365,11 +1365,11 @@
       "+200 Health",
       "+200 Health"
     ],
-    "lolqqheros": [
+    "lolqqheroes": [
       "blitzcrank",
       "malphite"
     ],
-    "lolchessheros": [
+    "lolchessheroes": [
       "gnar",
       "illaoi",
       "jarvaniv",
@@ -1394,7 +1394,7 @@
     "attrs": [
       "+10% Dodge change, +10% Crit chance"
     ],
-    "lolqqheros": [],
-    "lolchessheros": []
+    "lolqqheroes": [],
+    "lolchessheroes": []
   }
 ]
