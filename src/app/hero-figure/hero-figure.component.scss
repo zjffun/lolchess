@@ -1,0 +1,10 @@
+.hero {
+  width: 4rem;
+  text-align: center;
+  &__avatar {
+    width: 80%;
+  }
+  &__name {
+    font-size: 0.8rem;
+  }
+}

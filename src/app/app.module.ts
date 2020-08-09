@@ -21,6 +21,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
+import { HeroFigureComponent } from './hero-figure/hero-figure.component';
 
 @NgModule({
   declarations: [
@@ -30,6 +31,7 @@ import { environment } from '../environments/environment';
     HeroesComponent,
     SynergiesComponent,
     HeroDetailComponent,
+    HeroFigureComponent,
   ],
   imports: [
     BrowserModule,

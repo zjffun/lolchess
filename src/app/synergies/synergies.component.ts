@@ -5,7 +5,7 @@ import synergies from '../../assets/synergies.zh-CN.json';
 @Component({
   selector: 'app-synergies',
   templateUrl: './synergies.component.html',
-  styleUrls: ['./synergies.component.css'],
+  styleUrls: ['./synergies.component.scss'],
 })
 export class SynergiesComponent implements OnInit {
   synergies = synergies.map((synergy) => {

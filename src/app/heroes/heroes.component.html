@@ -1,13 +1,10 @@
 <div class="grid-container">
   <h1 class="mat-h1">英雄</h1>
   <div class="heroes">
-    <figure
-      class="hero"
+    <app-hero-figure
       *ngFor="let hero of heroes"
-      [routerLink]="['/hero', hero.keyword]"
-    >
-      <img [src]="hero.avatarSrc" [alt]="hero.name" class="hero__avatar" />
-      <figcaption class="hero__name">{{ hero.displayName }}</figcaption>
-    </figure>
+      [hero]="hero"
+      class="hero"
+    ></app-hero-figure>
   </div>
 </div>

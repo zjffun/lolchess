@@ -15,8 +15,10 @@
       <ul *ngFor="let stat of synergy.stats">
         <li>{{ stat }}</li>
       </ul>
-      <ul *ngFor="let hero of synergy.heroes">
-        <li>{{ hero }}</li>
+      <ul class="hero-list">
+        <li class="hero-list__item" *ngFor="let hero of synergy.heroes">
+          <app-hero-figure [hero-keyword]="hero"></app-hero-figure>
+        </li>
       </ul>
     </mat-expansion-panel>
   </mat-accordion>
