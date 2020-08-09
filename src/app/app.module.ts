@@ -19,6 +19,8 @@ import { HeroesComponent } from './heroes/heroes.component';
 import { SynergiesComponent } from './synergies/synergies.component';
 import { AppRoutingModule } from './app-routing.module';
 import { HeroDetailComponent } from './hero-detail/hero-detail.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -43,6 +45,7 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
     MatMenuModule,
     MatExpansionModule,
     AppRoutingModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
   ],
   providers: [],
   bootstrap: [AppComponent],
