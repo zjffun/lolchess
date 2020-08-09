@@ -4,12 +4,41 @@ import { HeroesComponent } from './heroes/heroes.component';
 import { ItemsComponent } from './items/items.component';
 import { SynergiesComponent } from './synergies/synergies.component';
 import { HeroDetailComponent } from './hero-detail/hero-detail.component';
+import { NavigationComponent } from './navigation/navigation.component';
 
 const routes: Routes = [
-  { path: 'heroes', component: HeroesComponent },
-  { path: 'items', component: ItemsComponent },
+  {
+    path: 'heroes',
+    component: NavigationComponent,
+    children: [
+      {
+        path: '**',
+        component: HeroesComponent,
+      },
+    ],
+  },
+  {
+    path: 'items',
+    component: NavigationComponent,
+    children: [
+      {
+        path: '**',
+        component: ItemsComponent,
+      },
+    ],
+  },
+  {
+    path: 'synergies',
+
+    component: NavigationComponent,
+    children: [
+      {
+        path: '**',
+        component: SynergiesComponent,
+      },
+    ],
+  },
   { path: 'hero/:keyword', component: HeroDetailComponent },
-  { path: 'synergies', component: SynergiesComponent },
   { path: '', redirectTo: '/items', pathMatch: 'full' },
   { path: '**', redirectTo: '/items' },
 ];
