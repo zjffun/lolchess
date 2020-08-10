@@ -1,0 +1,21 @@
+<mat-toolbar class="back-toolbar">
+  <button
+    mat-icon-button
+    class=""
+    aria-label="back to previous page"
+    (click)="goBack()"
+  >
+    <mat-icon>navigate_before</mat-icon>
+  </button>
+  <span>{{ title }}</span>
+  <span class="spacer"></span>
+  <button mat-icon-button class="favorite-icon" aria-label="">
+    <mat-icon>favorite</mat-icon>
+  </button>
+  <button mat-icon-button class="" aria-label="">
+    <mat-icon>share</mat-icon>
+  </button>
+</mat-toolbar>
+<div>
+  <router-outlet></router-outlet>
+</div>

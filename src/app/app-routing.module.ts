@@ -5,6 +5,7 @@ import { ItemsComponent } from './items/items.component';
 import { SynergiesComponent } from './synergies/synergies.component';
 import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 import { NavigationComponent } from './navigation/navigation.component';
+import { BackNavigationComponent } from './back-navigation/back-navigation.component';
 
 const routes: Routes = [
   {
@@ -29,7 +30,6 @@ const routes: Routes = [
   },
   {
     path: 'synergies',
-
     component: NavigationComponent,
     children: [
       {
@@ -38,7 +38,16 @@ const routes: Routes = [
       },
     ],
   },
-  { path: 'hero/:keyword', component: HeroDetailComponent },
+  {
+    path: 'hero',
+    component: BackNavigationComponent,
+    children: [
+      {
+        path: ':keyword',
+        component: HeroDetailComponent,
+      },
+    ],
+  },
   { path: '', redirectTo: '/items', pathMatch: 'full' },
   { path: '**', redirectTo: '/items' },
 ];

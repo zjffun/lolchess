@@ -24,6 +24,7 @@ import { environment } from '../environments/environment';
 import { HeroFigureComponent } from './hero-figure/hero-figure.component';
 import { ItemDetailComponent } from './item-detail/item-detail.component';
 import { ItemFigureComponent } from './item-figure/item-figure.component';
+import { BackNavigationComponent } from './back-navigation/back-navigation.component';
 
 @NgModule({
   declarations: [
@@ -36,6 +37,7 @@ import { ItemFigureComponent } from './item-figure/item-figure.component';
     HeroFigureComponent,
     ItemDetailComponent,
     ItemFigureComponent,
+    BackNavigationComponent,
   ],
   imports: [
     BrowserModule,
