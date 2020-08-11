@@ -1,13 +1,18 @@
 .grid-container {
-  max-width: 600px;
+  max-width: 500px;
   margin: 20px auto;
 }
 
 .heroes {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-evenly;
   .hero {
     margin: 0.5rem;
+    width: 4rem;
     text-align: center;
+    &--placeholder {
+      height: 0;
+    }
   }
 }

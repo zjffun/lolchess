@@ -16,5 +16,7 @@ export class HeroesComponent {
     };
   });
 
+  placeholders = Array.from({ length: 60 - (this.heroes.length % 60) });
+
   constructor(private breakpointObserver: BreakpointObserver) {}
 }

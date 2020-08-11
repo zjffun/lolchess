@@ -1,16 +1,13 @@
 .hero {
-  font-size: 1rem;
-  width: 4em;
   text-align: center;
 
   &--sm {
-    font-size: 0.7rem;
+    font-size: 0.8em;
   }
 
   &__avatar {
     width: 80%;
   }
   &__name {
-    font-size: 0.8em;
   }
 }
