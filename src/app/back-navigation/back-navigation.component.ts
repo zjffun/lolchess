@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Location } from '@angular/common';
+import { NavigationService } from '../navigation.service';
 
 @Component({
   selector: 'app-back-navigation',
@@ -7,13 +8,14 @@ import { Location } from '@angular/common';
   styleUrls: ['./back-navigation.component.css'],
 })
 export class BackNavigationComponent implements OnInit {
-  title;
-
   goBack() {
     this.location.back();
   }
 
-  constructor(private location: Location) {}
+  constructor(
+    private location: Location,
+    public navigation: NavigationService
+  ) {}
 
   ngOnInit(): void {}
 }

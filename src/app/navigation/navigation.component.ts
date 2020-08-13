@@ -30,7 +30,6 @@ export class NavigationComponent {
 
   ngOnInit() {
     this.isHandset$.subscribe((val) => {
-      console.log(val);
       this.isHandset = val;
     });
   }

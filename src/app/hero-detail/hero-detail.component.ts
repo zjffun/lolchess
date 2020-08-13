@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, ParamMap } from '@angular/router';
 import { map } from 'rxjs/operators';
 import heroes from '../../assets/heroes.zh-CN.json';
+import { NavigationService } from '../navigation.service';
 
 @Component({
   selector: 'app-hero-detail',
@@ -11,7 +12,10 @@ import heroes from '../../assets/heroes.zh-CN.json';
 export class HeroDetailComponent implements OnInit {
   hero: typeof heroes[0];
 
-  constructor(private route: ActivatedRoute) {}
+  constructor(
+    private route: ActivatedRoute,
+    private navigation: NavigationService
+  ) {}
 
   ngOnInit(): void {
     this.route.paramMap
@@ -23,6 +27,9 @@ export class HeroDetailComponent implements OnInit {
       )
       .subscribe((hero) => {
         this.hero = hero;
+        setTimeout(() => {
+          this.navigation.title = hero.displayName;
+        }, 0);
       });
   }
 }
