@@ -11,13 +11,8 @@
       </mat-grid-tile>
     </ng-container>
   </mat-grid-list>
-
-  <div
-    #tooltip
-    class="item-detail"
-    [class]="currentItem.id !== -1 ? '' : 'd-none'"
-    (click)="$event.stopPropagation()"
-  >
-    <app-item-detail [item]="currentItem"></app-item-detail>
-  </div>
+  <app-item-detail-popper
+    [item]="currentItem"
+    [itemDom]="currentItemDom"
+  ></app-item-detail-popper>
 </div>

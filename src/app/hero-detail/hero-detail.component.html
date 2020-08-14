@@ -1,8 +1,36 @@
 <div class="container">
-  <h1>{{ hero.displayName }}</h1>
   <dl>
     <dt>价格</dt>
     <dd>{{ hero.price }}</dd>
+    <dt>技能</dt>
+    <dd>
+      【{{ hero.skillName }}】{{ hero.skillType }}
+      <p>{{ hero.skillDetail }}</p>
+    </dd>
+    <dt>lolqq推荐装备</dt>
+    <dd>
+      <ul class="item-list">
+        <li class="item-list__item" *ngFor="let item of lolqqitems">
+          <app-item-figure
+            [item]="item"
+            size="sm"
+            (click)="handleItemClick(item, $event)"
+          ></app-item-figure>
+        </li>
+      </ul>
+    </dd>
+    <dt>lolchess推荐装备</dt>
+    <dd>
+      <ul class="item-list">
+        <li class="item-list__item" *ngFor="let item of lolchessitems">
+          <app-item-figure
+            [item]="item"
+            size="sm"
+            (click)="handleItemClick(item, $event)"
+          ></app-item-figure>
+        </li>
+      </ul>
+    </dd>
     <dt>护甲</dt>
     <dd>{{ hero.armor }}</dd>
     <dt>魔抗</dt>
@@ -21,10 +49,9 @@
     <dd>{{ hero.mana }}</dd>
     <dt>初始魔法值</dt>
     <dd>{{ hero.startMana }}</dd>
-    <dt>技能</dt>
-    <dd>
-      【{{ hero.skillName }}】{{ hero.skillType }}
-      <p>{{ hero.skillDetail }}</p>
-    </dd>
   </dl>
+  <app-item-detail-popper
+    [item]="currentItem"
+    [itemDom]="currentItemDom"
+  ></app-item-detail-popper>
 </div>

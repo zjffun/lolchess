@@ -1,0 +1,11 @@
+.item-detail {
+  width: 14rem;
+  max-height: 14rem;
+  padding: 1rem;
+  overflow: auto;
+
+  font-size: 14px;
+
+  background: #000;
+  color: #fff;
+}

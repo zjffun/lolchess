@@ -25,6 +25,7 @@ import { HeroFigureComponent } from './hero-figure/hero-figure.component';
 import { ItemDetailComponent } from './item-detail/item-detail.component';
 import { ItemFigureComponent } from './item-figure/item-figure.component';
 import { BackNavigationComponent } from './back-navigation/back-navigation.component';
+import { ItemDetailPopperComponent } from './item-detail-popper/item-detail-popper.component';
 
 @NgModule({
   declarations: [
@@ -38,6 +39,7 @@ import { BackNavigationComponent } from './back-navigation/back-navigation.compo
     ItemDetailComponent,
     ItemFigureComponent,
     BackNavigationComponent,
+    ItemDetailPopperComponent,
   ],
   imports: [
     BrowserModule,
