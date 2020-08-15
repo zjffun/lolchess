@@ -9,7 +9,7 @@
     "proStatus": "无",
     "desc": "+15攻击力",
     "attrs": [
-      "+15 Attack Damage"
+      "+15 攻击力"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -24,7 +24,7 @@
     "proStatus": "无",
     "desc": "+15法力值，相关成装也会相应调整。",
     "attrs": [
-      "+15 Mana"
+      "+15 法力值"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -40,8 +40,8 @@
     "proStatus": "无",
     "desc": "在使用技能后，携带者的每次攻击回复18%最大法力值。",
     "attrs": [
-      "+15 Attack Damage",
-      "+15 Mana"
+      "+15 攻击力",
+      "+15 法力值"
     ],
     "lolqqheroes": [
       "ashe",
@@ -82,8 +82,8 @@
     "proStatus": "增强",
     "desc": "每3次攻击，对3/4/5个敌人(随携带者的等级成长)造成85魔法伤害。每次弹跳伤害：85。现在会对有护盾或者被控制的目标造成额外的85真实伤害。",
     "attrs": [
-      "+15% Attack Speed",
-      "+15 Mana"
+      "+15% 攻速",
+      "+15 法力值"
     ],
     "lolqqheroes": [
       "kogmaw"
@@ -104,10 +104,10 @@
     "name": "冰霜之心",
     "keywords": "法力值，护甲，减速",
     "proStatus": "无",
-    "desc": "降低邻近格子的敌人50%攻击速度，持续1秒。(多个【冰霜之心】可提升效果的半径)",
+    "desc": "降低邻近格子的敌人50%攻速，持续1秒。(多个【冰霜之心】可提升效果的半径)",
     "attrs": [
-      "+25 Armor",
-      "+15 Mana"
+      "+25 护甲",
+      "+15 法力值"
     ],
     "lolqqheroes": [
       "gnar",
@@ -137,8 +137,8 @@
     "proStatus": "无",
     "desc": "在战斗环节开始时，携带者及其左右邻格的友军获得30法术强度，持续20秒。",
     "attrs": [
-      "+25 Magic Resist",
-      "+15 Mana"
+      "+25 魔抗",
+      "+15 法力值"
     ],
     "lolqqheroes": [
       "ahri",
@@ -168,8 +168,8 @@
     "proStatus": "无",
     "desc": "装备者获得50%魔法抗性。",
     "attrs": [
-      "+25 Magic Resist",
-      "+25 Magic Resist"
+      "+25 魔抗",
+      "+25 魔抗"
     ],
     "lolqqheroes": [
       "gnar",
@@ -197,8 +197,8 @@
     "proStatus": "无",
     "desc": "星级加成已移除。现在每次弹射造成200魔法伤害。",
     "attrs": [
-      "+20% Spell Power",
-      "+15 Mana"
+      "+20% 技能伤害",
+      "+15 法力值"
     ],
     "lolqqheroes": [
       "ezreal",
@@ -226,8 +226,8 @@
     "proStatus": "无",
     "desc": "这个装备需要占用全部3个物品栏位。在备战环节开始时，携带者会随机装备两个临时装备，临时装备的品质取决于玩家的等级。",
     "attrs": [
-      "+10% Dodge change, +10% Crit chance",
-      "+10% Dodge change, +10% Crit chance"
+      "+10% 暴击几率, +10% 闪避",
+      "+10% 暴击几率, +10% 闪避"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -242,7 +242,7 @@
     "proStatus": "无",
     "desc": "+25护甲",
     "attrs": [
-      "+25 Armor"
+      "+25 护甲"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -257,7 +257,7 @@
     "proStatus": "无",
     "desc": "它必须做点什么（特殊装备）",
     "attrs": [
-      "You will get a special ability"
+      "你可以用它搞点事情"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -273,7 +273,7 @@
     "proStatus": "无",
     "desc": "携带者也是一名剑士。",
     "attrs": [
-      "+15 Attack Damage"
+      "+15 攻击力"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -289,7 +289,7 @@
     "proStatus": "无",
     "desc": "携带者也是一名刺客。",
     "attrs": [
-      "+15% Attack Speed"
+      "+15% 攻速"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -305,7 +305,7 @@
     "proStatus": "无",
     "desc": "携带者也是一名奥德赛。",
     "attrs": [
-      "+25 Armor"
+      "+25 护甲"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -321,7 +321,7 @@
     "proStatus": "无",
     "desc": "携带者也是一名星神。",
     "attrs": [
-      "+25 Magic Resist"
+      "+25 魔抗"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -337,7 +337,7 @@
     "proStatus": "无",
     "desc": "携带者也是一名战地机甲英雄",
     "attrs": [
-      "+20% Spell Power"
+      "+20% 技能伤害"
     ],
     "lolqqheroes": [],
     "lolchessheroes": [
@@ -358,8 +358,8 @@
     "proStatus": "无",
     "desc": "当携带者死亡时，清除自身的负面效果，并在2秒后复活且恢复400生命值。在复活状态期间不能被治疗。这个效果每场战斗只能触发一次。",
     "attrs": [
-      "+15 Attack Damage",
-      "+25 Armor"
+      "+15 攻击力",
+      "+25 护甲"
     ],
     "lolqqheroes": [
       "darius",
@@ -409,7 +409,7 @@
     "proStatus": "无",
     "desc": "携带者也是一名星之守护者。",
     "attrs": [
-      "+15 Mana"
+      "+15 法力值"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -425,8 +425,8 @@
     "proStatus": "无",
     "desc": "在击杀或助攻后，获得一层额外的25攻击力，持续到战斗结束（可无限叠加）（初始层数：2）(现在会显示已获取的攻击力数值，而非层数)。",
     "attrs": [
-      "+15 Attack Damage",
-      "+15 Attack Damage"
+      "+15 攻击力",
+      "+15 攻击力"
     ],
     "lolqqheroes": [],
     "lolchessheroes": [
@@ -449,8 +449,8 @@
     "proStatus": "无",
     "desc": "当携带者打出或受到一次暴击，会获得一层1%伤害的加成，至多叠加100层。在100层时，携带者获得25护甲和魔法抗性，并且体型也会提升。每回合都会重置。",
     "attrs": [
-      "+15% Attack Speed",
-      "+25 Armor"
+      "+15% 攻速",
+      "+25 护甲"
     ],
     "lolqqheroes": [
       "annie",
@@ -475,8 +475,8 @@
     "proStatus": "无",
     "desc": "在施放一次技能后，将你的法力值设为20。唯一装备。",
     "attrs": [
-      "+15 Mana",
-      "+15 Mana"
+      "+15 法力值",
+      "+15 法力值"
     ],
     "lolqqheroes": [
       "aurelionsol",
@@ -516,7 +516,7 @@
     "proStatus": "无",
     "desc": "携带者也是一名圣盾使。",
     "attrs": [
-      "+200 Health"
+      "+200 生命值"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -531,7 +531,7 @@
     "proStatus": "无",
     "desc": "+20%技能伤害",
     "attrs": [
-      "+20% Spell Power"
+      "+20% 技能伤害"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -547,8 +547,8 @@
     "proStatus": "增强",
     "desc": "法术吸血：45%。35%治疗转化率，来自技能伤害。这件装备的过量治疗现在会生成一个护盾(护盾的最大生命值为400)。",
     "attrs": [
-      "+15 Attack Damage",
-      "+20% Spell Power"
+      "+15 攻击力",
+      "+20% 技能伤害"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -562,10 +562,10 @@
     "name": "鬼索的狂暴之刃",
     "keywords": "攻速，法强",
     "proStatus": "无",
-    "desc": "每次攻击增加5%的攻击速度，可无限叠加。",
+    "desc": "每次攻击增加5%的攻速，可无限叠加。",
     "attrs": [
-      "+15% Attack Speed",
-      "+20% Spell Power"
+      "+15% 攻速",
+      "+20% 技能伤害"
     ],
     "lolqqheroes": [
       "ashe",
@@ -592,8 +592,8 @@
     "proStatus": "增强",
     "desc": "为同一列2格内的友军提供250/300/375生命值的护盾(随携带者的等级成长)，持续8秒。",
     "attrs": [
-      "+25 Armor",
-      "+20% Spell Power"
+      "+25 护甲",
+      "+20% 技能伤害"
     ],
     "lolqqheroes": [
       "illaoi",
@@ -618,8 +618,8 @@
     "proStatus": "无",
     "desc": "使来自暴击的额外伤害变得无效。在被一次普通攻击命中时，对附近的所有敌人造成100/140/200魔法伤害(每2秒最多触发1次)。伤害值随携带者的星级成长。",
     "attrs": [
-      "+25 Armor",
-      "+25 Armor"
+      "+25 护甲",
+      "+25 护甲"
     ],
     "lolqqheroes": [
       "annie",
@@ -663,8 +663,8 @@
     "proStatus": "无",
     "desc": "2格内的敌人在施放技能时会被震击，受到相当于其225%最大法力值的魔法伤害。并且会减少附近敌人40%魔法抗性",
     "attrs": [
-      "+25 Magic Resist",
-      "+20% Spell Power"
+      "+25 魔抗",
+      "+20% 技能伤害"
     ],
     "lolqqheroes": [
       "blitzcrank",
@@ -729,7 +729,7 @@
     "proStatus": "无",
     "desc": "+15%攻速",
     "attrs": [
-      "+15% Attack Speed"
+      "+15% 攻速"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -744,7 +744,7 @@
     "proStatus": "无",
     "desc": "+200生命值",
     "attrs": [
-      "+200 Health"
+      "+200 生命值"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -758,10 +758,10 @@
     "name": "基克的先驱",
     "keywords": "攻击力，生命值，攻速",
     "proStatus": "无",
-    "desc": "战斗开始时，携带者和站在同一排1格内的友军获得+30%攻击速度，持续至本回合战斗环节结束。",
+    "desc": "战斗开始时，携带者和站在同一排1格内的友军获得+30%攻速，持续至本回合战斗环节结束。",
     "attrs": [
-      "+15 Attack Damage",
-      "+200 Health"
+      "+15 攻击力",
+      "+200 生命值"
     ],
     "lolqqheroes": [],
     "lolchessheroes": [
@@ -782,8 +782,8 @@
     "proStatus": "无",
     "desc": "死亡后，召唤一个拥有1500/2250/3000生命值的虚灵，虚灵可嘲讽附近所有的敌人。",
     "attrs": [
-      "+15% Attack Speed",
-      "+200 Health"
+      "+15% 攻速",
+      "+200 生命值"
     ],
     "lolqqheroes": [
       "illaoi",
@@ -816,8 +816,8 @@
     "proStatus": "无",
     "desc": "携带者的普通攻击会燃烧目标，灼烧效果27%。在10秒里持续造成真实伤害，总额相当于目标25%的最大生命值，并在燃烧期间阻止80%治疗效果。",
     "attrs": [
-      "+25 Armor",
-      "+200 Health"
+      "+25 护甲",
+      "+200 生命值"
     ],
     "lolqqheroes": [
       "graves",
@@ -845,8 +845,8 @@
     "proStatus": "无",
     "desc": "战斗开始时，携带者会在棋盘的对面召唤旋风，将旋风处或旋风最邻近的敌人放逐5秒。（每个英雄仅能装备一个）",
     "attrs": [
-      "+25 Magic Resist",
-      "+200 Health"
+      "+25 魔抗",
+      "+200 生命值"
     ],
     "lolqqheroes": [
       "janna",
@@ -881,8 +881,8 @@
     "proStatus": "无",
     "desc": "在携带者用技能造成伤害时，会燃烧目标，灼烧效果：27%。在10秒里持续造成真实伤害，总额相当于目标25%的最大生命值，并在燃烧期间阻止50%治疗效果。",
     "attrs": [
-      "+20% Spell Power",
-      "+200 Health"
+      "+20% 技能伤害",
+      "+200 生命值"
     ],
     "lolqqheroes": [
       "ahri",
@@ -926,8 +926,8 @@
     "proStatus": "无",
     "desc": "当前生命值物理伤害：12%，现在不再造成真实伤害，而是造成符合携带者的伤害类型(物理或魔法)的(折前)伤害",
     "attrs": [
-      "+15 Attack Damage",
-      "+15% Attack Speed"
+      "+15 攻击力",
+      "+15% 攻速"
     ],
     "lolqqheroes": [
       "graves",
@@ -958,8 +958,8 @@
     "proStatus": "无",
     "desc": "额外法术强度：50%",
     "attrs": [
-      "+20% Spell Power",
-      "+20% Spell Power"
+      "+20% 技能伤害",
+      "+20% 技能伤害"
     ],
     "lolqqheroes": [
       "aurelionsol",
@@ -1004,8 +1004,8 @@
     "proStatus": "无",
     "desc": "携带者在阵亡时治疗整个队伍800生命值",
     "attrs": [
-      "+15 Mana",
-      "+200 Health"
+      "+15 法力值",
+      "+200 生命值"
     ],
     "lolqqheroes": [
       "leona",
@@ -1032,7 +1032,7 @@
     "proStatus": "无",
     "desc": "+25魔抗",
     "attrs": [
-      "+25 Magic Resist"
+      "+25 魔抗"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -1048,8 +1048,8 @@
     "proStatus": "无",
     "desc": "普攻攻击附带45%吸血，生命偷取：45%",
     "attrs": [
-      "+15 Attack Damage",
-      "+25 Magic Resist"
+      "+15 攻击力",
+      "+25 魔抗"
     ],
     "lolqqheroes": [],
     "lolchessheroes": [
@@ -1066,7 +1066,7 @@
     "proStatus": "无",
     "desc": "+10%暴击几率和+10%闪避",
     "attrs": [
-      "+10% Dodge change, +10% Crit chance"
+      "+10% 暴击几率, +10% 闪避"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
@@ -1082,8 +1082,8 @@
     "proStatus": "无",
     "desc": "携带者增加100%暴击几率和+20%暴击伤害。现在是唯一装备。",
     "attrs": [
-      "+15 Attack Damage",
-      "+20% Crit Chance"
+      "+15 攻击力",
+      "+20% 闪避"
     ],
     "lolqqheroes": [
       "irelia",
@@ -1122,8 +1122,8 @@
     "proStatus": "无",
     "desc": "暴击会使目标的护甲降低90%，持续3秒。这个效果不会叠加。",
     "attrs": [
-      "+15% Attack Speed",
-      "+20% Crit Chance"
+      "+15% 攻速",
+      "+20% 闪避"
     ],
     "lolqqheroes": [
       "irelia",
@@ -1153,8 +1153,8 @@
     "proStatus": "无",
     "desc": "战斗开始时，向前射出一道光线，使得所有被击中的敌人最大法力值提高40%，直到他们施放一次技能。（宽度：1.5格）",
     "attrs": [
-      "+25 Armor",
-      "+10% Dodge change, +10% Crit chance"
+      "+25 护甲",
+      "+10% 暴击几率, +10% 闪避"
     ],
     "lolqqheroes": [],
     "lolchessheroes": [
@@ -1179,8 +1179,8 @@
     "proStatus": "无",
     "desc": "携带者最初10秒免疫控制（携带唯一）。",
     "attrs": [
-      "+25 Magic Resist",
-      "+20% Dodge Chance"
+      "+25 魔抗",
+      "+20% 暴击几率"
     ],
     "lolqqheroes": [
       "annie",
@@ -1211,8 +1211,8 @@
     "proStatus": "无",
     "desc": "携带者的技能可以暴击并且携带者获得+30%暴击伤害。",
     "attrs": [
-      "+20% Spell Power",
-      "+20% Crit Chance"
+      "+20% 技能伤害",
+      "+20% 闪避"
     ],
     "lolqqheroes": [
       "ahri",
@@ -1243,8 +1243,8 @@
     "proStatus": "增强",
     "desc": "在战斗环节开始时，携带者获得下面两项增益之一：1.普通攻击和技能造成的伤害+50%；2.普攻和技能为携带者提供相当于50%实际伤害值的治疗效果。",
     "attrs": [
-      "+15 Mana",
-      "+20% Crit Chance"
+      "+15 法力值",
+      "+20% 闪避"
     ],
     "lolqqheroes": [
       "fiora",
@@ -1263,8 +1263,8 @@
     "proStatus": "增强",
     "desc": "普通攻击会对附近的另一名敌人发射一个额外的弹体，造成携带者75%攻击力的伤害并附带攻击特效。",
     "attrs": [
-      "+15% Attack Speed",
-      "+25 Magic Resist"
+      "+15% 攻速",
+      "+25 魔抗"
     ],
     "lolqqheroes": [
       "bard",
@@ -1292,8 +1292,8 @@
     "proStatus": "无",
     "desc": "在战斗环节开始时，获得一层法术护盾。当法术护盾被打破时，对打破该护盾的英雄造成4秒的晕眩效果。",
     "attrs": [
-      "+200 Health",
-      "+20% Dodge Chance"
+      "+200 生命值",
+      "+20% 暴击几率"
     ],
     "lolqqheroes": [
       "caitlyn"
@@ -1311,8 +1311,8 @@
     "proStatus": "无",
     "desc": "200%攻击距离并且携带者的攻击不会未命中。现在，当【疾射火炮】携带者的攻击距离较短时，会在攻击时显示一个可见的光束。",
     "attrs": [
-      "+15% Attack Speed",
-      "+15% Attack Speed"
+      "+15% 攻速",
+      "+15% 攻速"
     ],
     "lolqqheroes": [
       "cassiopeia",
@@ -1343,8 +1343,8 @@
     "proStatus": "增强",
     "desc": "普通攻击有25%对敌人造成缴械3秒。缴械几率：33%",
     "attrs": [
-      "+25 Armor",
-      "+25 Magic Resist"
+      "+25 护甲",
+      "+25 魔抗"
     ],
     "lolqqheroes": [],
     "lolchessheroes": [
@@ -1362,8 +1362,8 @@
     "proStatus": "无",
     "desc": "+600生命值。(这件装备目前共提供1000生命值，并且没有其它属性。)",
     "attrs": [
-      "+200 Health",
-      "+200 Health"
+      "+200 生命值",
+      "+200 生命值"
     ],
     "lolqqheroes": [
       "blitzcrank",
@@ -1392,7 +1392,7 @@
     "proStatus": "无",
     "desc": "携带者也是一名暗星。",
     "attrs": [
-      "+10% Dodge change, +10% Crit chance"
+      "+10% 暴击几率, +10% 闪避"
     ],
     "lolqqheroes": [],
     "lolchessheroes": []
