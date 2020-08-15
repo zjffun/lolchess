@@ -26,6 +26,8 @@ import { ItemDetailComponent } from './item-detail/item-detail.component';
 import { ItemFigureComponent } from './item-figure/item-figure.component';
 import { BackNavigationComponent } from './back-navigation/back-navigation.component';
 import { ItemDetailPopperComponent } from './item-detail-popper/item-detail-popper.component';
+import { SynergiesTableComponent } from './synergies-table/synergies-table.component';
+import { JoinKeysPipe } from './join-keys.pipe';
 
 @NgModule({
   declarations: [
@@ -40,6 +42,8 @@ import { ItemDetailPopperComponent } from './item-detail-popper/item-detail-popp
     ItemFigureComponent,
     BackNavigationComponent,
     ItemDetailPopperComponent,
+    SynergiesTableComponent,
+    JoinKeysPipe,
   ],
   imports: [
     BrowserModule,

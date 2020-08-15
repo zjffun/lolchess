@@ -1,0 +1,48 @@
+.container {
+  margin: 0px auto;
+
+  .hero {
+    display: inline-block;
+    vertical-align: top;
+    width: 2.5rem;
+  }
+
+  .synergy__icon {
+    width: 1.5rem;
+  }
+
+  .table-wrapper {
+    max-width: 100%;
+    max-height: calc(100vh - 64px);
+    overflow: auto;
+  }
+
+  table {
+    border-collapse: collapse;
+    tr {
+      td {
+        border: 1px solid gray;
+        min-width: 3rem;
+        padding: 0.6rem 0.3rem;
+        text-align: center;
+        color: #fff;
+        vertical-align: top;
+        &:first-child {
+          position: sticky;
+          left: 0;
+          background: #4f4f67;
+        }
+      }
+      &:first-child {
+        td:first-child {
+          z-index: 2;
+        }
+        td {
+          position: sticky;
+          top: 0;
+          background: #4f4f67;
+        }
+      }
+    }
+  }
+}

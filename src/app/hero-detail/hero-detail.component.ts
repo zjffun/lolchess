@@ -1,10 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, ParamMap } from '@angular/router';
 import { map } from 'rxjs/operators';
-import heroes from '../../assets/heroes.zh-CN.json';
-import items from '../../assets/items.zh-CN.json';
 import { NavigationService } from '../navigation.service';
-import { ItemService } from '../item.service';
+import { ItemService, itemType } from '../item.service';
+import { heroType, HeroesService } from '../heroes.service';
 
 @Component({
   selector: 'app-hero-detail',
@@ -12,9 +11,9 @@ import { ItemService } from '../item.service';
   styleUrls: ['./hero-detail.component.scss'],
 })
 export class HeroDetailComponent implements OnInit {
-  hero: typeof heroes[0];
-  lolqqitems: Array<typeof items[0]> = [];
-  lolchessitems: Array<typeof items[0]> = [];
+  hero: heroType;
+  lolqqitems: Array<itemType> = [];
+  lolchessitems: Array<itemType> = [];
 
   currentItem = this.itemService.emptyItem;
   currentItemDom = null;
@@ -22,7 +21,8 @@ export class HeroDetailComponent implements OnInit {
   constructor(
     private route: ActivatedRoute,
     private navigation: NavigationService,
-    private itemService: ItemService
+    private itemService: ItemService,
+    private heroesService: HeroesService
   ) {}
 
   handleItemClick(item, event) {
@@ -36,7 +36,7 @@ export class HeroDetailComponent implements OnInit {
       .pipe(
         map((params: ParamMap) => {
           const keyword = params.get('keyword');
-          const hero = heroes.find((hero) => hero.keyword === keyword);
+          const hero = this.heroesService.heroKeywordMap.get(keyword);
           return hero;
         })
       )
@@ -47,10 +47,10 @@ export class HeroDetailComponent implements OnInit {
           this.navigation.title = hero.displayName;
         }, 0);
 
-        let lolqqitems: Array<typeof items[0]> = [];
-        let lolchessitems: Array<typeof items[0]> = [];
+        let lolqqitems: Array<itemType> = [];
+        let lolchessitems: Array<itemType> = [];
 
-        items.forEach((item) => {
+        this.itemService.items.forEach((item) => {
           if (item.lolqqheroes.includes(hero.keyword)) {
             lolqqitems.push(item);
           }

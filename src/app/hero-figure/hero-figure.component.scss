@@ -1,6 +1,7 @@
 $costs: grey, #11b288, #207ac7, #c440da, #ffb93b;
 
 .hero {
+  width: 100%;
   text-align: center;
 
   &--sm {
@@ -12,6 +13,7 @@ $costs: grey, #11b288, #207ac7, #c440da, #ffb93b;
     width: 80%;
   }
   &__name {
+    line-height: 1em;
   }
 
   $i: 0;
@@ -20,7 +22,6 @@ $costs: grey, #11b288, #207ac7, #c440da, #ffb93b;
     &--cost-#{$i} {
       .hero__avatar {
         border-color: $cost;
-        width: 80%;
       }
       .hero__name {
         color: $cost;

@@ -1,0 +1,45 @@
+<article class="container">
+  <div class="table-wrapper">
+    <table>
+      <tr>
+        <td></td>
+        <td *ngFor="let origin of synergiesService.origins">
+          <img
+            class="synergy__icon"
+            [src]="'/assets/synergies/imgs/' + origin.keyword + '.png'"
+            [alt]="origin.keyword"
+          />
+          <br />
+          {{ origin.name }}({{ origin.stats | joinKeys: "/" }})
+        </td>
+      </tr>
+      <tr *ngFor="let classData of synergiesService.classes">
+        <td>
+          <img
+            class="synergy__icon"
+            [src]="'/assets/synergies/imgs/' + classData.keyword + '.png'"
+            [alt]="classData.keyword"
+          />
+          <br />
+          {{ classData.name }}({{ classData.stats | joinKeys: "/" }})
+        </td>
+        <td *ngFor="let origin of synergiesService.origins">
+          <ng-contianer
+            *ngFor="
+              let hero of heroesService.getHeroesBySynergiesKeyword(
+                classData.keyword,
+                origin.keyword
+              )
+            "
+          >
+            <app-hero-figure
+              class="hero"
+              [hero]="hero"
+              size="sm"
+            ></app-hero-figure>
+          </ng-contianer>
+        </td>
+      </tr>
+    </table>
+  </div>
+</article>

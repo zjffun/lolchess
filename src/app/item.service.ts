@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import items from '../assets/items.zh-CN.json';
 
-type itemType = typeof items[0];
+export type itemType = typeof items[0];
 
 const idItemMap = new Map<number, itemType>();
 
@@ -32,9 +32,7 @@ export class ItemService {
 
   emptyItem: itemType = item();
 
-  getAll() {
-    return items;
-  }
+  items = items;
 
   getById(id: number): itemType {
     if (id === 0) {

@@ -1,5 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import heroes from '../../assets/heroes.zh-CN.json';
+import { HeroesService, heroType } from '../heroes.service';
 
 @Component({
   selector: 'app-hero-figure',
@@ -14,15 +14,15 @@ export class HeroFigureComponent implements OnInit {
   heroClass = {};
   heroImgClass = {};
 
-  heroInfo: typeof heroes[0];
+  heroInfo: heroType;
 
-  constructor() {}
+  constructor(private heroesService: HeroesService) {}
 
   ngOnInit(): void {
     if (this.hero) {
       this.heroInfo = this.hero;
     } else {
-      this.heroInfo = heroes.find((d) => d.keyword === this.heroKeyword);
+      this.heroInfo = this.heroesService.heroKeywordMap.get(this.heroKeyword);
     }
 
     if (this.inputSize === 'sm') {

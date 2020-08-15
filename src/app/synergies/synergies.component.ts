@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
-import synergies from '../../assets/synergies.zh-CN.json';
+import { SynergiesService } from '../synergies.service';
 
 @Component({
   selector: 'app-synergies',
@@ -8,7 +7,7 @@ import synergies from '../../assets/synergies.zh-CN.json';
   styleUrls: ['./synergies.component.scss'],
 })
 export class SynergiesComponent implements OnInit {
-  synergies = synergies.map((synergy) => {
+  synergies = this.synergiesService.synergies.map((synergy) => {
     return {
       ...synergy,
       stats: Object.entries(synergy.stats).map(
@@ -19,7 +18,7 @@ export class SynergiesComponent implements OnInit {
 
   panelOpenState = false;
 
-  constructor() {}
+  constructor(private synergiesService: SynergiesService) {}
 
   ngOnInit(): void {}
 }

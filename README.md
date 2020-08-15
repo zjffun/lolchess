@@ -45,3 +45,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 4. `ng generate service navigation`
 4. `ng generate component item-detail-popper`
 4. `ng generate service item`
+4. `ng generate component synergies-table`
+4. `ng generate service synergies`
+4. `ng generate service heroes`
+4. `yarn add lodash`
+4. `ng generate pipe join-keys`
+
