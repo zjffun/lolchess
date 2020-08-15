@@ -1,11 +1,11 @@
 <figure
   class="hero"
-  [class]="size"
+  [class]="heroClass"
   [routerLink]="['/hero', heroInfo.keyword]"
 >
   <img
     [src]="'/assets/heroes/imgs/' + heroInfo.keyword + '.png'"
-    [alt]="heroInfo.name"
+    [alt]="heroInfo.displayName"
     class="hero__avatar"
   />
   <figcaption class="hero__name">{{ heroInfo.displayName }}</figcaption>

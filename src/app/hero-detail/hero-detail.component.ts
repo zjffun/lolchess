@@ -4,6 +4,7 @@ import { map } from 'rxjs/operators';
 import heroes from '../../assets/heroes.zh-CN.json';
 import items from '../../assets/items.zh-CN.json';
 import { NavigationService } from '../navigation.service';
+import { ItemService } from '../item.service';
 
 @Component({
   selector: 'app-hero-detail',
@@ -15,12 +16,13 @@ export class HeroDetailComponent implements OnInit {
   lolqqitems: Array<typeof items[0]> = [];
   lolchessitems: Array<typeof items[0]> = [];
 
-  currentItem = items[0];
+  currentItem = this.itemService.emptyItem;
   currentItemDom = null;
 
   constructor(
     private route: ActivatedRoute,
-    private navigation: NavigationService
+    private navigation: NavigationService,
+    private itemService: ItemService
   ) {}
 
   handleItemClick(item, event) {
@@ -58,6 +60,10 @@ export class HeroDetailComponent implements OnInit {
         });
         this.lolqqitems = lolqqitems;
         this.lolchessitems = lolchessitems;
+
+        // reset
+        this.currentItem = this.itemService.emptyItem;
+        this.currentItemDom = null;
       });
   }
 }

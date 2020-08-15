@@ -1,3 +1,5 @@
+$costs: grey, #11b288, #207ac7, #c440da, #ffb93b;
+
 .hero {
   text-align: center;
 
@@ -6,8 +8,23 @@
   }
 
   &__avatar {
+    border: 2px solid;
     width: 80%;
   }
   &__name {
+  }
+
+  $i: 0;
+  @each $cost in $costs {
+    $i: $i + 1;
+    &--cost-#{$i} {
+      .hero__avatar {
+        border-color: $cost;
+        width: 80%;
+      }
+      .hero__name {
+        color: $cost;
+      }
+    }
   }
 }

@@ -16,11 +16,15 @@ export class ItemDetailPopperComponent implements OnInit {
   show = false;
 
   handleDocClick = function (event) {
+    this.show = false;
+    this.destroyPopper();
+  }.bind(this);
+
+  destroyPopper() {
     if (this.popper) {
-      this.show = false;
       this.popper.destroy();
     }
-  }.bind(this);
+  }
 
   constructor() {}
 
@@ -32,6 +36,9 @@ export class ItemDetailPopperComponent implements OnInit {
     if (this.itemDom) {
       this.show = true;
       this.popper = createPopper(this.itemDom, this.tooltip.nativeElement, {});
+    } else {
+      this.show = false;
+      this.destroyPopper();
     }
   }
 

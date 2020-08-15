@@ -1,4 +1,22 @@
 <article class="item">
+  <div class="item__figure">
+    <app-item-figure
+      class="item__figure__img item__figure__img--main"
+      [item]="item"
+    ></app-item-figure>
+    <span *ngIf="rowItem1 !== null">
+      <span class="item__figure__span">=</span>
+      <app-item-figure
+        class="item__figure__img item__figure__img--raw"
+        [item]="rowItem0"
+      ></app-item-figure>
+      <span class="item__figure__span">+</span>
+      <app-item-figure
+        class="item__figure__img item__figure__img--raw"
+        [item]="rowItem1"
+      ></app-item-figure>
+    </span>
+  </div>
   <h4 class="item__name">
     {{ item.name }}
   </h4>

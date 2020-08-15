@@ -8,4 +8,22 @@
       width: 3rem;
     }
   }
+  &__figure {
+    &__img {
+      display: inline-block;
+      border: 1px solid #fff;
+      border-radius: 4px;
+      &--main {
+        width: 2.5rem;
+        height: 2.5rem;
+      }
+      &--raw {
+        width: 1.8rem;
+        height: 1.8rem;
+      }
+    }
+    &__span {
+      margin: 0 0.5rem;
+    }
+  }
 }

@@ -1,6 +1,5 @@
 import { Component, ViewChild, ElementRef } from '@angular/core';
-import { BreakpointObserver } from '@angular/cdk/layout';
-import items from '../../assets/items.zh-CN.json';
+import { ItemService } from '../item.service';
 
 const firstLine = [0, ...Array.from({ length: 9 }, (_, i) => 1 << (i * 2))];
 
@@ -12,23 +11,19 @@ const firstLine = [0, ...Array.from({ length: 9 }, (_, i) => 1 << (i * 2))];
 export class ItemsComponent {
   @ViewChild('tooltip') tooltip: ElementRef;
 
-  currentItem = items[0];
+  currentItem = this.itemService.emptyItem;
   currentItemDom = null;
 
   itemsList = [
     firstLine.map((itemId) => {
-      return {
-        id: itemId,
-        src: `/assets/items/imgs/${itemId}.png`,
-        info: items.find((info) => info.id === itemId),
-      };
+      return this.itemService.getById(itemId);
     }),
     ...Array.from({ length: 9 }, (_, i) => {
       let t = 1 << (i * 2);
       return [
         ...Array.from({ length: 10 }, (_, i2) => {
           let itemId = firstLine[i2] + t;
-          return items.find((info) => info.id === itemId);
+          return this.itemService.getById(itemId);
         }),
       ];
     }),
@@ -40,5 +35,5 @@ export class ItemsComponent {
     this.currentItemDom = event.target;
   }
 
-  constructor(private breakpointObserver: BreakpointObserver) {}
+  constructor(private itemService: ItemService) {}
 }

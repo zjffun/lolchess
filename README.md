@@ -44,3 +44,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 4. `ng generate component back-navigation`
 4. `ng generate service navigation`
 4. `ng generate component item-detail-popper`
+4. `ng generate service item`

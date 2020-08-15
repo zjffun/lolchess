@@ -11,9 +11,10 @@ export class HeroFigureComponent implements OnInit {
   @Input('hero-keyword') heroKeyword: string;
   @Input('size') inputSize: string;
 
-  size;
+  heroClass = {};
+  heroImgClass = {};
 
-  heroInfo;
+  heroInfo: typeof heroes[0];
 
   constructor() {}
 
@@ -25,7 +26,9 @@ export class HeroFigureComponent implements OnInit {
     }
 
     if (this.inputSize === 'sm') {
-      this.size = 'hero--sm';
+      this.heroClass['hero--sm'] = true;
     }
+
+    this.heroClass[`hero--cost-${this.heroInfo.price}`] = true;
   }
 }
