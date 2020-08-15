@@ -6,13 +6,10 @@
         <app-item-figure
           class="item-figure"
           [item]="item"
-          (click)="handleItemClick(item, $event)"
+          (click)="itemDetailPopper.show(item, $event)"
         ></app-item-figure>
       </mat-grid-tile>
     </ng-container>
   </mat-grid-list>
-  <app-item-detail-popper
-    [item]="currentItem"
-    [itemDom]="currentItemDom"
-  ></app-item-detail-popper>
+  <app-item-detail-popper #itemDetailPopper></app-item-detail-popper>
 </div>

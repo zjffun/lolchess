@@ -1,5 +1,6 @@
 import { Component, OnInit, Input, ElementRef, ViewChild } from '@angular/core';
 import { createPopper } from '@popperjs/core';
+import { ItemService } from '../item.service';
 
 @Component({
   selector: 'app-item-detail-popper',
@@ -9,14 +10,24 @@ import { createPopper } from '@popperjs/core';
 export class ItemDetailPopperComponent implements OnInit {
   @ViewChild('tooltip') tooltip: ElementRef;
 
-  @Input('item') item;
-  @Input('itemDom') itemDom;
+  public show(item, event) {
+    event.stopPropagation();
+    this.item = item;
+    this.isShow = true;
+    this.popper = createPopper(event.target, this.tooltip.nativeElement, {});
+  }
 
+  public hide() {
+    this.isShow = false;
+    this.destroyPopper();
+  }
+
+  item = this.itemsServer.emptyItem;
   popper = null;
-  show = false;
+  isShow = false;
 
-  handleDocClick = function (event) {
-    this.show = false;
+  handleDocClick = function () {
+    this.isShow = false;
     this.destroyPopper();
   }.bind(this);
 
@@ -26,21 +37,19 @@ export class ItemDetailPopperComponent implements OnInit {
     }
   }
 
-  constructor() {}
+  constructor(private itemsServer: ItemService) {}
 
   ngOnInit() {
     document.addEventListener('click', this.handleDocClick);
   }
 
-  ngOnChanges() {
-    if (this.itemDom) {
-      this.show = true;
-      this.popper = createPopper(this.itemDom, this.tooltip.nativeElement, {});
-    } else {
-      this.show = false;
-      this.destroyPopper();
-    }
-  }
+  // ngOnChanges() {
+  //   if (this.itemDom) {
+  //   } else {
+  //     this.isShow = false;
+  //     this.destroyPopper();
+  //   }
+  // }
 
   ngOnDestroy() {
     document.removeEventListener('click', this.handleDocClick);

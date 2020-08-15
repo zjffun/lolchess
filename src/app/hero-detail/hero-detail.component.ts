@@ -1,9 +1,10 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { ActivatedRoute, ParamMap } from '@angular/router';
 import { map } from 'rxjs/operators';
 import { NavigationService } from '../navigation.service';
 import { ItemService, itemType } from '../item.service';
 import { heroType, HeroesService } from '../heroes.service';
+import { ItemDetailPopperComponent } from '../item-detail-popper/item-detail-popper.component';
 
 @Component({
   selector: 'app-hero-detail',
@@ -11,12 +12,11 @@ import { heroType, HeroesService } from '../heroes.service';
   styleUrls: ['./hero-detail.component.scss'],
 })
 export class HeroDetailComponent implements OnInit {
+  @ViewChild('itemDetailPopper') itemDetailPopper: ItemDetailPopperComponent;
+
   hero: heroType;
   lolqqitems: Array<itemType> = [];
   lolchessitems: Array<itemType> = [];
-
-  currentItem = this.itemService.emptyItem;
-  currentItemDom = null;
 
   constructor(
     private route: ActivatedRoute,
@@ -24,12 +24,6 @@ export class HeroDetailComponent implements OnInit {
     private itemService: ItemService,
     private heroesService: HeroesService
   ) {}
-
-  handleItemClick(item, event) {
-    event.stopPropagation();
-    this.currentItem = item;
-    this.currentItemDom = event.target;
-  }
 
   ngOnInit(): void {
     this.route.paramMap
@@ -62,8 +56,7 @@ export class HeroDetailComponent implements OnInit {
         this.lolchessitems = lolchessitems;
 
         // reset
-        this.currentItem = this.itemService.emptyItem;
-        this.currentItemDom = null;
+        this.itemDetailPopper?.hide();
       });
   }
 }

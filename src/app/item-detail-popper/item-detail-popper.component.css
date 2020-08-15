@@ -1,3 +1,9 @@
+.item-detail-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
 .item-detail {
   width: 14rem;
   max-height: 14rem;

@@ -14,7 +14,7 @@
           <app-item-figure
             [item]="item"
             size="sm"
-            (click)="handleItemClick(item, $event)"
+            (click)="itemDetailPopper.show(item, $event)"
           ></app-item-figure>
         </li>
       </ul>
@@ -26,7 +26,7 @@
           <app-item-figure
             [item]="item"
             size="sm"
-            (click)="handleItemClick(item, $event)"
+            (click)="itemDetailPopper.show(item, $event)"
           ></app-item-figure>
         </li>
       </ul>
@@ -50,8 +50,5 @@
     <dt>初始魔法值</dt>
     <dd>{{ hero.startMana }}</dd>
   </dl>
-  <app-item-detail-popper
-    [item]="currentItem"
-    [itemDom]="currentItemDom"
-  ></app-item-detail-popper>
+  <app-item-detail-popper #itemDetailPopper></app-item-detail-popper>
 </div>

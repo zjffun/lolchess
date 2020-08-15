@@ -1,8 +1,10 @@
-<div
-  #tooltip
-  class="item-detail"
-  [class]="show ? '' : 'd-none'"
-  (click)="$event.stopPropagation()"
->
-  <app-item-detail [item]="item"></app-item-detail>
+<div class="item-detail-wrapper">
+  <div
+    #tooltip
+    class="item-detail"
+    [class]="isShow ? '' : 'd-none'"
+    (click)="$event.stopPropagation()"
+  >
+    <app-item-detail [item]="item"></app-item-detail>
+  </div>
 </div>

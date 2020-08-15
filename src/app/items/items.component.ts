@@ -1,4 +1,4 @@
-import { Component, ViewChild, ElementRef } from '@angular/core';
+import { Component } from '@angular/core';
 import { ItemService } from '../item.service';
 
 const firstLine = [0, ...Array.from({ length: 9 }, (_, i) => 1 << (i * 2))];
@@ -9,11 +9,6 @@ const firstLine = [0, ...Array.from({ length: 9 }, (_, i) => 1 << (i * 2))];
   styleUrls: ['./items.component.scss'],
 })
 export class ItemsComponent {
-  @ViewChild('tooltip') tooltip: ElementRef;
-
-  currentItem = this.itemService.emptyItem;
-  currentItemDom = null;
-
   itemsList = [
     firstLine.map((itemId) => {
       return this.itemService.getById(itemId);
@@ -28,12 +23,6 @@ export class ItemsComponent {
       ];
     }),
   ];
-
-  handleItemClick(item, event) {
-    event.stopPropagation();
-    this.currentItem = item;
-    this.currentItemDom = event.target;
-  }
 
   constructor(private itemService: ItemService) {}
 }

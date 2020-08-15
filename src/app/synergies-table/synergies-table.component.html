@@ -24,7 +24,7 @@
           {{ classData.name }}({{ classData.stats | joinKeys: "/" }})
         </td>
         <td *ngFor="let origin of synergiesService.origins">
-          <ng-contianer
+          <ng-container
             *ngFor="
               let hero of heroesService.getHeroesBySynergiesKeyword(
                 classData.keyword,
@@ -37,7 +37,7 @@
               [hero]="hero"
               size="sm"
             ></app-hero-figure>
-          </ng-contianer>
+          </ng-container>
         </td>
       </tr>
     </table>
