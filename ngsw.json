@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597570797406,
+  "timestamp": 1597573092422,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.d34b030305b8f8fa8a25.js",
-        "/main-es5.d34b030305b8f8fa8a25.js",
+        "/main-es2015.bd78425416fb2f718a5f.js",
+        "/main-es5.bd78425416fb2f718a5f.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.f332a089ad1600448873.js",
         "/polyfills-es5.b13383c02142e13834f5.js",
@@ -547,9 +547,9 @@
     "/assets/synergies/imgs/vanguard.png": "ad05ad15f87f1628c0d57ef2426e4084a9be18e1",
     "/assets/synergies/infos.en.json": "5b3bd3da8ac0ebe1e2de4b1ab1dd6f596672887c",
     "/favicon.ico": "3af8568e7ec2545e7f34a5444099b2c5b71f0fb8",
-    "/index.html": "22cf87b546578db257e37c490fbd524505d0877b",
-    "/main-es2015.d34b030305b8f8fa8a25.js": "091cd9d92387542f2c5702cf1a1ea506cb4c3e6b",
-    "/main-es5.d34b030305b8f8fa8a25.js": "982096c998406bd64fefae08fe1ef282a18e11f0",
+    "/index.html": "5135516f9c099e9e942607bcd458b7bbca1b30e1",
+    "/main-es2015.bd78425416fb2f718a5f.js": "522e36eb6d1b3d2b2012c6d0b658c675dfd46f21",
+    "/main-es5.bd78425416fb2f718a5f.js": "e91319d2d7858d9b3435555f78802c8cb50a6550",
     "/manifest.webmanifest": "343021ee5a9d27254e8bde9d65cdbc21f9f2c6c0",
     "/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.b13383c02142e13834f5.js": "c390b99d4d83e624546b67be7ad521eb12162e13",
