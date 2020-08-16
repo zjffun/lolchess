@@ -12,6 +12,7 @@ export class ItemDetailPopperComponent implements OnInit {
 
   public show(item, event) {
     event.stopPropagation();
+    this.destroyPopper();
     this.item = item;
     this.isShow = true;
     this.popper = createPopper(event.target, this.tooltip.nativeElement, {});
@@ -43,15 +44,8 @@ export class ItemDetailPopperComponent implements OnInit {
     document.addEventListener('click', this.handleDocClick);
   }
 
-  // ngOnChanges() {
-  //   if (this.itemDom) {
-  //   } else {
-  //     this.isShow = false;
-  //     this.destroyPopper();
-  //   }
-  // }
-
   ngOnDestroy() {
+    this.destroyPopper();
     document.removeEventListener('click', this.handleDocClick);
   }
 }
