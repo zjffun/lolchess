@@ -5,10 +5,13 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build:prod": "ng build --prod && cp dist/lolchess/index.html dist/lolchess/404.html",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "cdeploy": "ng build --prod && gh-pages -d dist/lolchess -b master -o coding"
+    "deploy:coding": "gh-pages -d dist/lolchess -b master -o coding",
+    "deploy:github": "gh-pages -d dist/lolchess -o github",
+    "deploy": "npm run build:prod && npm run deploy:coding && npm run deploy:github"
   },
   "private": true,
   "dependencies": {
