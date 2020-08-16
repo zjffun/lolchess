@@ -1,0 +1,22 @@
+<div class="font-size-12 text-left py-1">
+    <p class="text-yellow mb-1">Guinsoo&#039;s Rageblade</p>
+    <div>
+        Basic Attacks grant +5% bonus Attack Speed for the rest of combat. No stacking limit.
+    </div>
+
+            
+        <div class="mt-2 text-gray line-height-1">
+                                            <div>+15% Attack Speed</div>
+                                            <div>+20% Spell Power</div>
+                    </div>
+
+        
+                    <div class="mt-2 text-gray">
+                                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1043.png" alt="Recurve Bow" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                                                            <i class="fa fa-plus text-white align-middle font-weight-normal mx-1"></i>
+                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1058.png" alt="Needlessly Large Rod" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                            </div>
+            
+    </div>

@@ -1,0 +1,22 @@
+<div class="font-size-12 text-left py-1">
+    <p class="text-yellow mb-1">Titan’s Resolve</p>
+    <div>
+        When the wearer takes damage or inflicts a critical hit, they gain a 2% stacking damage bonus. Stacks up to 50 times, at which point the wearer gains 25 Armor and Magic Resistance, and increases in size.
+    </div>
+
+            
+        <div class="mt-2 text-gray line-height-1">
+                                            <div>+15% Attack Speed</div>
+                                            <div>+25 Armor</div>
+                    </div>
+
+        
+                    <div class="mt-2 text-gray">
+                                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1043.png" alt="Recurve Bow" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                                                            <i class="fa fa-plus text-white align-middle font-weight-normal mx-1"></i>
+                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1031.png" alt="Chain Vest" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                            </div>
+            
+    </div>

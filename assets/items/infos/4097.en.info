@@ -1,0 +1,22 @@
+<div class="font-size-12 text-left py-1">
+    <p class="text-yellow mb-1">Zeke&#039;s Herald</p>
+    <div>
+        When combat begins, the wearer and all allies within 1 hex in the same row gain +30% Attack Speed for the rest of combat.
+    </div>
+
+            
+        <div class="mt-2 text-gray line-height-1">
+                                            <div>+15 Attack Damage</div>
+                                            <div>+200 Health</div>
+                    </div>
+
+        
+                    <div class="mt-2 text-gray">
+                                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1038.png" alt="B.F. Sword" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                                                            <i class="fa fa-plus text-white align-middle font-weight-normal mx-1"></i>
+                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1011.png" alt="Giant&#039;s Belt" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                            </div>
+            
+    </div>

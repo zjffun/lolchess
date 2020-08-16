@@ -1,0 +1,1441 @@
+<!doctype html>
+<html lang="en" data-locale="en">
+<head>
+    <title>Poppy - TFT Set 3.5 Champion Guide - TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="xUDQ0quobD9bEi7etGYY9hplwB3QmObMHG0BKjRG">
+    <meta name="title" content="Poppy - TFT Set 3.5 Champion Guide :: TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG"/>
+    <meta name="description" content="Poppy champion detail, stats, skill, spell, synergies, class, origin for LoL TFT"/>
+    <meta name="keywords" content="TFT, Stats, League of Legends, Teamfight Tactics, Auto Chess, Guide, Synergies"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:title" content="Poppy - TFT Set 3.5 Champion Guide :: TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG"/>
+    <meta property="og:site_name" content="TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG">
+    <meta property="og:image" content="//cdn.lolchess.gg/images/common/og_lolchessgg.png?1"/>
+    <meta property="og:description" content="Poppy champion detail, stats, skill, spell, synergies, class, origin for LoL TFT"/>
+    <meta property="og:url" content="https://lolchess.gg/champions/set3.5/poppy">
+    <meta property="og:type" content="website"/>
+    <meta name="apple-mobile-web-app-title" content="LoLCHESS.GG"/>
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="//cdn.lolchess.gg/images/favicon/ms-icon-144x144.png?1">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="57x57?1" href="//cdn.lolchess.gg/images/favicon/apple-icon-57x57.png?1">
+    <link rel="apple-touch-icon" sizes="60x60" href="//cdn.lolchess.gg/images/favicon/apple-icon-60x60.png?1">
+    <link rel="apple-touch-icon" sizes="72x72" href="//cdn.lolchess.gg/images/favicon/apple-icon-72x72.png?1">
+    <link rel="apple-touch-icon" sizes="76x76" href="//cdn.lolchess.gg/images/favicon/apple-icon-76x76.png?1">
+    <link rel="apple-touch-icon" sizes="114x114" href="//cdn.lolchess.gg/images/favicon/apple-icon-114x114.png?1">
+    <link rel="apple-touch-icon" sizes="120x120" href="//cdn.lolchess.gg/images/favicon/apple-icon-120x120.png?1">
+    <link rel="apple-touch-icon" sizes="144x144" href="//cdn.lolchess.gg/images/favicon/apple-icon-144x144.png?1">
+    <link rel="apple-touch-icon" sizes="152x152" href="//cdn.lolchess.gg/images/favicon/apple-icon-152x152.png?1">
+    <link rel="apple-touch-icon" sizes="180x180" href="//cdn.lolchess.gg/images/favicon/apple-icon-180x180.png?1">
+    <link rel="icon" type="image/png" sizes="192x192"  href="//cdn.lolchess.gg/images/favicon/android-icon-192x192.png?1">
+    <link rel="icon" type="image/png" sizes="32x32" href="//cdn.lolchess.gg/images/favicon/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="96x96" href="//cdn.lolchess.gg/images/favicon/favicon-96x96.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="//cdn.lolchess.gg/images/favicon/favicon-16x16.png?1">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="canonical" href="https://lolchess.gg/champions/set3.5/poppy">
+    <link rel="alternate" href="https://lolchess.gg/champions/set3.5/poppy" hreflang="x-default">
+    <link rel="alternate" href="https://lolchess.gg/champions/set3.5/poppy?hl=en-US" hreflang="en-US">
+    <link rel="alternate" href="https://lolchess.gg/champions/set3.5/poppy?hl=ko-KR" hreflang="ko-KR">
+    <link rel="alternate" href="https://lolchess.gg/champions/set3.5/poppy?hl=ja-JP" hreflang="ja-JP">
+    <link rel="alternate" href="https://lolchess.gg/champions/set3.5/poppy?hl=vi-VN" hreflang="vi-VN">
+    <link rel="alternate" href="https://lolchess.gg/champions/set3.5/poppy?hl=de-DE" hreflang="de-DE">
+    <link rel="stylesheet" href="//cdn.lolchess.gg/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdn.lolchess.gg/css/app.css?id=cf5ed3941671f59cc5bd">
+    <link rel="stylesheet" href="//cdn.lolchess.gg/vendor/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="//cdn.lolchess.gg/css/pages/guide.css?id=9562ee473b0e90ca052b">
+    <script async src="//www.googletagmanager.com/gtag/js?id=UA-142246921-1"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-142246921-1');</script>
+    <script async src="//securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        window.googletag = window.googletag || {cmd: []};
+        googletag.cmd.push(function () {
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-2756103832564341", enable_page_level_ads: true });</script>
+    <script async src="//www.statsforads.com/tag/8093f8e3-93c6-4b8d-8a20-e56dced846a1.min.js"></script>
+    <script type="text/javascript" src="https://ads.vidoomy.com/lolchess.gg_13024.js" async></script>
+    <script>
+    (function(t,l){
+        let w=window,d=document,s=d.createElement('script'),f=d.getElementsByTagName('script')[0];
+        w[t]=w[t]||function(){(w["_rgea"]=w["_rgea"]||[["uts",new Date()]]).push(Array.prototype.slice.call(arguments));w.RGEA&&w.RGEA.p();};
+        s.type='text/javascript'; s.async=true; s.defer=true; s.src=l; f.parentNode.insertBefore(s,f);
+    })("rgea", "https://static.developer.riotgames.com/js/rgea.min.js");
+
+    rgea("propertyId", "RGEA0002-07f41c8b-80fc-40db-b1e7-859380447559");
+    rgea("anonymous", false); 
+    </script>
+</head>
+<body >
+<div id="wrapper">
+    <header class="header-gnb tft ">
+    <div class="family-sites">
+        <div class="container">
+            <ul>
+                <li>
+                    <a href="//dak.gg">
+                        <img src="//cdn.lolchess.gg/images/family/ico_pubg.png" srcset="//cdn.lolchess.gg/images/family/ico_pubg@2x.png 2x">
+                        <span>PUBG</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//wz.dak.gg">
+                        <img src="//cdn.lolchess.gg/images/family/logo-wz.png" srcset="//cdn.lolchess.gg/images/family/logo-wz@2x.png 2x">
+                        <span>CoD: Warzone</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//valorant.dak.gg">
+                        <img src="//cdn.lolchess.gg/images/family/logo-valorant.svg" alt="" width="16">
+                        <span>Valorant</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//poro.gg">
+                        <img src="//cdn.lolchess.gg/images/family/ico_lol.png" srcset="//cdn.lolchess.gg/images/family/ico_lol@2x.png 2x">
+                        <span>League of Legends</span>
+                    </a>
+                </li>
+                <li class="active">
+                    <a href="//lolchess.gg">
+                        <img src="//cdn.lolchess.gg/images/family/ico_tft_lolchess.png">
+                        <span>TeamFight Tactics</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//lor.poro.gg">
+                        <img src="//cdn.lolchess.gg/images/family/ico_lor.png">
+                        <span>LoR</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="//apexer.gg">
+                        <img src="//cdn.lolchess.gg/images/family/symbol-apexlegends@2x.png">
+                        <span>Apex Legends</span>
+                    </a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+
+    <div class="locale">
+                                                                
+    <ul class="dropdown-menu">
+                                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=ko-KR" data-lang="ko_KR">
+                    한국어
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=en-US" data-lang="en_US">
+                    English
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=ja-JP" data-lang="ja_JP">
+                    日本語
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=vi-VN" data-lang="vi_VN">
+                    Tiếng Việt
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=de-DE" data-lang="de_DE">
+                    Deutsch
+                </a>
+            </li>
+            </ul>
+</div>
+    <div class="brand-site brand-site-tft container">
+        <a href="/" class="logo logo-champions">
+            <img src="//cdn.lolchess.gg/images/common/lolchessgg-logo-bkbg@2x.png" alt="LoLChess.GG">
+                                                </a>
+
+        
+        <div class="search-box" id="gnb-search-box">
+    <form action="/search" class="search">
+        <div class="btn-group">
+                        <input type="hidden" name="region" value="NA">
+            <button type="button" class="btn btn-dark btn-sm dropdown-toggle" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                <span>NA</span>
+            </button>
+            <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#"
+                       data-region="br">BR</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="eune">EUNE</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="euw">EUW</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="jp">JP</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="kr">KR</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="lan">LAN</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="las">LAS</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="na">NA</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="oce">OCE</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="tr">TR</a>
+                                    <a class="dropdown-item" href="#"
+                       data-region="ru">RU</a>
+                            </div>
+        </div>
+        <input type="text" name="name" value="" maxlength="30" required
+               placeholder="Search Summoner Name"/>
+        <button type="submit">
+            <i class="fas fa-search"></i>
+        </button>
+    </form>
+</div>
+    </div>
+    <div class="gnb gnb-tft">
+        <div class="container">
+            <ul>
+                <li class="guide">
+                    <a href="/patch-notes">Guides</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/meta">Comps</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/statistics/meta">Meta Trends</a>
+                </li>
+                <li class="new">
+                    <a href="https://lolchess.gg/statistics/items">Item Trends</a>
+                </li>
+                <li class="bar"><span></span></li>
+                <li>
+                    <a href="https://lolchess.gg/leaderboards">Leaderboards</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/favorites">Favorites</a>
+                </li>
+                <li class="bar"><span></span></li>
+                <li class="toggle_set">
+                    <a href="/tft/3.5">SET 3.5</a>
+                </li>
+                <li class="active">
+                    <a href="https://lolchess.gg/champions/set3.5">Champions</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/synergies">Synergies</a>
+                </li>
+                <li>
+                    <a href="https://lolchess.gg/items">Items</a>
+                </li>
+                <li class="">
+                    <a href="https://lolchess.gg/cheatsheet">Cheat Sheet</a>
+                </li>
+                <li class="bar"><span></span></li>
+                <li class="builder">
+                    <a href="https://lolchess.gg/builder">Builder</a>
+                </li>
+                <li class="simulator">
+                    <a href="/simulator">Synergy Builder</a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</header>
+        <div class="container-full mt-4 px-0 px-md-3">
+        <div class="ap_side1 champions">
+                    <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-2756103832564341"
+                 data-ad-slot="7516074584"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            </div>
+        <div class="ap_side2 champions"
+        >
+                    <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-2756103832564341"
+                 data-ad-slot="2263747906"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            </div>
+        <div class="ap_side2_opad360 champions">
+        <script>
+            if (window.innerWidth >= 1800) {
+                document.writeln('<ins class="staticpubads89354" data-sizes-desktop="300x600,300x250,240x400,160x600,120x600" data-slot="5"></ins>');
+            } else if (window.innerWidth >= 1500) {
+                document.writeln('<ins class="staticpubads89354" data-sizes-desktop="160x600,120x600" data-slot="5"></ins>');
+            } else if (window.innerWidth >= 1430) {
+                document.writeln('<ins class="staticpubads89354" data-sizes-desktop="120x600" data-slot="5"></ins>');
+            }
+        </script>
+    </div>
+        <div class="ap_top champions">
+                    <ins class="adsbygoogle"
+                 style="display:block;"
+                 data-ad-client="ca-pub-2756103832564341"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                var params = {
+                    google_ad_slot: 6723643763
+                };
+
+                if (window.innerWidth >= 1200) {
+                                            params.google_ad_slot = 9377727261;
+                                    } else {
+                    if (window.innerWidth <= 727) {
+                        params.google_ad_format = 'rectangle';
+                    } else {
+                        params.google_ad_format = 'auto';
+                    }
+                }
+
+                (adsbygoogle = window.adsbygoogle || []).push({
+                    params: params
+                });
+            </script>
+            </div>
+
+                    <div class="mb-4">
+                <div class="container-full px-0">
+    <div class="banner-set3">
+        <img src="//cdn.lolchess.gg/images/tft/3.5/set-3-5-bannerbg.png"
+             srcset="//cdn.lolchess.gg/images/tft/3.5/set-3-5-bannerbg@2x.png 2x"
+             alt="Set3.5 Banner"
+             class="banner-set3__background">
+
+        <div class="banner-set3__content">
+                            <p class="banner-set3__message-big" style="color:#f0be5f;">
+                    Check the latest information for Set 3.5: Return to the Galaxy!
+                </p>
+                <p class="banner-set3__message-small">
+                    TFT 10.15 patch data has been applied.
+                </p>
+                    </div>
+    </div>
+</div>
+            </div>
+        
+        <div style="overflow-x: hidden;">
+            <div class="row row-normal mb-5">
+                <div class="col-xl-3 mb-3">
+                    <div class="guide-champion-list">
+    <div class="guide-champion-list__header">
+        <div class="guide-champion-list__input">
+            <input id="champion-list-input" placeholder="Champion Name">
+            <i class="fa fa-search"></i>
+        </div>
+    </div>
+    <div class="guide-champion-list__content"
+         style="">
+                                                        <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/ahri"
+                   data-keyword="ahri">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/ahri.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Ahri</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/annie"
+                   data-keyword="annie">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/annie.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Annie</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/ashe"
+                   data-keyword="ashe">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/ashe.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Ashe</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/aurelionsol"
+                   data-keyword="aurelionsol">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-5 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/aurelionsol.png" width="50" class="mr-1">
+                        <span class="cost">$5</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Aurelion Sol</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/bard"
+                   data-keyword="bard">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/bard.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Bard</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/blitzcrank"
+                   data-keyword="blitzcrank">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/blitzcrank.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Blitzcrank</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/caitlyn"
+                   data-keyword="caitlyn">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/caitlyn.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Caitlyn</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/cassiopeia"
+                   data-keyword="cassiopeia">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/cassiopeia.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Cassiopeia</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/darius"
+                   data-keyword="darius">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/darius.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Darius</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/ekko"
+                   data-keyword="ekko">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-5 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/ekko.png" width="50" class="mr-1">
+                        <span class="cost">$5</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Ekko</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/ezreal"
+                   data-keyword="ezreal">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/ezreal.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Ezreal</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/fiora"
+                   data-keyword="fiora">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/fiora.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Fiora</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/fizz"
+                   data-keyword="fizz">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/fizz.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Fizz</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/gangplank"
+                   data-keyword="gangplank">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-5 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/gangplank.png" width="50" class="mr-1">
+                        <span class="cost">$5</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Gangplank</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/gnar"
+                   data-keyword="gnar">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/gnar.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Gnar</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/graves"
+                   data-keyword="graves">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/graves.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Graves</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/illaoi"
+                   data-keyword="illaoi">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/illaoi.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Illaoi</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/irelia"
+                   data-keyword="irelia">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/irelia.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Irelia</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/janna"
+                   data-keyword="janna">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-5 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/janna.png" width="50" class="mr-1">
+                        <span class="cost">$5</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Janna</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/jarvaniv"
+                   data-keyword="jarvaniv">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/jarvaniv.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Jarvan IV</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/jayce"
+                   data-keyword="jayce">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/jayce.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Jayce</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/jhin"
+                   data-keyword="jhin">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/jhin.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Jhin</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/jinx"
+                   data-keyword="jinx">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/jinx.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Jinx</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/karma"
+                   data-keyword="karma">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/karma.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Karma</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/kogmaw"
+                   data-keyword="kogmaw">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/kogmaw.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">KogMaw</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/leona"
+                   data-keyword="leona">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/leona.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Leona</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/lucian"
+                   data-keyword="lucian">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/lucian.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Lucian</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/lulu"
+                   data-keyword="lulu">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-5 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/lulu.png" width="50" class="mr-1">
+                        <span class="cost">$5</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Lulu</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/malphite"
+                   data-keyword="malphite">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/malphite.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Malphite</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/masteryi"
+                   data-keyword="masteryi">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/masteryi.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Master Yi</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/mordekaiser"
+                   data-keyword="mordekaiser">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/mordekaiser.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Mordekaiser</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/nautilus"
+                   data-keyword="nautilus">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/nautilus.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Nautilus</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/neeko"
+                   data-keyword="neeko">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/neeko.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Neeko</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/nocturne"
+                   data-keyword="nocturne">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/nocturne.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Nocturne</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/poppy"
+                   data-keyword="poppy">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/poppy.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Poppy</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/rakan"
+                   data-keyword="rakan">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/rakan.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Rakan</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/riven"
+                   data-keyword="riven">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/riven.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Riven</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/rumble"
+                   data-keyword="rumble">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/rumble.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Rumble</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/shaco"
+                   data-keyword="shaco">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/shaco.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Shaco</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/shen"
+                   data-keyword="shen">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/shen.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Shen</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/soraka"
+                   data-keyword="soraka">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/soraka.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Soraka</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/syndra"
+                   data-keyword="syndra">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/syndra.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Syndra</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/teemo"
+                   data-keyword="teemo">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/teemo.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Teemo</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/thresh"
+                   data-keyword="thresh">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-5 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/thresh.png" width="50" class="mr-1">
+                        <span class="cost">$5</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Thresh</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/twistedfate"
+                   data-keyword="twistedfate">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/twistedfate.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">TwistedFate</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/urgot"
+                   data-keyword="urgot">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-5 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/urgot.png" width="50" class="mr-1">
+                        <span class="cost">$5</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Urgot</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/vayne"
+                   data-keyword="vayne">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/vayne.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Vayne</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/vi"
+                   data-keyword="vi">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-3 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/vi.png" width="50" class="mr-1">
+                        <span class="cost">$3</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Vi</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/viktor"
+                   data-keyword="viktor">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/viktor.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Viktor</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/monkeyking"
+                   data-keyword="wukongmonkeyking">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-4 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/monkeyking.png" width="50" class="mr-1">
+                        <span class="cost">$4</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Wukong</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/xayah"
+                   data-keyword="xayah">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/xayah.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Xayah</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/xerath"
+                   data-keyword="xerath">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-5 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/xerath.png" width="50" class="mr-1">
+                        <span class="cost">$5</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Xerath</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/xinzhao"
+                   data-keyword="xinzhao">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/xinzhao.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Xin Zhao</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/yasuo"
+                   data-keyword="yasuo">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/yasuo.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Yasuo</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/zed"
+                   data-keyword="zed">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-2 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/zed.png" width="50" class="mr-1">
+                        <span class="cost">$2</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Zed</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/ziggs"
+                   data-keyword="ziggs">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/ziggs.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Ziggs</span>
+                </a>
+                            <a class="guide-champion-list__item" href="https://lolchess.gg/champions/set3.5/zoe"
+                   data-keyword="zoe">
+                                        <div class="guide-champion-item guide-champion-item--50 cost-1 ">
+                        <img src="//cdn.lolchess.gg/images/tft/champions/set3/zoe.png" width="50" class="mr-1">
+                        <span class="cost">$1</span>
+                    </div>
+
+                    <span class="guide-champion-list__item__name">Zoe</span>
+                </a>
+                        </div>
+</div>
+                </div>
+
+                <div class="col-12 d-md-none">
+                    <div class="ap_top_mobile champions">
+        <div id='div-gpt-ad-1563152770827-0'>
+            <!-- /21811228837/lolchessgg_top_mobile -->
+            <script>
+                if (window.innerWidth < 728) {
+                    googletag.cmd.push(function () {
+                        var gpt_mapping_mobile = googletag.sizeMapping()
+                            .addSize([336, 0], [[336, 280]])
+                            .addSize([300, 0], [[300, 250]])
+                            .addSize([0, 0], [])
+                            .build();
+
+                        googletag.defineSlot('/21811228837/lolchessgg_top_mobile', [336, 280], 'div-gpt-ad-1563152770827-0')
+                            .defineSizeMapping(gpt_mapping_mobile)
+                            .addService(googletag.pubads());
+
+                        googletag.display('div-gpt-ad-1563152770827-0');
+                    });
+                }
+            </script>
+        </div>
+    </div>
+                </div>
+
+                
+                <div class="col-xl-9 mt-xl-0">
+                    <div class="guide-champion-detail">
+    
+    <div class="guide-champion-detail__header">
+        <div class="guide-champion-detail__header__background"
+             style="background-image: url(//cdn.lolchess.gg/images/tft/champions/set3/splash/tft3_Poppy.jpg)"></div>
+        <span class="guide-champion-detail__name">Poppy</span>
+
+        
+        <div class="guide-champion-detail__stats d-none d-md-block">
+            <div class="guide-champion-detail__stats__row">
+                <div class="guide-champion-detail__stats__name">Cost</div>
+                <div class="guide-champion-detail__stats__value">
+                    <img src="//cdn.lolchess.gg/images/icon/ico-gold.png"
+                         alt="Gold"> 1
+                    
+                    <div class="d-inline-block font-size-11 text-light-gray ml-2">
+                        <i class="fa fa-sack-dollar"></i>
+                        1/3/5
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="guide-champion-detail__stats__row">
+                <div
+                    class="guide-champion-detail__stats__name">Origin</div>
+                <div class="guide-champion-detail__stats__value">
+                                                                                                <div>
+                                <img src="//cdn.lolchess.gg/images/tft/traiticons-darken/trait_icon_starguardian.png" alt="Star Guardian" width="14"
+                                     onerror="this.src = '//cdn.lolchess.gg/images/tft/traiticons-white/trait_icon_unknown.png';"
+                                >
+                                Star Guardian
+                            </div>
+                                                            </div>
+            </div>
+            <div class="guide-champion-detail__stats__row">
+                <div class="guide-champion-detail__stats__name">Class</div>
+                <div class="guide-champion-detail__stats__value">
+                                                                                                <div>
+                                <img src="//cdn.lolchess.gg/images/tft/traiticons-darken/trait_icon_vanguard.png" alt="Vanguard" width="14"
+                                     onerror="this.src = '//cdn.lolchess.gg/images/tft/traiticons-white/trait_icon_unknown.png';"
+                                >
+                                Vanguard
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="guide-champion-detail__stats-small px-3 py-2 d-md-none">
+        <div class="row">
+            <div class="col-4">
+                <div class="mb-2">Cost</div>
+                <div>
+                    <img src="//cdn.lolchess.gg/images/icon/ico-gold.png" alt="Gold">
+                    1
+                </div>
+                <div class="text-light-gray mt-1">
+                    <i class="fa fa-sack-dollar"></i>
+                    1/3/5
+                </div>
+                
+            </div>
+            <div class="col-4">
+                <div class="mb-2">Origin</div>
+                <div>
+                                                                        <div>
+                                <img src="//cdn.lolchess.gg/images/tft/traiticons-darken/trait_icon_starguardian.png"
+                                     onerror="this.src = '//cdn.lolchess.gg/images/tft/traiticons-white/trait_icon_unknown.png';"
+                                     alt="Star Guardian" width="14">
+                                <span class="align-middle">Star Guardian</span>
+                            </div>
+                                                            </div>
+            </div>
+            <div class="col-4">
+                <div class="mb-2">Class</div>
+                <div>
+                                                                        <div>
+                                <img src="//cdn.lolchess.gg/images/tft/traiticons-darken/trait_icon_vanguard.png"
+                                     onerror="this.src = '//cdn.lolchess.gg/images/tft/traiticons-white/trait_icon_unknown.png';"
+                                     alt="Vanguard" width="14">
+                                <span class="align-middle">Vanguard</span>
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+    </div>
+
+            
+        <div class="guide-champion-detail__base-stats">
+    <div class="guide-champion-detail__base-stat">
+        <div class="guide-champion-detail__base-stat__name">
+            Health
+        </div>
+        <div class="guide-champion-detail__base-stat__value">
+            650
+            <span class="d-none d-lg-inline">
+                / 1170 / 2106
+            </span>
+            
+            <div class="font-size-11 text-light-gray d-lg-none">
+                1170/2106
+            </div>
+            
+        </div>
+    </div>
+    <div class="guide-champion-detail__base-stat">
+        <div class="guide-champion-detail__base-stat__name">
+            Attack Damage
+        </div>
+        <div class="guide-champion-detail__base-stat__value">
+            50
+            <span class="d-none d-lg-inline">
+                / 90 / 162
+            </span>
+            
+            <div class="font-size-11 text-light-gray d-lg-none">
+                90/162
+            </div>
+            
+        </div>
+    </div>
+    <div class="guide-champion-detail__base-stat">
+        <div class="guide-champion-detail__base-stat__name">
+            DPS
+        </div>
+        <div class="guide-champion-detail__base-stat__value">
+            28
+            <span class="d-none d-lg-inline">
+                / 50 / 89
+            </span>
+            
+            <div class="font-size-11 text-light-gray d-lg-none">
+                50/89
+            </div>
+            
+        </div>
+    </div>
+    <div class="guide-champion-detail__base-stat">
+        <div class="guide-champion-detail__base-stat__name">
+            Attack Range
+        </div>
+        <div class="guide-champion-detail__base-stat__value">
+            <img src="//cdn.lolchess.gg/images/tft/attack-distance/set3/ico_attack_distance301.png" alt="AttackRange">
+        </div>
+    </div>
+    <div class="guide-champion-detail__base-stat">
+        <div class="guide-champion-detail__base-stat__name">
+            Attack Speed
+        </div>
+        <div class="guide-champion-detail__base-stat__value">
+            0.55
+                                </div>
+    </div>
+    <div class="guide-champion-detail__base-stat">
+        <div class="guide-champion-detail__base-stat__name">
+            Armor
+        </div>
+        <div class="guide-champion-detail__base-stat__value">
+            45
+        </div>
+    </div>
+    <div class="guide-champion-detail__base-stat">
+        <div class="guide-champion-detail__base-stat__name">
+            Magical Resistance
+        </div>
+        <div class="guide-champion-detail__base-stat__value">
+            30
+        </div>
+    </div>
+</div>
+
+        
+        <div class="guide-champion-detail__skill">
+                                        <img class="guide-champion-detail__skill__icon"
+                     src="//cdn.lolchess.gg/images/tft/champion-skills/poppy_bucklertoss.png"
+                     onerror="this.src = '//cdn.lolchess.gg/images/tft/traiticons-black/trait_icon_unknown.png';"
+                     alt="Buckler Toss" width="44">
+                        <strong class="d-block font-size-14">Buckler Toss</strong>
+            <div class="text-gray">
+                <span>Active</span>
+                <span class="mx-1">|</span>
+                <img src="//cdn.lolchess.gg/images/icon/ico-mp.png" alt="MP" width="14">
+                <span>Mana: 50/90</span>
+            </div>
+            <span class="d-block mt-1">Poppy throws her buckler at the furthest enemy dealing damage. The buckler bounces back to Poppy, shielding her.</span>
+
+                            <div class="guide-champion-detail__skill__stats">
+                                                                    <div>
+                            <span class="font-weight-bold">Damage</span>
+                            <span>:  100 / 150 / 200</span>
+                        </div>
+                                                                    <div>
+                            <span class="font-weight-bold">Shield Amount</span>
+                            <span>:  200 / 300 / 400</span>
+                        </div>
+                                    </div>
+                    </div>
+    
+    
+    <div class="guide-champion-detail__synergies mt-2">
+        <div class="guide-champion-detail__synergies__header">Traits</div>
+        <div class="guide-champion-detail__synergies__content">
+                                            <div class="guide-champion-detail__synergy">
+    <table>
+        <tr>
+            <td class="type">
+                <div class="tft-hexagon tft-hexagon--starguardian">
+                    <img src="//cdn.lolchess.gg/images/tft/traiticons-white/trait_icon_starguardian.png"
+                         onerror="this.src = '//cdn.lolchess.gg/images/tft/traiticons-white/trait_icon_unknown.png';"
+                         alt="Star Guardian" width="24">
+                </div>
+                <span class="align-middle">Star Guardian</span>
+            </td>
+            <td class="content">
+                <div class="guide-champion-detail__synergy__champions">
+                                                                                                <a href="/champions/set3.5/zoe" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Zoe">
+                                <div class="guide-champion-item cost-1 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/zoe.png" width="44" class="mr-1">
+                                    <span class="cost">$1</span>
+                                    <span class="name">Zoe</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/poppy" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Poppy">
+                                <div class="guide-champion-item cost-1 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/poppy.png" width="44" class="mr-1">
+                                    <span class="cost">$1</span>
+                                    <span class="name">Poppy</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/ahri" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Ahri">
+                                <div class="guide-champion-item cost-2 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/ahri.png" width="44" class="mr-1">
+                                    <span class="cost">$2</span>
+                                    <span class="name">Ahri</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/neeko" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Neeko">
+                                <div class="guide-champion-item cost-3 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/neeko.png" width="44" class="mr-1">
+                                    <span class="cost">$3</span>
+                                    <span class="name">Neeko</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/syndra" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Syndra">
+                                <div class="guide-champion-item cost-3 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/syndra.png" width="44" class="mr-1">
+                                    <span class="cost">$3</span>
+                                    <span class="name">Syndra</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/soraka" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Soraka">
+                                <div class="guide-champion-item cost-4 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/soraka.png" width="44" class="mr-1">
+                                    <span class="cost">$4</span>
+                                    <span class="name">Soraka</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/janna" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Janna">
+                                <div class="guide-champion-item cost-5 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/janna.png" width="44" class="mr-1">
+                                    <span class="cost">$5</span>
+                                    <span class="name">Janna</span>
+                                </div>
+                            </a>
+                                                            </div>
+                <div class="text-gray">
+                                                                <strong class="text-black d-block">Star Guardians' spellcasts grant Mana to other Star Guardians spread among them.</strong>
+                                                                <div class="guide-champion-detail__synergy__stat mt-2">
+                            <strong class="bg-tft--starguardian">3</strong> 15 Total Mana
+                        </div>
+                                            <div class="guide-champion-detail__synergy__stat mt-2">
+                            <strong class="bg-tft--starguardian">6</strong> 25 Total Mana
+                        </div>
+                                            <div class="guide-champion-detail__synergy__stat mt-2">
+                            <strong class="bg-tft--starguardian">9</strong> 45 Total Mana
+                        </div>
+                                    </div>
+            </td>
+        </tr>
+    </table>
+</div>
+                                                        <div class="guide-champion-detail__synergy">
+    <table>
+        <tr>
+            <td class="type">
+                <div class="tft-hexagon tft-hexagon--vanguard">
+                    <img src="//cdn.lolchess.gg/images/tft/traiticons-white/trait_icon_vanguard.png"
+                         onerror="this.src = '//cdn.lolchess.gg/images/tft/traiticons-white/trait_icon_unknown.png';"
+                         alt="Vanguard" width="24">
+                </div>
+                <span class="align-middle">Vanguard</span>
+            </td>
+            <td class="content">
+                <div class="guide-champion-detail__synergy__champions">
+                                                                                                <a href="/champions/set3.5/leona" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Leona">
+                                <div class="guide-champion-item cost-1 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/leona.png" width="44" class="mr-1">
+                                    <span class="cost">$1</span>
+                                    <span class="name">Leona</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/poppy" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Poppy">
+                                <div class="guide-champion-item cost-1 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/poppy.png" width="44" class="mr-1">
+                                    <span class="cost">$1</span>
+                                    <span class="name">Poppy</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/mordekaiser" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Mordekaiser">
+                                <div class="guide-champion-item cost-2 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/mordekaiser.png" width="44" class="mr-1">
+                                    <span class="cost">$2</span>
+                                    <span class="name">Mordekaiser</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/nautilus" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Nautilus">
+                                <div class="guide-champion-item cost-2 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/nautilus.png" width="44" class="mr-1">
+                                    <span class="cost">$2</span>
+                                    <span class="name">Nautilus</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/jayce" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/Jayce">
+                                <div class="guide-champion-item cost-3 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/jayce.png" width="44" class="mr-1">
+                                    <span class="cost">$3</span>
+                                    <span class="name">Jayce</span>
+                                </div>
+                            </a>
+                                                                                                                        <a href="/champions/set3.5/monkeyking" class="d-inline-block mb-2"
+                               data-toggle="tooltip"
+                               data-tooltip-url="https://lolchess.gg/tooltip/champion/set3.5/MonkeyKing">
+                                <div class="guide-champion-item cost-4 ">
+                                    <img src="//cdn.lolchess.gg/images/tft/champions/set3/monkeyking.png" width="44" class="mr-1">
+                                    <span class="cost">$4</span>
+                                    <span class="name">Wukong</span>
+                                </div>
+                            </a>
+                                                            </div>
+                <div class="text-gray">
+                                                                <strong class="text-black d-block">Vanguard champions gain bonus Armor.</strong>
+                                                                <div class="guide-champion-detail__synergy__stat mt-2">
+                            <strong class="bg-tft--vanguard">2</strong> 125 Armor
+                        </div>
+                                            <div class="guide-champion-detail__synergy__stat mt-2">
+                            <strong class="bg-tft--vanguard">4</strong> 300 Armor
+                        </div>
+                                            <div class="guide-champion-detail__synergy__stat mt-2">
+                            <strong class="bg-tft--vanguard">6</strong> 1000 Armor
+                        </div>
+                                    </div>
+            </td>
+        </tr>
+    </table>
+</div>
+                    </div>
+    </div>
+
+    
+                                <div class="guide-champion-detail__recommend-items mt-2">
+                <div class="guide-champion-detail__recommend-items__header">Recommend Items</div>
+                <div class="guide-champion-detail__recommend-items__content">
+                                            <div class="d-inline-block mr-2"
+                             data-toggle="tooltip"
+                             data-tooltip-url="https://lolchess.gg/tooltip/item/set3.5/64?hideRecommendChampions=1">
+                            <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/3076.png"
+                                 alt="Bramble Vest"
+                                 width="40">
+                        </div>
+                                            <div class="d-inline-block mr-2"
+                             data-toggle="tooltip"
+                             data-tooltip-url="https://lolchess.gg/tooltip/item/set3.5/67?hideRecommendChampions=1">
+                            <img src="//cdn.lolchess.gg/images/tft/item/ZzRotPortal.png"
+                                 alt="Zz&#039;Rot Portal"
+                                 width="40">
+                        </div>
+                                            <div class="d-inline-block mr-2"
+                             data-toggle="tooltip"
+                             data-tooltip-url="https://lolchess.gg/tooltip/item/set3.5/13?hideRecommendChampions=1">
+                            <img src="//cdn.lolchess.gg/images/tft/item/DragonsClaw.png"
+                                 alt="Dragon&#039;s Claw"
+                                 width="40">
+                        </div>
+                                            <div class="d-inline-block mr-2"
+                             data-toggle="tooltip"
+                             data-tooltip-url="https://lolchess.gg/tooltip/item/set3.5/40?hideRecommendChampions=1">
+                            <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/3083.png"
+                                 alt="Warmog&#039;s Armor"
+                                 width="40">
+                        </div>
+                                            <div class="d-inline-block mr-2"
+                             data-toggle="tooltip"
+                             data-tooltip-url="https://lolchess.gg/tooltip/item/set3.5/22?hideRecommendChampions=1">
+                            <img src="//cdn.lolchess.gg/images/tft/item/IonicSpark.png"
+                                 alt="Ionic Spark"
+                                 width="40">
+                        </div>
+                                    </div>
+            </div>
+            </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ap_top_mobile champions">
+        <div id='div-gpt-ad-1564712569127-0'>
+            <!-- /21811228837/lolchessgg_middle_mobile -->
+            <script>
+                if (window.innerWidth < 728) {
+                    googletag.cmd.push(function () {
+                        var gpt_mapping_mobile = googletag.sizeMapping()
+                            .addSize([336, 0], [[336, 280]])
+                            .addSize([300, 0], [[300, 250]])
+                            .addSize([0, 0], [])
+                            .build();
+
+                        googletag.defineSlot('/21811228837/lolchessgg_middle_mobile', [336, 280], 'div-gpt-ad-1564712569127-0')
+                            .defineSizeMapping(gpt_mapping_mobile)
+                            .addService(googletag.pubads());
+
+                        googletag.display('div-gpt-ad-1564712569127-0');
+                    });
+                }
+            </script>
+        </div>
+    </div>
+
+        <h5 class="font-weight-bold d-block mb-3">
+            Champions <em
+                style="font-size:12px; color:#666; font-weight:normal; font-style:normal;"></em>
+        </h5>
+
+        <div style="min-height: 1500px;">
+            <guide-champion id="guide-champion"></guide-champion>
+        </div>
+
+        <div class="ap_bottom_mobile champions">
+        <!-- /21811228837/lolchessgg_bottom_mobile -->
+        <div id='div-gpt-ad-1567412161957-0'>
+            <script>
+                if (window.innerWidth < 728) {
+                    googletag.cmd.push(function () {
+                        var gpt_mapping_mobile = googletag.sizeMapping()
+                            .addSize([336, 0], [[336, 280]])
+                            .addSize([300, 0], [[300, 250]])
+                            .addSize([0, 0], [])
+                            .build();
+
+                        googletag.defineSlot('/21811228837/lolchessgg_bottom_mobile', [336, 280], 'div-gpt-ad-1567412161957-0')
+                            .defineSizeMapping(gpt_mapping_mobile)
+                            .addService(googletag.pubads());
+
+                        googletag.display('div-gpt-ad-1567412161957-0');
+                    });
+                }
+            </script>
+        </div>
+    </div>
+    </div>
+ <footer>
+        <div class="container">
+            <div class="locale">
+                                                                
+    <ul class="dropdown-menu">
+                                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=ko-KR" data-lang="ko_KR">
+                    한국어
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=en-US" data-lang="en_US">
+                    English
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=ja-JP" data-lang="ja_JP">
+                    日本語
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=vi-VN" data-lang="vi_VN">
+                    Tiếng Việt
+                </a>
+            </li>
+                                <li>
+                <a href="https://lolchess.gg/champions/set3.5/poppy?hl=de-DE" data-lang="de_DE">
+                    Deutsch
+                </a>
+            </li>
+            </ul>
+</div>
+            <p class="copyright">
+                © LoLCHESS.GG. All Rights Reserved. <a href="mailto:tft@lolchess.gg">TFT@LoLCHESS.GG</a>
+            </p>
+            <p>
+                lolchess.gg is hosted by PlayXP Inc.
+                lolchess.gg isn’t endorsed by Riot Games
+                and doesn’t reflect the views or opinions of Riot Games
+                or anyone officially involved in producing or managing League of Legends.
+                League of Legends and Riot Games are trademarks
+                or registered trademarks of Riot Games, Inc.
+                League of Legends © Riot Games, Inc.
+            </p>
+                    </div>
+    </footer>
+</div>
+<script>
+    window.__locale = "en";
+    window.__i18n = {"general":{"share":"Share","close":"Close","shareCopyPlaceholder":"Click to copy url","copySuccessMessage":"Copied","networkErrorMessage":"Network error occurred.","serverErrorMessage":"Server error occurred.","serverErrorRetryLaterMessage":"Server error occurred. Please try again in a moment.","inMaintenanceRetryLaterMessage":"We're temporarily down for maintenance. Please try again in a moment.","abnormalAccessMessage":"Abnormal access","champion":"Champion","item":"Item","tier":"Tier","openInBuilder":"Open in Builder","timing":{"early":"Early","mid":"Mid","final":"Final"},"darkTheme":"Dark theme","button":{"more":"More"}},"champions":{"title":"Champions","title.desc":"","inputPlaceholder":"Champion Name","synergies":"Traits","champion":"Champion","cost":"Cost","origin":"Origin","origin_set1":"Origin","origin_set2":"Elements","origin_set3":"Origin","origin_set3.5":"Origin","origin_set3_5":"Origin","class":"Class","skill":"Skill","skillCost":"Mana","skillNoCost":"No cost","health":"Health","armor":"Armor","attack_damage":"Attack Damage","attack_range":"Attack Range","attack_range_slot":"Attack Range","attack_speed":"Attack Speed","attack_speed_2stars":"Attack Speed (2 Stars)","attack_speed_3stars":"Attack Speed (3 Stars)","dps":"DPS","magical_resistance":"Magical Resistance","recommend_items":"Recommend Items","starting_mana":"Starting Mana"}};
+</script>
+<script src="//cdn.lolchess.gg/js/app.js?id=5c6df0ab2c803f977a25"></script>
+<script src="//cdn.lolchess.gg/js/bootstrap.min.js"></script>
+    <script>
+        window.guideChampion = {
+            championStats: [{"key":"ahri","cost":2,"origins":["StarGuardian"],"classes":["Sorcerer"],"champion":{"key":"Ahri","name":"Ahri","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/ahri.png","skill":{"name":"Orb of Deception","type":"Active","desc":"Ahri fires an orb in a line, dealing magic damage to all enemies it passes through on the way out, and true damage one the way back.","stats":["Damage: 175 \/ 250 \/ 375"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/ahri_orbofdeception.png","cost":60,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Ahri"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/ahri","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Ahri","is_pbe":false},"stats":{"armor":20,"attack_damage":45,"attack_range_slot":3,"attack_speed":0.75,"dps":34,"health":600,"magical_resistance":20,"starting_mana":0}},{"key":"annie","cost":2,"origins":["MechPilot"],"classes":["Sorcerer"],"champion":{"key":"Annie","name":"Annie","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/annie.png","skill":{"name":"Galaxy Shield-Blast","type":"Active","desc":"Annie blasts a cone of fire dealing magic damage to enemies in front of her, then creates a shield for herself for 4 seconds.","stats":["Damage: 300 \/ 400 \/ 600","Shield Amount: 400 \/ 500 \/ 700"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/annie_galaxyshieldblast.png","cost":140,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Annie"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/annie","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Annie","is_pbe":false},"stats":{"armor":40,"attack_damage":40,"attack_range_slot":2,"attack_speed":0.65,"dps":26,"health":750,"magical_resistance":35,"starting_mana":70}},{"key":"ashe","cost":3,"origins":["Celestial"],"classes":["Sniper"],"champion":{"key":"Ashe","name":"Ashe","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/ashe.png","skill":{"name":"Enchanted Crystal Arrow","type":"Active","desc":"Ashe fires and arrow toward the farthest enemy, colliding with the first enemy hit, dealing damage and stunning them. The stun lasts longer the farther the arrow travels.","stats":["Damage: 200 \/ 300 \/ 600","Stun Duration: 2 \/ 3 \/ 4"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/ashe_enchantedcrystalarrow.png","cost":100,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Ashe"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/ashe","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Ashe","is_pbe":false},"stats":{"armor":20,"attack_damage":60,"attack_range_slot":5,"attack_speed":0.85,"dps":51,"health":650,"magical_resistance":20,"starting_mana":40}},{"key":"aurelionsol","cost":5,"origins":["Rebel"],"classes":["Starship"],"champion":{"key":"AurelionSol","name":"Aurelion Sol","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/aurelionsol.png","skill":{"name":"Mobilize the Fleet","type":"Active","desc":"Aurelion Sol launches fighters, which fly out to random enemies and blast them, dealing magic damage and draining mana, then return.\r\nThe first time he casts, Aurelion Sol launches 4 fighters. Subsequent casts launch all returned fighters, plus 2 additional.","stats":["Damage: 90 \/ 150 \/ 1000","Mana Drained: 10 \/ 15 \/ 50"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/aurelionsol_mobilizethefleet.png","cost":120,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/AurelionSol"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/aurelionsol","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/AurelionSol","is_pbe":false},"stats":{"armor":55,"attack_damage":10,"attack_range_slot":1,"attack_speed":0.2,"dps":2,"health":1100,"magical_resistance":40,"starting_mana":120}},{"key":"bard","cost":3,"origins":["Astro"],"classes":["Mystic"],"champion":{"key":"Bard","name":"Bard","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/bard.png","skill":{"name":"Traveler's Call","type":"Active","desc":"Bard launches a meep onto his owner's bench which can be sold for 1 XP.\r\n\r\nPassive: Bard gains an additional mana each attack.","stats":["Additional Mana: 8 \/ 20 \/ 90"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/bard_travelerscall.png","cost":90,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Bard"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/bard","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Bard","is_pbe":false},"stats":{"armor":30,"attack_damage":45,"attack_range_slot":3,"attack_speed":0.7,"dps":32,"health":700,"magical_resistance":20,"starting_mana":0}},{"key":"blitzcrank","cost":2,"origins":["Chrono"],"classes":["Brawler"],"champion":{"key":"Blitzcrank","name":"Blitzcrank","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/blitzcrank.png","skill":{"name":"Rocket Grab","type":"Active","desc":"Blitzcrank pulls the furthest enemy to him, dealing magic damage and stunning them for 2.5 seconds. The next attack after pulling knocks up for 1 second. Allies within range will prioritize attacking Blitzcrank's target.","stats":["Damage: 200 \/ 350 \/ 850"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/blitzcrank_rocketgrab.png","cost":125,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Blitzcrank"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/blitzcrank","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Blitzcrank","is_pbe":false},"stats":{"armor":45,"attack_damage":55,"attack_range_slot":1,"attack_speed":0.5,"dps":28,"health":650,"magical_resistance":35,"starting_mana":125}},{"key":"caitlyn","cost":1,"origins":["Chrono"],"classes":["Sniper"],"champion":{"key":"Caitlyn","name":"Caitlyn","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/caitlyn.png","skill":{"name":"Ace in the Hole","type":"Active","desc":"Caitlyn takes aim at the furthest enemy, firing a deadly bullet towards them that deals magic damage to the first enemy it hits.","stats":["Damage: 750 \/ 1500 \/ 2250"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/caitlyn_aceinthehole.png","cost":125,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Caitlyn"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/caitlyn","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Caitlyn","is_pbe":false},"stats":{"armor":20,"attack_damage":45,"attack_range_slot":5,"attack_speed":0.75,"dps":34,"health":500,"magical_resistance":20,"starting_mana":0}},{"key":"cassiopeia","cost":3,"origins":["Battlecast"],"classes":["Mystic"],"champion":{"key":"Cassiopeia","name":"Cassiopeia","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/cassiopeia.png","skill":{"name":"Noxious Blast","type":"Active","desc":"Cassiopeia launches her fangs at the nearest enemy that isn't poisoned, causing them to take damage over 14 seconds, and reducing the effectiveness of shields used on them by 50%.","stats":["Damage: 700 \/ 1500 \/ 3000"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/cassiopeia_noxiousblast.png","cost":25,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Cassiopeia"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/cassiopeia","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Cassiopeia","is_pbe":false},"stats":{"armor":30,"attack_damage":40,"attack_range_slot":2,"attack_speed":0.75,"dps":30,"health":750,"magical_resistance":20,"starting_mana":0}},{"key":"darius","cost":2,"origins":["SpacePirate"],"classes":["ManaReaver"],"champion":{"key":"Darius","name":"Darius","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/darius.png","skill":{"name":"Dreadnova Guillotine","type":"Active","desc":"Darius dunks an enemy, dealing magic damage. If this kills the target, Darius immediately casts again.\r\nTargets below 50% health take double damage.","stats":["Damage: 400 \/ 550 \/ 800"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/darius_spacepirateguillotine.png","cost":50,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Darius"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/darius","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Darius","is_pbe":false},"stats":{"armor":40,"attack_damage":60,"attack_range_slot":1,"attack_speed":0.65,"dps":39,"health":800,"magical_resistance":30,"starting_mana":0}},{"key":"ekko","cost":5,"origins":["Cybernetic"],"classes":["Infiltrator"],"champion":{"key":"Ekko","name":"Ekko","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/ekko.png","skill":{"name":"Chronobreak","type":"Active","desc":"Ekko shatters the timeline, freezing all units in time before attacking each enemy with bonus magic damage and applying on-hit effects. Slows the Attack Speed of all enemies hit by 50% for 7 seconds.","stats":["Damage: 100 \/ 150 \/ 2000"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/ekko_chronobreak.png","cost":150,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Ekko"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/ekko","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Ekko","is_pbe":false},"stats":{"armor":30,"attack_damage":60,"attack_range_slot":1,"attack_speed":0.9,"dps":54,"health":850,"magical_resistance":20,"starting_mana":80}},{"key":"ezreal","cost":3,"origins":["Chrono"],"classes":["Blaster"],"champion":{"key":"Ezreal","name":"Ezreal","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/ezreal.png","skill":{"name":"E.M.P.","type":"Active","desc":"Ezreal fires an electromagnetic pulse at a random enemy that explodes on impact, dealing magic damage to all nearby enemies and increases the cost of their next spell cast by 40%.","stats":["Damage: 100 \/ 150 \/ 400"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/ezreal_emp.png","cost":80,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Ezreal"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/ezreal","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Ezreal","is_pbe":false},"stats":{"armor":20,"attack_damage":50,"attack_range_slot":3,"attack_speed":0.75,"dps":38,"health":600,"magical_resistance":20,"starting_mana":30}},{"key":"fiora","cost":1,"origins":["Cybernetic"],"classes":["Blademaster"],"champion":{"key":"Fiora","name":"Fiora","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/fiora.png","skill":{"name":"Reposte","type":"Active","desc":"Fiora enters a defensive stance for a seconds, becoming immune to damage and enemy spell effects. As she exits this stance, she ripostes, dealing magic damage and stunning them for a second.","stats":["Stun duration : 1.5 \/ 1.5 \/ 3 seconds","Damage: 200 \/ 300 \/ 450"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/fiora_reposte.png","cost":85,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Fiora"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/fiora","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Fiora","is_pbe":false},"stats":{"armor":30,"attack_damage":45,"attack_range_slot":1,"attack_speed":1,"dps":45,"health":450,"magical_resistance":20,"starting_mana":0}},{"key":"fizz","cost":4,"origins":["MechPilot"],"classes":["Infiltrator"],"champion":{"key":"Fizz","name":"Fizz","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/fizz.png","skill":{"name":"Chum the Waters","type":"Active","desc":"Fizz throws a lure that attracts a shark, causing it to emerge after a brief delay. It deals magic damage to enemies caught, knocking them back and stunning them for 1.5 seconds.","stats":["Damage: 400 \/ 550 \/ 4000"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/fizz_chumthewaters.png","cost":120,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Fizz"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/fizz","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Fizz","is_pbe":false},"stats":{"armor":25,"attack_damage":60,"attack_range_slot":1,"attack_speed":0.85,"dps":51,"health":700,"magical_resistance":20,"starting_mana":50}},{"key":"gangplank","cost":5,"origins":["SpacePirate"],"classes":["Mercenary","Demolitionist"],"champion":{"key":"Gangplank","name":"Gangplank","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/gangplank.png","skill":{"name":"Orbital Strike","type":"Active","desc":"Gangplank calls down an orbital strike around his target, dealing magic damage to all enemies in a large area for 2 seconds.","stats":["Damage: 450 \/ 600 \/ 9001"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/gangplank_orbitalstrike.png","cost":160,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Gangplank"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/gangplank","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Gangplank","is_pbe":false},"stats":{"armor":30,"attack_damage":60,"attack_range_slot":1,"attack_speed":1,"dps":60,"health":1000,"magical_resistance":20,"starting_mana":70}},{"key":"gnar","cost":4,"origins":["Astro"],"classes":["Brawler"],"champion":{"key":"Gnar","name":"Gnar","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/gnar.png","skill":{"name":"GNAR!","type":"Active","desc":"Gnar leaps towards his target and transforms into Mega Gnar, throwing nearby enemies, dealing 200 damage and stunning them for 1.5 seconds.\r\nWhile in Mega Gnar form, Gnar gains 750 Health and 100 Attack Damage and becomes melee.","stats":["Damage: 100 \/ 200 \/ 800","Health: 750 \/ 1250 \/ 4000","Attack Damage: 100 \/ 175 \/ 550"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/gnar_gnar2.png","cost":120,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Gnar"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/gnar","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Gnar","is_pbe":false},"stats":{"armor":45,"attack_damage":50,"attack_range_slot":2,"attack_speed":0.8,"dps":40,"health":750,"magical_resistance":40,"starting_mana":0}},{"key":"graves","cost":1,"origins":["SpacePirate"],"classes":["Blaster"],"champion":{"key":"Graves","name":"Graves","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/graves.png","skill":{"name":"Smoke Grenade","type":"Active","desc":"Graves launches a smoke grenade toward the highest attack speed enemy, which explodes on impact dealing magic damage to enemies in the area and causing their attacks to miss for a second.","stats":["Blind Duration : 3 \/ 4 \/ 6 seconds","Damage: 150 \/ 200 \/ 400"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/graves_smokegrenade.png","cost":80,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Graves"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/graves","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Graves","is_pbe":false},"stats":{"armor":40,"attack_damage":55,"attack_range_slot":1,"attack_speed":0.55,"dps":30,"health":650,"magical_resistance":30,"starting_mana":50}},{"key":"illaoi","cost":1,"origins":["Battlecast"],"classes":["Brawler"],"champion":{"key":"Illaoi","name":"Illaoi","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/illaoi.png","skill":{"name":"Tentacle Smash","type":"Active","desc":"Illaoi slams a tentacle in a line in front of her, dealing 125 damage and stealing Armor and Magic Regist from each target hit for 6 seconds.","stats":["Damage: 125 \/ 200 \/ 325","Steal Armor & MR: 30% \/ 40% \/ 60%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/illaoi_tentaclesmash.png","cost":80,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Illaoi"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/illaoi","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Illaoi","is_pbe":false},"stats":{"armor":40,"attack_damage":45,"attack_range_slot":1,"attack_speed":0.7,"dps":32,"health":700,"magical_resistance":30,"starting_mana":40}},{"key":"irelia","cost":4,"origins":["Cybernetic"],"classes":["Blademaster","ManaReaver"],"champion":{"key":"Irelia","name":"Irelia","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/irelia.png","skill":{"name":"Bladesurge","type":"Active","desc":"Irelia dashes past her target, attacking them for a percentage of her Attack Damage as she passes through. If this kills the target, she casts again immediately at the enemy with the highest mana.","stats":["Attack Damage: 225% \/ 250% \/ 500%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/irelia_bladesurge.png","cost":30,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Irelia"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/irelia","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Irelia","is_pbe":false},"stats":{"armor":50,"attack_damage":85,"attack_range_slot":1,"attack_speed":0.85,"dps":72,"health":900,"magical_resistance":40,"starting_mana":0}},{"key":"janna","cost":5,"origins":["StarGuardian"],"classes":["Paragon"],"champion":{"key":"Janna","name":"Janna","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/janna.png","skill":{"name":"Howling Gale","type":"Active","desc":"Janna summons five tornados which fly forward in a large cone. Tornados grant allies they pass through 100% attack speed for 5 seconds, while knocking up and stunning enemies for 1.5 seconds.","stats":["Attack Speed: 80 \/ 125 \/ 500%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/janna_howlinggale.png","cost":100,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Janna"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/janna","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Janna","is_pbe":false},"stats":{"armor":25,"attack_damage":60,"attack_range_slot":4,"attack_speed":0.8,"dps":48,"health":750,"magical_resistance":20,"starting_mana":20}},{"key":"jarvaniv","cost":1,"origins":["DarkStar"],"classes":["Protector"],"champion":{"key":"JarvanIV","name":"Jarvan IV","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/jarvaniv.png","skill":{"name":"Ageless Standard","type":"Active","desc":"Jarvan calls down his standard to a nearby location, granting nearby allies Attack Speed for 6 seconds.","stats":["Attack Speed: 50% \/ 60% \/ 75%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/jarvaniv_agelessstandard.png","cost":100,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/JarvanIV"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/jarvaniv","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/JarvanIV","is_pbe":false},"stats":{"armor":45,"attack_damage":55,"attack_range_slot":1,"attack_speed":0.6,"dps":33,"health":700,"magical_resistance":30,"starting_mana":60}},{"key":"jayce","cost":3,"origins":["SpacePirate"],"classes":["Vanguard"],"champion":{"key":"Jayce","name":"Jayce","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/jayce.png","skill":{"name":"To the Skies!","type":"Active","desc":"Jayce jumps into the air and slams his hammer, dealing magic damage to nearby enemies.","stats":["Damage: 450 \/ 600 \/ 1200"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/jayce_totheskies.png","cost":80,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Jayce"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/jayce","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Jayce","is_pbe":false},"stats":{"armor":40,"attack_damage":60,"attack_range_slot":1,"attack_speed":0.7,"dps":42,"health":800,"magical_resistance":30,"starting_mana":0}},{"key":"jhin","cost":4,"origins":["DarkStar"],"classes":["Sniper"],"champion":{"key":"Jhin","name":"Jhin","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/jhin.png","skill":{"name":"Whisper","type":"Passive","desc":"Passive: Jhin converts each 1% of bonus attack speed he has into 0.8 attack damage. Every fourth shot, Jhin deals bonus % attack damage.","stats":["Attack Damage: 344% \/ 444% \/ 4444%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/jhin_whisper.png","cost":0,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Jhin"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/jhin","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Jhin","is_pbe":false},"stats":{"armor":20,"attack_damage":85,"attack_range_slot":5,"attack_speed":0.9,"dps":77,"health":600,"magical_resistance":20,"starting_mana":0}},{"key":"jinx","cost":4,"origins":["Rebel"],"classes":["Blaster"],"champion":{"key":"Jinx","name":"Jinx","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/jinx.png","skill":{"name":"Get Excited!","type":"Passive","desc":"Passive: Jinx gets excited as she helps take down enemy units!\r\nAfter her first takedown, Jinx gains bonus Attack Speed.\r\nAfter her second takedown, Jinx swaps to her rocket launcher, causing her Basic Attacks to deal bonus magic damage to all enemies in a small area around her target.","stats":["Attack Speed: 50% \/ 75% \/ 125%","Damage: 125 \/ 200 \/ 1000"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/jinx_getexcited.png","cost":0,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Jinx"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/jinx","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Jinx","is_pbe":false},"stats":{"armor":20,"attack_damage":70,"attack_range_slot":3,"attack_speed":0.7,"dps":49,"health":600,"magical_resistance":20,"starting_mana":0}},{"key":"karma","cost":3,"origins":["DarkStar"],"classes":["Mystic"],"champion":{"key":"Karma","name":"Karma","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/karma.png","skill":{"name":"Inspire","type":"Active","desc":"At start of combat, Karma bonds to her closest ally.\r\nKarma grants the bonded ally (or a random one if that ally is dead) a health shield for 4 seconds. While the shield holds, the ally receives bonus Attack Speed.","stats":["Shield Amount: 300 \/ 450 \/ 900","Attack Speed: 70% \/ 90% \/ 150%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/karma_inspire.png","cost":100,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Karma"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/karma","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Karma","is_pbe":false},"stats":{"armor":20,"attack_damage":50,"attack_range_slot":3,"attack_speed":0.65,"dps":33,"health":600,"magical_resistance":20,"starting_mana":75}},{"key":"kogmaw","cost":2,"origins":["Battlecast"],"classes":["Blaster"],"champion":{"key":"KogMaw","name":"KogMaw","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/kogmaw.png","skill":{"name":"Barrage","type":"Active","desc":"For 3 seconds Kog'Maw gains infinite Attack Range, 80% Attack Speed, and his attacks deal 2% of the target's maximum health as magic damage.","stats":["Deal: 2 \/ 4 \/ 8%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/kogmaw_barrage.png","cost":30,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/KogMaw"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/kogmaw","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/KogMaw","is_pbe":false},"stats":{"armor":25,"attack_damage":50,"attack_range_slot":3,"attack_speed":0.7,"dps":35,"health":550,"magical_resistance":20,"starting_mana":0}},{"key":"leona","cost":1,"origins":["Cybernetic"],"classes":["Vanguard"],"champion":{"key":"Leona","name":"Leona","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/leona.png","skill":{"name":"Cyber Barrier","type":"Active","desc":"Leona creates a barrier, reducing all incoming damage for 4 seconds.","stats":["Damage Reduction: 40 \/ 80 \/ 200"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/leona_cyberbarrier.png","cost":100,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Leona"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/leona","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Leona","is_pbe":false},"stats":{"armor":45,"attack_damage":50,"attack_range_slot":1,"attack_speed":0.55,"dps":28,"health":600,"magical_resistance":30,"starting_mana":50}},{"key":"lucian","cost":2,"origins":["Cybernetic"],"classes":["Blaster"],"champion":{"key":"Lucian","name":"Lucian","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/lucian.png","skill":{"name":"Relentless Persuit","type":"Active","desc":"Lucian dashes away from his current target, then Basic Attacks them and fires a second shot which deals magic damage.","stats":["Damage: 175 \/ 250 \/ 550"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/lucian_relentlesspersuit.png","cost":30,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Lucian"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/lucian","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Lucian","is_pbe":false},"stats":{"armor":25,"attack_damage":50,"attack_range_slot":4,"attack_speed":0.7,"dps":35,"health":500,"magical_resistance":20,"starting_mana":0}},{"key":"lulu","cost":5,"origins":["Celestial"],"classes":["Mystic"],"champion":{"key":"Lulu","name":"Lulu","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/lulu.png","skill":{"name":"Massive Polymorph","type":"Active","desc":"Lulu polymorphs the 2 nearest enemies, causing them to hop aimlessly, unable to attack or cast. Polymorphed enemies take additional damage from all sources.","stats":["Number of Targets: 2 \/ 4 \/ 12","Bonus Damage: 5% \/ 10% \/ 25%","Duration: 3 \/ 3 \/ 8"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/lulu_masspolymorph.png","cost":150,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Lulu"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/lulu","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Lulu","is_pbe":false},"stats":{"armor":25,"attack_damage":45,"attack_range_slot":3,"attack_speed":0.8,"dps":36,"health":800,"magical_resistance":20,"starting_mana":75}},{"key":"malphite","cost":1,"origins":["Rebel"],"classes":["Brawler"],"champion":{"key":"Malphite","name":"Malphite","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/malphite.png","skill":{"name":"Energy Shield","type":"Passive","desc":"Passive: Malphite starts combat with a shield equal to a percent of his maximum health.","stats":["Shield: 40% \/ 45% \/ 60%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/malphite_energyshield.png","cost":0,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Malphite"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/malphite","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Malphite","is_pbe":false},"stats":{"armor":35,"attack_damage":70,"attack_range_slot":1,"attack_speed":0.5,"dps":35,"health":700,"magical_resistance":30,"starting_mana":0}},{"key":"masteryi","cost":3,"origins":["Rebel"],"classes":["Blademaster"],"champion":{"key":"MasterYi","name":"Master Yi","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/masteryi.png","skill":{"name":"Chosen One","type":"Active","desc":"For 5 seconds, Master Yi gains massively increased movement speed, heals for a percentage of his maximum health each second, and deals bonus true damage with his Basic Attacks.","stats":["True Damage: 75 \/ 100 \/ 175","Heal per Second: 12%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/masteryi_chosenone.png","cost":55,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/MasterYi"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/masteryi","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/MasterYi","is_pbe":false},"stats":{"armor":50,"attack_damage":55,"attack_range_slot":1,"attack_speed":0.8,"dps":44,"health":750,"magical_resistance":35,"starting_mana":0}},{"key":"mordekaiser","cost":2,"origins":["DarkStar"],"classes":["Vanguard"],"champion":{"key":"Mordekaiser","name":"Mordekaiser","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/mordekaiser.png","skill":{"name":"Indestructible","type":"Active","desc":"Mordekaiser gains a shield that absorbs damage over 8 seconds. While the shield persists, Mordekaiser deals magic damage per second to all nearby enemies.","stats":["Shield Amount: 350 \/ 500 \/ 800","Damage: 75 \/ 100 \/ 200"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/mordekaiser_indestructible.png","cost":90,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Mordekaiser"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/mordekaiser","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Mordekaiser","is_pbe":false},"stats":{"armor":50,"attack_damage":55,"attack_range_slot":1,"attack_speed":0.6,"dps":33,"health":700,"magical_resistance":35,"starting_mana":0}},{"key":"nautilus","cost":2,"origins":["Astro"],"classes":["Vanguard"],"champion":{"key":"Nautilus","name":"Nautilus","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/nautilus.png","skill":{"name":"Impact Crater","type":"Active","desc":"Nautilus erupts the ground beneath his target, knocking them up and stunning them for 3\/3.5\/4 seconds, and dealing 100\/200\/400 magic damage. Enemies adjacent the the target are also knocked up and stunned for half the duration and dealt half the damage.","stats":["Sturn: 3 \/ 3 \/ 5","Damange: 100 \/ 200 \/ 400"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/nautilus_impactcrater.png","cost":120,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Nautilus"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/nautilus","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Nautilus","is_pbe":false},"stats":{"armor":50,"attack_damage":60,"attack_range_slot":1,"attack_speed":0.65,"dps":39,"health":750,"magical_resistance":35,"starting_mana":50}},{"key":"neeko","cost":3,"origins":["StarGuardian"],"classes":["Protector"],"champion":{"key":"Neeko","name":"Neeko","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/neeko.png","skill":{"name":"Pop Blossom","type":"Active","desc":"Neeko leaps into the air and slams into the ground, dealing magic damage and stunning all nearby enemies and stunning them.","stats":["Damage: 150 \/ 250 \/ 500","Stun Duration: 1.5 \/ 2 \/ 2.5"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/neeko_popblossom.png","cost":110,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Neeko"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/neeko","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Neeko","is_pbe":false},"stats":{"armor":50,"attack_damage":50,"attack_range_slot":2,"attack_speed":0.65,"dps":33,"health":850,"magical_resistance":40,"starting_mana":35}},{"key":"nocturne","cost":1,"origins":["Battlecast"],"classes":["Infiltrator"],"champion":{"key":"Nocturne","name":"Nocturne","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/nocturne.png","skill":{"name":"Unspeakable Horror","type":"Active","desc":"Nocturne terrifies his target, stunning them with fear for 2 seconds and dealing 200 damage over the duration.","stats":["Stun: 2 \/ 2.5 \/ 4 seconds","Damage: 200 \/ 250 \/ 400"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/nocturne_unspeakablehorror.png","cost":80,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Nocturne"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/nocturne","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Nocturne","is_pbe":false},"stats":{"armor":20,"attack_damage":50,"attack_range_slot":1,"attack_speed":0.75,"dps":38,"health":500,"magical_resistance":20,"starting_mana":40}},{"key":"poppy","cost":1,"origins":["StarGuardian"],"classes":["Vanguard"],"champion":{"key":"Poppy","name":"Poppy","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/poppy.png","skill":{"name":"Buckler Toss","type":"Active","desc":"Poppy throws her buckler at the furthest enemy dealing damage. The buckler bounces back to Poppy, shielding her.","stats":["Damage: 100 \/ 150 \/ 200","Shield Amount: 200 \/ 300 \/ 400"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/poppy_bucklertoss.png","cost":90,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Poppy"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/poppy","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Poppy","is_pbe":false},"stats":{"armor":45,"attack_damage":50,"attack_range_slot":1,"attack_speed":0.55,"dps":28,"health":650,"magical_resistance":30,"starting_mana":50}},{"key":"rakan","cost":2,"origins":["Celestial"],"classes":["Protector"],"champion":{"key":"Rakan","name":"Rakan","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/rakan.png","skill":{"name":"Grand Entrance","type":"Active","desc":"Rakan dashes next to farthest unit within attack range +1 hex then leaps into the air, knocking up and damaging all adjacent enemies.","stats":["Damage: 175 \/ 275 \/ 400","Knocking up Duration: 1.5 \/ 1.5 \/ 1.5"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/rakan_grandentrance.png","cost":100,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Rakan"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/rakan","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Rakan","is_pbe":false},"stats":{"armor":45,"attack_damage":45,"attack_range_slot":2,"attack_speed":0.7,"dps":32,"health":650,"magical_resistance":35,"starting_mana":50}},{"key":"riven","cost":4,"origins":["Chrono"],"classes":["Blademaster"],"champion":{"key":"Riven","name":"Riven","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/riven.png","skill":{"name":"Energy Slash","type":"Active","desc":"Riven dashes and shields herself for 300, then slashes forward dealing 100 magic damage. Every third cast, Riven leaps into the air and launches a wave of energy that deals 400 magic damage.","stats":["Shield: 200 \/ 350 \/ 1000","Magic Damage: 100 \/ 150 \/ 450","Energy Wave Damage: 300 \/ 500 \/ 1500"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/riven_energyslash.png","cost":25,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Riven"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/riven","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Riven","is_pbe":false},"stats":{"armor":35,"attack_damage":70,"attack_range_slot":1,"attack_speed":0.85,"dps":60,"health":800,"magical_resistance":20,"starting_mana":0}},{"key":"rumble","cost":3,"origins":["MechPilot"],"classes":["Demolitionist"],"champion":{"key":"Rumble","name":"Rumble","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/rumble.png","skill":{"name":"Flamespitter","type":"Active","desc":"Rumble torches his enemies, dealing magic damage over 3 seconds, and reducing healing on them by 50% for 5 seconds.","stats":["Damage: 500 \/ 750 \/ 1500"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/rumble_flamespitter.png","cost":50,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Rumble"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/rumble","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Rumble","is_pbe":false},"stats":{"armor":45,"attack_damage":50,"attack_range_slot":1,"attack_speed":0.7,"dps":35,"health":900,"magical_resistance":40,"starting_mana":0}},{"key":"shaco","cost":3,"origins":["DarkStar"],"classes":["Infiltrator"],"champion":{"key":"Shaco","name":"Shaco","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/shaco.png","skill":{"name":"Deceive","type":"Active","desc":"Shaco teleports and backstabs his target, critically striking for a percentage of his Basic Attack damage.","stats":["Damage: 250% \/ 275% \/ 300%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/shaco_deceive.png","cost":70,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Shaco"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/shaco","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Shaco","is_pbe":false},"stats":{"armor":25,"attack_damage":75,"attack_range_slot":1,"attack_speed":0.8,"dps":60,"health":650,"magical_resistance":20,"starting_mana":30}},{"key":"shen","cost":2,"origins":["Chrono"],"classes":["Blademaster"],"champion":{"key":"Shen","name":"Shen","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/shen.png","skill":{"name":"Future's Refuge","type":"Active","desc":"Shen creates a zone around himself for a few seconds, in which all nearby allies automatically dodge incoming Basic Attack. While active, Shen gains Magic Resist.","stats":["Duration: 2.5 \/ 3 \/ 5","Bonus Magic Resist: 15 \/ 30 \/ 45"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/shen_futuresrefuge.png","cost":150,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Shen"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/shen","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Shen","is_pbe":false},"stats":{"armor":45,"attack_damage":60,"attack_range_slot":1,"attack_speed":0.7,"dps":42,"health":800,"magical_resistance":35,"starting_mana":100}},{"key":"soraka","cost":4,"origins":["StarGuardian"],"classes":["Mystic"],"champion":{"key":"Soraka","name":"Soraka","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/soraka.png","skill":{"name":"Wish","type":"Active","desc":"Soraka heals all allies.","stats":["Healing: 325 \/ 500 \/ 20000"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/soraka_wish.png","cost":120,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Soraka"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/soraka","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Soraka","is_pbe":false},"stats":{"armor":30,"attack_damage":45,"attack_range_slot":3,"attack_speed":0.75,"dps":34,"health":700,"magical_resistance":20,"starting_mana":50}},{"key":"syndra","cost":3,"origins":["StarGuardian"],"classes":["Sorcerer"],"champion":{"key":"Syndra","name":"Syndra","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/syndra.png","skill":{"name":"Unleashed Power","type":"Active","desc":"Syndra pulls in all orbs on the battlefield and creates 3 new ones, then fires them all at the enemy with the highest health, dealing magic damage per orb.","stats":["Damage: 100 \/ 140 \/ 220"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/syndra_unleashedpower.png","cost":50,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Syndra"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/syndra","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Syndra","is_pbe":false},"stats":{"armor":20,"attack_damage":45,"attack_range_slot":4,"attack_speed":0.7,"dps":32,"health":600,"magical_resistance":20,"starting_mana":0}},{"key":"teemo","cost":4,"origins":["Astro"],"classes":["Sniper"],"champion":{"key":"Teemo","name":"Teemo","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/teemo.png","skill":{"name":"Satellite Traps","type":"Active","desc":"Teemo scatters 3 traps around the nearest enemy. When an enemy is close to a trap or after 3 seconds it explodes, hitting nearby enemies for 125 damage, knocking them down and massively slowing them for 3 seconds.","stats":["Damage: 125 \/ 175 \/ 550"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/teemo_satellitetraps.png","cost":80,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Teemo"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/teemo","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Teemo","is_pbe":false},"stats":{"armor":20,"attack_damage":45,"attack_range_slot":5,"attack_speed":1,"dps":45,"health":600,"magical_resistance":20,"starting_mana":0}},{"key":"thresh","cost":5,"origins":["Chrono"],"classes":["ManaReaver"],"champion":{"key":"Thresh","name":"Thresh","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/thresh.png","skill":{"name":"Temporal Passage","type":"Active","desc":"Thresh tosses his lantern towards random unit(s) on your bench, pulling them into the current combat and granting them and himself bonus mana. Traits are unaffected.","stats":["Bonus Mana: 25 \/ 50 \/ 200","Number of Units: 1 \/ 1 \/ 9"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/thresh_temporalpassage.png","cost":90,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Thresh"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/thresh","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Thresh","is_pbe":false},"stats":{"armor":55,"attack_damage":50,"attack_range_slot":2,"attack_speed":0.95,"dps":48,"health":950,"magical_resistance":40,"starting_mana":50}},{"key":"twistedfate","cost":1,"origins":["Chrono"],"classes":["Sorcerer"],"champion":{"key":"TwistedFate","name":"TwistedFate","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/twistedfate.png","skill":{"name":"Wild Cards","type":"Active","desc":"Twisted Fate throws three cards in a cone that deal magic damage to each enemy they pass through.","stats":["Damage: 200 \/ 300 \/ 450"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/twistedfate_wildcards.png","cost":75,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/TwistedFate"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/twistedfate","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/TwistedFate","is_pbe":false},"stats":{"armor":20,"attack_damage":45,"attack_range_slot":3,"attack_speed":0.7,"dps":32,"health":550,"magical_resistance":20,"starting_mana":0}},{"key":"urgot","cost":5,"origins":["Battlecast"],"classes":["Protector"],"champion":{"key":"Urgot","name":"Urgot","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/urgot.png","skill":{"name":"Fear Beyond Death","type":"Active","desc":"Urgot fires a drill at the farthest enemy, reeling them in and dealing 2000 true damage repeatedly until they reach him and die. After his first successful cast, Urgot's Mana Cost is reduced.","stats":["Mana Cost Reduction: 20 \/ 30 \/ 100"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/urgot_fearbeyonddeath.png","cost":100,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Urgot"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/urgot","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Urgot","is_pbe":false},"stats":{"armor":40,"attack_damage":80,"attack_range_slot":2,"attack_speed":0.7,"dps":56,"health":950,"magical_resistance":40,"starting_mana":50}},{"key":"vayne","cost":3,"origins":["Cybernetic"],"classes":["Sniper"],"champion":{"key":"Vayne","name":"Vayne","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/vayne.png","skill":{"name":"Final Hour","type":"Active","desc":"Vayne focuses for 10 seconds, tumbling away from her target immediately and every third attack thereafter. Vayne is invisible while tumbling, and attacks after tumbling deal 175% of her Attack Damage.","stats":["Deal: 175% \/ 200% \/ 225%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/vayne_finalhour.png","cost":50,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Vayne"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/vayne","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Vayne","is_pbe":false},"stats":{"armor":20,"attack_damage":55,"attack_range_slot":5,"attack_speed":0.8,"dps":44,"health":500,"magical_resistance":20,"starting_mana":0}},{"key":"vi","cost":3,"origins":["Cybernetic"],"classes":["Brawler"],"champion":{"key":"Vi","name":"Vi","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/vi.png","skill":{"name":"Assault and Battery","type":"Active","desc":"Vi charges at the furthest enemy, knocking and dealing magic damage to all enemies along the way. When she reaches her target, she deals magic damage and knocks them up.","stats":["Damage: 350 \/ 550 \/ 1100","Knock Damage: 150 \/ 200 \/ 500","Knock Up Duration: 2 \/ 2.5 \/ 3"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/vi_assaultandbattery.png","cost":140,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Vi"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/vi","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Vi","is_pbe":false},"stats":{"armor":45,"attack_damage":60,"attack_range_slot":1,"attack_speed":0.65,"dps":39,"health":750,"magical_resistance":40,"starting_mana":70}},{"key":"viktor","cost":4,"origins":["Battlecast"],"classes":["Sorcerer"],"champion":{"key":"Viktor","name":"Viktor","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/viktor.png","skill":{"name":"Death Ray","type":"Active","desc":"Viktor burns a path between the two enemies whom are the farthest away from each other, initially dealing 25% max health damage, then 1 second later dealing 250 damage in a aftershock explosion along the same path.","stats":["Initially Damage: 15% \/ 20% \/ 80%","After Damage: 200 \/ 325 \/ 1500"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/viktor_deathray.png","cost":60,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Viktor"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/viktor","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Viktor","is_pbe":false},"stats":{"armor":20,"attack_damage":45,"attack_range_slot":3,"attack_speed":0.75,"dps":34,"health":650,"magical_resistance":25,"starting_mana":0}},{"key":"monkeyking","cost":4,"origins":["Chrono"],"classes":["Vanguard"],"champion":{"key":"MonkeyKing","name":"Wukong","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/monkeyking.png","skill":{"name":"Cyclone","type":"Active","desc":"Wukong spins, dealing magic damage to nearby enemies over 3 seconds. The first time Wukong hits each enemy, he knocks them into the air and stuns them.","stats":["Damage: 300 \/ 500 \/ 4000","Stun Duration: 2 \/ 2 \/ 5"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/monkeyking_cyclone.png","cost":150,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/MonkeyKing"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/monkeyking","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/MonkeyKing","is_pbe":false},"stats":{"armor":55,"attack_damage":50,"attack_range_slot":1,"attack_speed":0.75,"dps":38,"health":950,"magical_resistance":40,"starting_mana":50}},{"key":"xayah","cost":1,"origins":["Celestial"],"classes":["Blademaster"],"champion":{"key":"Xayah","name":"Xayah","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/xayah.png","skill":{"name":"Deadly Plumage","type":"Active","desc":"Xayah creates a storm of blades, gaining Attack Speed for 8 seconds.","stats":["Attack Speed: 100% \/ 125% \/ 150%"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/xayah_deadlyplumage.png","cost":60,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Xayah"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/xayah","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Xayah","is_pbe":false},"stats":{"armor":20,"attack_damage":50,"attack_range_slot":3,"attack_speed":0.9,"dps":45,"health":500,"magical_resistance":20,"starting_mana":0}},{"key":"xerath","cost":5,"origins":["DarkStar"],"classes":["Sorcerer"],"champion":{"key":"Xerath","name":"Xerath","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/xerath.png","skill":{"name":"Abyssal Bombardment","type":"Active","desc":"Xerath transforms, summoning meteors to strike random foes in place of his normal attacks for a seconds. Meteors deal magic damage upon impact and if they kill their target, all adjacent enemies take (% of base damage) 25% magic damage and are stunned for 1.5 seconds.","stats":["Damage: 300 \/ 400 \/ 2500","Transformation Duration: 6 \/ 8 \/ 45"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/xerath_abyssalbombardment.png","cost":80,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Xerath"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/xerath","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Xerath","is_pbe":false},"stats":{"armor":20,"attack_damage":60,"attack_range_slot":5,"attack_speed":0.9,"dps":54,"health":700,"magical_resistance":20,"starting_mana":20}},{"key":"xinzhao","cost":2,"origins":["Celestial"],"classes":["Protector"],"champion":{"key":"XinZhao","name":"Xin Zhao","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/xinzhao.png","skill":{"name":"Three Talon Strike","type":"Active","desc":"Xin Zhao quickly strikes his target three times, dealing Basic Attack damage and applying on-hit effects. The third strike deals bonus magic damage and knocks his target up for 1.5 seconds.","stats":["Damage: 200 \/ 275 \/ 375"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/xinzhao_threetalonstrike.png","cost":60,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/XinZhao"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/xinzhao","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/XinZhao","is_pbe":false},"stats":{"armor":45,"attack_damage":60,"attack_range_slot":1,"attack_speed":0.7,"dps":42,"health":650,"magical_resistance":35,"starting_mana":0}},{"key":"yasuo","cost":2,"origins":["Rebel"],"classes":["Blademaster"],"champion":{"key":"Yasuo","name":"Yasuo","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/yasuo.png","skill":{"name":"Last Breath","type":"Active","desc":"Yasuo blinks to the enemy with farthest unit within attack range + 2 hexes and knocks them into the air for 1 second, hits them several times for Basic Attack damage and on-hit effects.","stats":["Hits: 4 \/ 5 \/ 6"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/yasuo_lastbreath.png","cost":80,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Yasuo"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/yasuo","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Yasuo","is_pbe":false},"stats":{"armor":30,"attack_damage":50,"attack_range_slot":1,"attack_speed":0.75,"dps":38,"health":700,"magical_resistance":20,"starting_mana":0}},{"key":"zed","cost":2,"origins":["Rebel"],"classes":["Infiltrator"],"champion":{"key":"Zed","name":"Zed","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/zed.png","skill":{"name":"Contempt for the Weak","type":"Passive","desc":"Every third attack, Zed deals 25 bonus magic damage and steals 25% of the target's current Attack Damage.","stats":["Steal Attack Damage: 20% \/ 25% \/ 40%","Bonus Magic Damage: 50 \/ 90 \/ 150"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/zed_contemptfortheweak.png","cost":0,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Zed"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/zed","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Zed","is_pbe":false},"stats":{"armor":25,"attack_damage":55,"attack_range_slot":1,"attack_speed":0.75,"dps":41,"health":650,"magical_resistance":20,"starting_mana":0}},{"key":"ziggs","cost":1,"origins":["Rebel"],"classes":["Demolitionist"],"champion":{"key":"Ziggs","name":"Ziggs","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/ziggs.png","skill":{"name":"Bomb!","type":"Active","desc":"Ziggs throws a bomb at an enemy, dealing magic damage.","stats":["Damage: 300 \/ 400 \/ 550"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/ziggs_bomb.png","cost":40,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Ziggs"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/ziggs","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Ziggs","is_pbe":false},"stats":{"armor":20,"attack_damage":40,"attack_range_slot":3,"attack_speed":0.7,"dps":28,"health":500,"magical_resistance":20,"starting_mana":0}},{"key":"zoe","cost":1,"origins":["StarGuardian"],"classes":["Sorcerer"],"champion":{"key":"Zoe","name":"Zoe","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champions\/set3\/zoe.png","skill":{"name":"Sleepy Trouble Bubble","type":"Active","desc":"Zoe kicks a bubble at the enemy with the highest health, dealing magic damage and stunning them.","stats":["Damage: 200 \/ 275 \/ 400","Stun Duration: 2 \/ 2.5 \/ 4"],"image_url":"\/\/cdn.lolchess.gg\/images\/tft\/champion-skills\/zoe_sleepytroublebubble.png","cost":80,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/skill\/Zoe"},"guide_url":"https:\/\/lolchess.gg\/champions\/set3.5\/zoe","tooltip_url":"https:\/\/lolchess.gg\/tooltip\/champion\/set3.5\/Zoe","is_pbe":false},"stats":{"armor":20,"attack_damage":40,"attack_range_slot":3,"attack_speed":0.7,"dps":28,"health":500,"magical_resistance":20,"starting_mana":40}}],
+            championOrigins: {"starguardian":{"key":"StarGuardian","name":"Star Guardian","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_starguardian.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_starguardian.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_starguardian.png","synergy":{"description":"Star Guardians' spellcasts grant Mana to other Star Guardians spread among them.","stats":{"3":"15 Total Mana","6":"25 Total Mana","9":"45 Total Mana"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/StarGuardian"},"cybernetic":{"key":"Cybernetic","name":"Cybernetic","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_cybernetic.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_cybernetic.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_cybernetic.png","synergy":{"description":"Cybernetic champions with at least one item gain Health and Attack Damage.","stats":{"3":"300 Health and 35 Attack Damage","6":"550 Health and 70 Attack Damage"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/Cybernetic"},"mechpilot":{"key":"MechPilot","name":"Mech-Pilot","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_mechpilot.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_mechpilot.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_mechpilot.png","synergy":{"description":"The Super-Mech has the traits of its pilots, 3random items from among them and gains 60% of the combined pilot's health and attack damage When the Super-Mech dies the Piots are ejected with 35% of thier maximun health and continue of fight","stats":{"3":"At the start of combat, three random mech-pilots are teleported into a super-mech"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/MechPilot"},"celestial":{"key":"Celestial","name":"Celestial","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_celestial.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_celestial.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_celestial.png","synergy":{"description":"All allies heal for some of the damage they deal with spells and attacks.","stats":{"2":"15% Healing","4":"45% Healing","6":"150% Healing"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/Celestial"},"chrono":{"key":"Chrono","name":"Chrono","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_chrono.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_chrono.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_chrono.png","synergy":{"description":"All allies gain 15% Attack Speed every some seconds.","stats":{"2":"every 8 seconds","4":"every 3.5 seconds","6":"every 1.5 seconds","8":"every 0.75 seconds"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/Chrono"},"rebel":{"key":"Rebel","name":"Rebel","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_rebel.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_rebel.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_rebel.png","synergy":{"description":"At the start of combat, Rebels gain a shield and increased damage for each adjacent Rebel. The shield lasts for 8 seconds.","stats":{"3":"150 Shield & 10% Damage","6":"210 Shield & 12% Damage","9":"330 Shield & 15% Damage"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/Rebel"},"darkstar":{"key":"DarkStar","name":"Dark Star","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_darkstar.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_darkstar.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_darkstar.png","synergy":{"description":"When any ally champion dies, all other allied Dark Star Champions gain Attack Damage and Spell Power","stats":{"2":"Attack Damage and Spell Power +8","4":"Attack Damage and Spell Power +18","6":"Attack Damage and Spell Power +28","8":"Attack Damage and Spell Power +38"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/DarkStar"},"spacepirate":{"key":"SpacePirate","name":"Space Pirate","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_spacepirate.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_spacepirate.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_spacepirate.png","synergy":{"description":"Whenever a Space Pirate lands a killing blow on a Champion there is a chance to drop extra loot.","stats":{"2":"50% for 1 gold","4":"50% for 1 gold and 25% for a component item"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/SpacePirate"},"astro":{"key":"Astro","name":"Astro","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_astro.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_astro.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_astro.png","synergy":{"description":"","stats":{"3":"Astro Champions reduce their mana costs by 30"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/Astro"},"battlecast":{"key":"Battlecast","name":"Battlecast","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_battlecast.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_battlecast.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_battlecast.png","synergy":{"description":"Battlecast champions, upon dealing or taking 10 instances of damage, heal if below half health, or deal magic damage to the nearest enemy if above half.","stats":{"2":"80 Healing or Damage","4":"180 Healing or Damage","6":"480 Healing or Damage","8":"880 Healing or Damage"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/origin\/Battlecast"}},
+            championClasses: {"vanguard":{"key":"Vanguard","name":"Vanguard","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_vanguard.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_vanguard.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_vanguard.png","synergy":{"description":"Vanguard champions gain bonus Armor.","stats":{"2":"125 Armor","4":"300 Armor","6":"1000 Armor"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Vanguard"},"sorcerer":{"key":"Sorcerer","name":"Sorcerer","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_sorcerer.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_sorcerer.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_sorcerer.png","synergy":{"description":"All allies have increased Spell Power.","stats":{"2":"20% Spell Power","4":"40% Spell Power","6":"70% Spell Power"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Sorcerer"},"protector":{"key":"Protector","name":"Protector","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_protector.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_protector.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_protector.png","synergy":{"description":"Protectors shield themselves for 4 seconds whenever they cast a spell. This shield doesn't stack.","stats":{"2":"30% Maximum Health Shield","4":"40% Maximum Health Shield","6":"50% Maximum Health Shield"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Protector"},"mystic":{"key":"Mystic","name":"Mystic","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_mystic.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_mystic.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_mystic.png","synergy":{"description":"All allies gain Magic Resistance.","stats":{"2":"50 Magic Resistance","4":"120 Magic Resistance"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Mystic"},"blademaster":{"key":"Blademaster","name":"Blademaster","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_blademaster.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_blademaster.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_blademaster.png","synergy":{"description":"Blademasters' Basic Attacks have a chance to trigger two additional attacks against their target. These additional attacks deal damage like Basic Attacks and trigger on-hit effects.","stats":{"3":"30% Chance to trigger","6":"65% Chance to trigger","9":"100% Chance to trigger"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Blademaster"},"manareaver":{"key":"ManaReaver","name":"Mana-Reaver","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_manareaver.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_manareaver.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_manareaver.png","synergy":{"description":"","stats":{"2":"Mana-Reaver attacks increase the mana cost of their target\u2019s next spell by 40%"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/ManaReaver"},"demolitionist":{"key":"Demolitionist","name":"Demolitionist","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_demolitionist.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_demolitionist.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_demolitionist.png","synergy":{"description":"","stats":{"2":"Damage from Demolitionists' spellcasts stun their for 1.50 seconds. (Once per spellcast)"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Demolitionist"},"infiltrator":{"key":"Infiltrator","name":"Infiltrator","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_infiltrator.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_infiltrator.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_infiltrator.png","synergy":{"description":"Innate: At the start of combat, Infiltrators move to the enemy's backline. Infiltrators gain Attack Speed for 6 seconds at the start of combat, refreshes on takedown","stats":{"2":"40% Bonus Attack Speed","4":"80% Bonus Attack Speed","6":"120% Bonus Attack Speed"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Infiltrator"},"sniper":{"key":"Sniper","name":"Sniper","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_sniper.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_sniper.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_sniper.png","synergy":{"description":"Snipers deal increased damage for each hex between themselves and their target.","stats":{"2":"10% increased damage for each hex","4":"18% increased damage for each hex"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Sniper"},"mercenary":{"key":"Mercenary","name":"Mercenary","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_mercenary.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_mercenary.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_mercenary.png","synergy":{"description":"","stats":{"1":"Innate: Upgrades for Mercenaries's spells have a chance to appear in the shop."}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Mercenary"},"blaster":{"key":"Blaster","name":"Blaster","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_blaster.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_blaster.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_blaster.png","synergy":{"description":"Every fourth Basic Attack from a Blaster fires additional attacks at random enemies. These additional attacks deal damage like Basic Attacks, trigger on-hit effects and can critically hit.","stats":{"2":"3 Additional Attacks","4":"6 Additional Attacks"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Blaster"},"brawler":{"key":"Brawler","name":"Brawler","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_brawler.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_brawler.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_brawler.png","synergy":{"description":"Brawlers gain bonus Maximum Health.","stats":{"2":"350 Bonus Health","4":"600 Bonus Health"}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Brawler"},"starship":{"key":"Starship","name":"Starship","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_starship.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_starship.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_starship.png","synergy":{"description":"","stats":{"1":"Innate: Starships gain 40 Mana per second, maneuver around the board, and are immune to movement impairing effects, but can't Basic Attack."}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Starship"},"paragon":{"key":"Paragon","name":"Paragon","image_url":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-darken\/trait_icon_paragon.png","image_url_white":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-white\/trait_icon_paragon.png","image_url_black":"\/\/cdn.lolchess.gg\/images\/tft\/traiticons-black\/trait_icon_paragon.png","synergy":{"description":"","stats":{"1":"Ally Star Guardian basic attacks are converted to true damage. All other ally basic attacks are converted to magic damage."}},"is_strict_stack":false,"tooltip_url":"https:\/\/lolchess.gg\/tooltip\/synergy\/set3.5\/class\/Paragon"}},
+            setViewOption: 'set3.5'
+        };
+    </script>
+    <script src="//cdn.lolchess.gg/js/hangul.min.js"></script>
+    <script src="//cdn.lolchess.gg/js/guide/champion.js?id=fd676ae48938a494d037"></script>
+    <script>
+        $(function () {
+            refreshTooltip();
+        })
+    </script>
+<script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '1f9ed3fb-f7a5-4ff8-a57e-eb8a879e0f03')</script>
+</body>
+</html>

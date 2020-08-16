@@ -1,0 +1,22 @@
+<div class="font-size-12 text-left py-1">
+    <p class="text-yellow mb-1">Deathblade</p>
+    <div>
+        Contributing to a kill grants +25 Attack Damage for the remainder of combat. This effect can stack any number of times (starting at 2).
+    </div>
+
+            
+        <div class="mt-2 text-gray line-height-1">
+                                            <div>+15 Attack Damage</div>
+                                            <div>+15 Attack Damage</div>
+                    </div>
+
+        
+                    <div class="mt-2 text-gray">
+                                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1038.png" alt="B.F. Sword" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                                                            <i class="fa fa-plus text-white align-middle font-weight-normal mx-1"></i>
+                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1038.png" alt="B.F. Sword" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                            </div>
+            
+    </div>

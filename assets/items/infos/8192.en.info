@@ -1,0 +1,22 @@
+<div class="font-size-12 text-left py-1">
+    <p class="text-yellow mb-1">Warmog&#039;s Armor</p>
+    <div>
+        +600 Additional Health.
+    </div>
+
+            
+        <div class="mt-2 text-gray line-height-1">
+                                            <div>+200 Health</div>
+                                            <div>+200 Health</div>
+                    </div>
+
+        
+                    <div class="mt-2 text-gray">
+                                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1011.png" alt="Giant&#039;s Belt" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                                                            <i class="fa fa-plus text-white align-middle font-weight-normal mx-1"></i>
+                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1011.png" alt="Giant&#039;s Belt" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                            </div>
+            
+    </div>

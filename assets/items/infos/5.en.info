@@ -1,0 +1,22 @@
+<div class="font-size-12 text-left py-1">
+    <p class="text-yellow mb-1">Giant Slayer</p>
+    <div>
+        The holder&#039;s spells and basic attacks do 20% bonus true damage. if the target has more than 1750 maximum Health, the bonus increases to 80%
+    </div>
+
+            
+        <div class="mt-2 text-gray line-height-1">
+                                            <div>+15 Attack Damage</div>
+                                            <div>+15% Attack Speed</div>
+                    </div>
+
+        
+                    <div class="mt-2 text-gray">
+                                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1038.png" alt="B.F. Sword" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                                                            <i class="fa fa-plus text-white align-middle font-weight-normal mx-1"></i>
+                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1043.png" alt="Recurve Bow" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                            </div>
+            
+    </div>

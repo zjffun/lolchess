@@ -1,0 +1,22 @@
+<div class="font-size-12 text-left py-1">
+    <p class="text-yellow mb-1">Runaan&#039;s Hurricane</p>
+    <div>
+        Basic Attacks fire a bolt at another nearby enemy, dealing 70% of the wearer&#039;s Attack Damage and applying on-hit effects.
+    </div>
+
+            
+        <div class="mt-2 text-gray line-height-1">
+                                            <div>+15% Attack Speed</div>
+                                            <div>+25 Magic Resist</div>
+                    </div>
+
+        
+                    <div class="mt-2 text-gray">
+                                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1043.png" alt="Recurve Bow" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                                                            <i class="fa fa-plus text-white align-middle font-weight-normal mx-1"></i>
+                                        <img src="//ddragon.leagueoflegends.com/cdn/10.15.1/img/item/1057.png" alt="Negatron Cloak" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                            </div>
+            
+    </div>

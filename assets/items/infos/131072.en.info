@@ -1,0 +1,22 @@
+<div class="font-size-12 text-left py-1">
+    <p class="text-yellow mb-1">Thief&#039;s Gloves</p>
+    <div>
+        Each planning phase, fetch two temporary items, quality based upon your player level. [Consumes Three item Slots]
+    </div>
+
+            
+        <div class="mt-2 text-gray line-height-1">
+                                            <div>+10% Dodge change, +10% Crit chance</div>
+                                            <div>+10% Dodge change, +10% Crit chance</div>
+                    </div>
+
+        
+                    <div class="mt-2 text-gray">
+                                                        <img src="//cdn.lolchess.gg/images/tft/item/BrawlersGloves.png" alt="Sparring Gloves" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                                                            <i class="fa fa-plus text-white align-middle font-weight-normal mx-1"></i>
+                                        <img src="//cdn.lolchess.gg/images/tft/item/BrawlersGloves.png" alt="Sparring Gloves" width="32" height="32"
+                         class="align-middle border-radius-50 border border-secondary">
+                            </div>
+            
+    </div>
