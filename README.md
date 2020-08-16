@@ -1,4 +1,6 @@
-# Lolchess
+# [LoLChess](https://tft.zjffun.com/)
+
+![qrcode](./qrcode.png)
 
 类似 WeGame 和 [LoLCHESS.GG](https://lolchess.gg/) 的云顶之弈助手。
 
