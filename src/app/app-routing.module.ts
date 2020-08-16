@@ -7,6 +7,7 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { BackNavigationComponent } from './back-navigation/back-navigation.component';
 import { SynergiesTableComponent } from './synergies-table/synergies-table.component';
+import { AboutComponent } from './about/about.component';
 
 const routes: Routes = [
   {
@@ -56,6 +57,16 @@ const routes: Routes = [
       {
         path: '**',
         component: SynergiesTableComponent,
+      },
+    ],
+  },
+  {
+    path: 'about',
+    component: NavigationComponent,
+    children: [
+      {
+        path: '**',
+        component: AboutComponent,
       },
     ],
   },

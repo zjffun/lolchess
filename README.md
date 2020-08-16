@@ -34,20 +34,20 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 2. `ng add @angular/material`
 3. `ng generate @angular/material:navigation navigation`
 4. `ng generate @angular/material:dashboard items`
-4. `ng generate @angular/material:dashboard heroes`
-4. `ng generate component synergies`
-4. `ng generate module app-routing --flat --module=app`
-4. `ng generate component hero-detail`
-4. `ng generate component hero-figure`
-4. `ng generate component item-detail`
-4. `ng generate component item-figure`
-4. `ng generate component back-navigation`
-4. `ng generate service navigation`
-4. `ng generate component item-detail-popper`
-4. `ng generate service item`
-4. `ng generate component synergies-table`
-4. `ng generate service synergies`
-4. `ng generate service heroes`
-4. `yarn add lodash`
-4. `ng generate pipe join-keys`
-
+5. `ng generate @angular/material:dashboard heroes`
+6. `ng generate component synergies`
+7. `ng generate module app-routing --flat --module=app`
+8. `ng generate component hero-detail`
+9. `ng generate component hero-figure`
+10. `ng generate component item-detail`
+11. `ng generate component item-figure`
+12. `ng generate component back-navigation`
+13. `ng generate service navigation`
+14. `ng generate component item-detail-popper`
+15. `ng generate service item`
+16. `ng generate component synergies-table`
+17. `ng generate service synergies`
+18. `ng generate service heroes`
+19. `yarn add lodash`
+20. `ng generate pipe join-keys`
+21. `ng generate component about`

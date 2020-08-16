@@ -28,6 +28,7 @@ import { BackNavigationComponent } from './back-navigation/back-navigation.compo
 import { ItemDetailPopperComponent } from './item-detail-popper/item-detail-popper.component';
 import { SynergiesTableComponent } from './synergies-table/synergies-table.component';
 import { JoinKeysPipe } from './join-keys.pipe';
+import { AboutComponent } from './about/about.component';
 
 @NgModule({
   declarations: [
@@ -44,6 +45,7 @@ import { JoinKeysPipe } from './join-keys.pipe';
     ItemDetailPopperComponent,
     SynergiesTableComponent,
     JoinKeysPipe,
+    AboutComponent,
   ],
   imports: [
     BrowserModule,
