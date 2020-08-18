@@ -13,29 +13,35 @@ const routes: Routes = [
   {
     path: 'heroes',
     component: NavigationComponent,
+    data: { reuse: true },
     children: [
       {
         path: '**',
+        data: { reuse: true },
         component: HeroesComponent,
       },
     ],
   },
   {
     path: 'items',
+    data: { reuse: true },
     component: NavigationComponent,
     children: [
       {
         path: '**',
+        data: { reuse: true },
         component: ItemsComponent,
       },
     ],
   },
   {
     path: 'synergies',
+    data: { reuse: true },
     component: NavigationComponent,
     children: [
       {
         path: '**',
+        data: { reuse: true },
         component: SynergiesComponent,
       },
     ],
@@ -52,10 +58,12 @@ const routes: Routes = [
   },
   {
     path: 'synergies-table',
+    data: { reuse: true },
     component: NavigationComponent,
     children: [
       {
         path: '**',
+        data: { reuse: true },
         component: SynergiesTableComponent,
       },
     ],

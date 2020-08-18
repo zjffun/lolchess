@@ -53,3 +53,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 19. `yarn add lodash`
 20. `ng generate pipe join-keys`
 21. `ng generate component about`
+22. `ng generate service route-reuse`

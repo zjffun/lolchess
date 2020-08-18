@@ -29,6 +29,8 @@ import { ItemDetailPopperComponent } from './item-detail-popper/item-detail-popp
 import { SynergiesTableComponent } from './synergies-table/synergies-table.component';
 import { JoinKeysPipe } from './join-keys.pipe';
 import { AboutComponent } from './about/about.component';
+import { RouteReuseStrategy } from '@angular/router';
+import { RouteReuseService } from './route-reuse.service';
 
 @NgModule({
   declarations: [
@@ -61,9 +63,16 @@ import { AboutComponent } from './about/about.component';
     MatMenuModule,
     MatExpansionModule,
     AppRoutingModule,
-    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
+    ServiceWorkerModule.register('ngsw-worker.js', {
+      enabled: environment.production,
+    }),
   ],
-  providers: [],
+  providers: [
+    {
+      provide: RouteReuseStrategy,
+      useClass: RouteReuseService,
+    },
+  ],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
