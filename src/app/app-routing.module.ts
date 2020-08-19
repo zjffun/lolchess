@@ -11,38 +11,33 @@ import { AboutComponent } from './about/about.component';
 
 const routes: Routes = [
   {
-    path: 'heroes',
+    path: '',
     component: NavigationComponent,
-    data: { reuse: true },
     children: [
       {
-        path: '**',
-        data: { reuse: true },
+        path: 'heroes',
+        data: { reuse: true, title: '英雄' },
         component: HeroesComponent,
       },
-    ],
-  },
-  {
-    path: 'items',
-    data: { reuse: true },
-    component: NavigationComponent,
-    children: [
       {
-        path: '**',
-        data: { reuse: true },
+        path: 'items',
+        data: { reuse: true, title: '装备' },
         component: ItemsComponent,
       },
-    ],
-  },
-  {
-    path: 'synergies',
-    data: { reuse: true },
-    component: NavigationComponent,
-    children: [
       {
-        path: '**',
-        data: { reuse: true },
+        path: 'synergies',
+        data: { reuse: true, title: '特性 & 职业' },
         component: SynergiesComponent,
+      },
+      {
+        path: 'synergies-table',
+        data: { reuse: true, title: '特性 X 职业' },
+        component: SynergiesTableComponent,
+      },
+      {
+        path: 'about',
+        data: { reuse: true, title: '关于' },
+        component: AboutComponent,
       },
     ],
   },
@@ -53,28 +48,6 @@ const routes: Routes = [
       {
         path: ':keyword',
         component: HeroDetailComponent,
-      },
-    ],
-  },
-  {
-    path: 'synergies-table',
-    data: { reuse: true },
-    component: NavigationComponent,
-    children: [
-      {
-        path: '**',
-        data: { reuse: true },
-        component: SynergiesTableComponent,
-      },
-    ],
-  },
-  {
-    path: 'about',
-    component: NavigationComponent,
-    children: [
-      {
-        path: '**',
-        component: AboutComponent,
       },
     ],
   },

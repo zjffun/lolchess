@@ -5,7 +5,7 @@ import { Subject } from 'rxjs';
   providedIn: 'root',
 })
 export class NavigationService {
-  title = "";
+  title = '';
 
   constructor() {}
 }

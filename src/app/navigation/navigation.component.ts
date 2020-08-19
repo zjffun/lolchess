@@ -1,8 +1,10 @@
 import { Component, ViewChild } from '@angular/core';
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
-import { Observable } from 'rxjs';
-import { map, shareReplay } from 'rxjs/operators';
+import { Observable, merge, of, Subscription } from 'rxjs';
+import { map, shareReplay, filter, mergeMap } from 'rxjs/operators';
 import { MatSidenav } from '@angular/material/sidenav';
+import { NavigationService } from '../navigation.service';
+import { Router, ActivatedRoute, NavigationEnd } from '@angular/router';
 
 @Component({
   selector: 'app-navigation',
@@ -11,6 +13,9 @@ import { MatSidenav } from '@angular/material/sidenav';
 })
 export class NavigationComponent {
   @ViewChild('drawer') drawer: MatSidenav;
+
+  title;
+  private routerSubscription: Subscription;
 
   isHandset;
   isHandset$: Observable<boolean> = this.breakpointObserver
@@ -26,13 +31,35 @@ export class NavigationComponent {
     }
   }
 
-  constructor(private breakpointObserver: BreakpointObserver) {}
+  constructor(
+    private router: Router,
+    private route: ActivatedRoute,
+    private breakpointObserver: BreakpointObserver,
+    public navigationService: NavigationService
+  ) {}
 
   ngOnInit() {
+    console.log('init');
     this.isHandset$.subscribe((val) => {
       this.isHandset = val;
     });
+
+    this.setTitle();
+
+    this.routerSubscription = this.router.events
+      .pipe(filter((event) => event instanceof NavigationEnd))
+      .subscribe(() => {
+        this.setTitle();
+      });
   }
 
-  ngOnDestroy() {}
+  setTitle() {
+    let route = this.route.snapshot.firstChild;
+    while (route.firstChild) route = route.firstChild;
+    this.title = route?.data?.title;
+  }
+
+  ngOnDestroy() {
+    this.routerSubscription.unsubscribe();
+  }
 }

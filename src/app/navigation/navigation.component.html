@@ -7,7 +7,7 @@
     [mode]="(isHandset$ | async) ? 'over' : 'side'"
     [opened]="(isHandset$ | async) === false"
   >
-    <mat-toolbar>菜单</mat-toolbar>
+    <mat-toolbar>云顶之弈助手</mat-toolbar>
     <mat-nav-list>
       <a mat-list-item routerLink="/items" (click)="handleLinkClick()">装备</a>
       <a mat-list-item routerLink="/synergies" (click)="handleLinkClick()"
@@ -31,7 +31,7 @@
       >
         <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
       </button>
-      <span>云顶之弈助手</span>
+      <span>{{ title }}</span>
     </mat-toolbar>
     <!-- Add Content Here -->
     <router-outlet></router-outlet>
