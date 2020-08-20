@@ -10,15 +10,11 @@ import { SynergiesTableComponent } from './synergies-table/synergies-table.compo
 import { AboutComponent } from './about/about.component';
 
 const routes: Routes = [
+  { path: '', redirectTo: '/items', pathMatch: 'full' },
   {
     path: '',
     component: NavigationComponent,
     children: [
-      {
-        path: 'heroes',
-        data: { reuse: true, title: '英雄' },
-        component: HeroesComponent,
-      },
       {
         path: 'items',
         data: { reuse: true, title: '装备' },
@@ -28,6 +24,11 @@ const routes: Routes = [
         path: 'synergies',
         data: { reuse: true, title: '特性 & 职业' },
         component: SynergiesComponent,
+      },
+      {
+        path: 'heroes',
+        data: { reuse: true, title: '英雄' },
+        component: HeroesComponent,
       },
       {
         path: 'synergies-table',
@@ -51,7 +52,6 @@ const routes: Routes = [
       },
     ],
   },
-  { path: '', redirectTo: '/items', pathMatch: 'full' },
   { path: '**', redirectTo: '/items' },
 ];
 

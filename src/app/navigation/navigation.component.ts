@@ -1,7 +1,7 @@
 import { Component, ViewChild } from '@angular/core';
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
 import { Observable, merge, of, Subscription } from 'rxjs';
-import { map, shareReplay, filter, mergeMap } from 'rxjs/operators';
+import { map, shareReplay, filter, mergeMap, tap } from 'rxjs/operators';
 import { MatSidenav } from '@angular/material/sidenav';
 import { NavigationService } from '../navigation.service';
 import { Router, ActivatedRoute, NavigationEnd } from '@angular/router';
@@ -14,7 +14,7 @@ import { Router, ActivatedRoute, NavigationEnd } from '@angular/router';
 export class NavigationComponent {
   @ViewChild('drawer') drawer: MatSidenav;
 
-  title;
+  title$: Observable<string>;
   private routerSubscription: Subscription;
 
   isHandset;
@@ -22,6 +22,7 @@ export class NavigationComponent {
     .observe(Breakpoints.Handset)
     .pipe(
       map((result) => result.matches),
+      tap((d) => (this.isHandset = d)),
       shareReplay()
     );
 
@@ -39,27 +40,21 @@ export class NavigationComponent {
   ) {}
 
   ngOnInit() {
-    console.log('init');
-    this.isHandset$.subscribe((val) => {
-      this.isHandset = val;
-    });
-
-    this.setTitle();
-
-    this.routerSubscription = this.router.events
-      .pipe(filter((event) => event instanceof NavigationEnd))
-      .subscribe(() => {
-        this.setTitle();
-      });
+    this.title$ = merge(
+      // set title for first load page
+      of(this.getTitle()),
+      this.router.events.pipe(
+        filter((event) => event instanceof NavigationEnd),
+        map(() => this.getTitle())
+      )
+    );
   }
 
-  setTitle() {
+  getTitle() {
     let route = this.route.snapshot.firstChild;
     while (route.firstChild) route = route.firstChild;
-    this.title = route?.data?.title;
+    return route?.data?.title;
   }
 
-  ngOnDestroy() {
-    this.routerSubscription.unsubscribe();
-  }
+  ngOnDestroy() {}
 }
