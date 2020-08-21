@@ -15,7 +15,6 @@ export class NavigationComponent {
   @ViewChild('drawer') drawer: MatSidenav;
 
   title$: Observable<string>;
-  private routerSubscription: Subscription;
 
   isHandset;
   isHandset$: Observable<boolean> = this.breakpointObserver
