@@ -31,6 +31,8 @@ import { JoinKeysPipe } from './join-keys.pipe';
 import { AboutComponent } from './about/about.component';
 import { RouteReuseStrategy } from '@angular/router';
 import { RouteReuseService } from './route-reuse.service';
+import { MatChipsModule } from '@angular/material/chips';
+import { MatTabsModule } from '@angular/material/tabs';
 
 @NgModule({
   declarations: [
@@ -58,10 +60,12 @@ import { RouteReuseService } from './route-reuse.service';
     MatSidenavModule,
     MatIconModule,
     MatListModule,
+    MatChipsModule,
     MatGridListModule,
     MatCardModule,
     MatMenuModule,
     MatExpansionModule,
+    MatTabsModule,
     AppRoutingModule,
     ServiceWorkerModule.register('ngsw-worker.js', {
       enabled: environment.production,

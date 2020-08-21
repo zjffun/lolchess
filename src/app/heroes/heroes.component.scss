@@ -1,10 +1,45 @@
+@import "~@angular/material/theming";
+
 .grid-container {
+  position: relative;
+  margin: 0 auto;
   max-width: 500px;
-  margin: 20px auto;
+}
+
+.heroes-bottom-menu {
+  position: sticky;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba($color: #000000, $alpha: 0.9);
+  z-index: 1;
+}
+
+.heroes-filter {
+  .chip-list-wrapper {
+    padding: 1em;
+  }
+}
+
+.heroes-sort {
+  $app-accent: mat-palette($mat-light-green);
+
+  ::ng-deep {
+    .mat-list-item {
+      color: mat-color($app-accent, default);
+
+      &.selected {
+        $app-accent: mat-palette($mat-light-green);
+        background: mat-color($app-accent, default);
+        color: mat-color($app-accent, default-contrast);
+      }
+    }
+  }
 }
 
 .heroes {
   display: flex;
+  min-height: calc(100vh - 64px);
   flex-wrap: wrap;
   justify-content: space-evenly;
   .hero {
@@ -15,4 +50,12 @@
       height: 0;
     }
   }
+}
+
+.button-group {
+  position: fixed;
+  top: 6px;
+  right: 20px;
+  color: #fff;
+  z-index: 2;
 }

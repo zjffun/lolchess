@@ -7,4 +7,108 @@
     ></app-hero-figure>
     <div class="hero" *ngFor="let i of placeholders"></div>
   </div>
+  <div class="heroes-bottom-menu">
+    <div class="heroes-filter" [hidden]="!showFilter">
+      <mat-chip-list>
+        <div class="chip-list-wrapper">
+          <ng-container *ngFor="let filter of costs">
+            <mat-chip *ngIf="filter.selected">
+              {{ filter.name }}
+              <mat-icon matChipRemove (click)="toggleFilter('cost', filter)"
+                >cancel</mat-icon
+              >
+            </mat-chip>
+          </ng-container>
+          <ng-container *ngFor="let filter of classes">
+            <mat-chip *ngIf="filter.selected">
+              {{ filter.name }}
+              <mat-icon matChipRemove (click)="toggleFilter('class', filter)"
+                >cancel</mat-icon
+              >
+            </mat-chip>
+          </ng-container>
+          <ng-container *ngFor="let filter of origins">
+            <mat-chip *ngIf="filter.selected">
+              {{ filter.name }}
+              <mat-icon matChipRemove (click)="toggleFilter('origin', filter)"
+                >cancel</mat-icon
+              >
+            </mat-chip>
+          </ng-container>
+        </div>
+      </mat-chip-list>
+      <mat-tab-group
+        headerPosition="below"
+        color="accent"
+        backgroundColor="accent"
+      >
+        <mat-tab label="费用">
+          <div class="chip-list-wrapper">
+            <mat-chip-list>
+              <mat-chip
+                *ngFor="let cost of costs"
+                [selected]="cost.selected"
+                (click)="toggleFilter('cost', cost)"
+                >{{ cost.name }}</mat-chip
+              >
+            </mat-chip-list>
+          </div>
+        </mat-tab>
+        <mat-tab label="职业">
+          <div class="chip-list-wrapper">
+            <mat-chip-list>
+              <mat-chip
+                *ngFor="let clazz of classes"
+                [selected]="clazz.selected"
+                (click)="toggleFilter('class', clazz)"
+                >{{ clazz.name }}</mat-chip
+              >
+            </mat-chip-list>
+          </div>
+        </mat-tab>
+        <mat-tab label="特性">
+          <div class="chip-list-wrapper">
+            <mat-chip-list>
+              <mat-chip
+                *ngFor="let origin of origins"
+                [selected]="origin.selected"
+                (click)="toggleFilter('origin', origin)"
+                >{{ origin.name }}</mat-chip
+              >
+            </mat-chip-list>
+          </div>
+        </mat-tab>
+      </mat-tab-group>
+    </div>
+    <div class="heroes-sort" [hidden]="!showSort">
+      <mat-list>
+        <mat-list-item
+          *ngFor="let sort of sorts"
+          [class.selected]="sort.selected"
+          (click)="sortChange(sort)"
+        >
+          {{ sort.name }}
+        </mat-list-item>
+      </mat-list>
+    </div>
+  </div>
+
+  <div class="button-group">
+    <button
+      mat-icon-button
+      [color]="showFilter && 'accent'"
+      (click)="showFilter = !showFilter"
+    >
+      <mat-icon>
+        <div [innerHTML]="faFilterHtml"></div>
+      </mat-icon>
+    </button>
+    <button
+      mat-icon-button
+      [color]="showSort && 'accent'"
+      (click)="showSort = !showSort"
+    >
+      <mat-icon>sort</mat-icon>
+    </button>
+  </div>
 </div>

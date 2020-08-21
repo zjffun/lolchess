@@ -26,6 +26,8 @@
     "@angular/platform-browser-dynamic": "~9.1.9",
     "@angular/router": "~9.1.9",
     "@angular/service-worker": "~9.1.9",
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@popperjs/core": "^2.4.4",
     "lodash": "^4.17.20",
     "rxjs": "~6.5.4",
