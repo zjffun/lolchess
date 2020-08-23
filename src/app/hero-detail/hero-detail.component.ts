@@ -5,6 +5,7 @@ import { NavigationService } from '../navigation.service';
 import { ItemService, itemType } from '../item.service';
 import { heroType, HeroesService } from '../heroes.service';
 import { ItemDetailPopperComponent } from '../item-detail-popper/item-detail-popper.component';
+import { syenrgyType, SynergiesService } from '../synergies.service';
 
 @Component({
   selector: 'app-hero-detail',
@@ -15,6 +16,7 @@ export class HeroDetailComponent implements OnInit {
   @ViewChild('itemDetailPopper') itemDetailPopper: ItemDetailPopperComponent;
 
   hero: heroType;
+  synergies: Array<syenrgyType> = [];
   lolqqitems: Array<itemType> = [];
   lolchessitems: Array<itemType> = [];
 
@@ -22,7 +24,8 @@ export class HeroDetailComponent implements OnInit {
     private route: ActivatedRoute,
     private navigation: NavigationService,
     private itemService: ItemService,
-    private heroesService: HeroesService
+    private heroesService: HeroesService,
+    private synergiesService: SynergiesService
   ) {}
 
   ngOnInit(): void {
@@ -36,6 +39,9 @@ export class HeroDetailComponent implements OnInit {
       )
       .subscribe((hero) => {
         this.hero = hero;
+        this.synergies = this.synergiesService.getSynergiesByKewords(
+          this.heroesService.heroSynergiesMap.get(hero.keyword)
+        );
 
         setTimeout(() => {
           this.navigation.title = hero.displayName;

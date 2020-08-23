@@ -1,24 +1,5 @@
 <div class="container">
-  <mat-accordion *ngFor="let synergy of synergies">
-    <mat-expansion-panel>
-      <mat-expansion-panel-header>
-        <mat-panel-title>
-          <img
-            class="synergy__icon"
-            [src]="'/assets/synergies/imgs/' + synergy.keyword + '.png'"
-            [alt]="synergy.keyword"
-          />{{ synergy.name }}
-        </mat-panel-title>
-      </mat-expansion-panel-header>
-      <p>{{ synergy.desc }}</p>
-      <ul *ngFor="let stat of synergy.stats">
-        <li>{{ stat }}</li>
-      </ul>
-      <ul class="hero-list">
-        <li class="hero-list__item" *ngFor="let hero of synergy.heroes">
-          <app-hero-figure [hero-keyword]="hero" size="sm"></app-hero-figure>
-        </li>
-      </ul>
-    </mat-expansion-panel>
-  </mat-accordion>
+  <ng-container *ngFor="let synergy of synergiesService.synergies">
+    <app-synergy-accordion [synergy]="synergy"></app-synergy-accordion>
+  </ng-container>
 </div>

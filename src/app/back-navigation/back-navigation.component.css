@@ -1,3 +1,8 @@
+.back-navigation-container {
+  height: 100%;
+  overflow: auto;
+}
+
 .back-toolbar {
   position: sticky;
   top: 0;

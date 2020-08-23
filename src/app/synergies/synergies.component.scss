@@ -2,20 +2,3 @@
   max-width: 600px;
   margin: 20px auto;
 }
-
-.synergy__icon {
-  margin-right: 0.3rem;
-  background: #000;
-}
-
-.hero-list {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0;
-
-  &__item {
-    flex: none;
-    list-style: none;
-    width: 3rem;
-  }
-}
