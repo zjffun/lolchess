@@ -29,6 +29,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@popperjs/core": "^2.4.4",
+    "@shopify/draggable": "1.0.0-beta.11",
     "lodash": "^4.17.20",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",

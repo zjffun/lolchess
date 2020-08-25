@@ -1,33 +1,37 @@
 <article class="container">
   <div class="table-wrapper">
-    <table>
-      <tr>
+    <table class="js-classes-container">
+      <tr class="js-origins-container">
         <td></td>
-        <td *ngFor="let origin of synergiesService.origins">
-          <img
-            class="synergy__icon"
-            [src]="'/assets/synergies/imgs/' + origin.keyword + '.png'"
-            [alt]="origin.keyword"
-          />
-          <br />
-          {{ origin.name }}({{ origin.stats | joinKeys: "/" }})
+        <td *ngFor="let origin of origins">
+          <div class="js-item" [attr.data-keyword]="origin.keyword">
+            <img
+              class="synergy__icon"
+              [src]="'/assets/synergies/imgs/' + origin.keyword + '.png'"
+              [alt]="origin.keyword"
+            />
+            <br />
+            {{ origin.name }}({{ origin.stats | joinKeys: "/" }})
+          </div>
         </td>
       </tr>
-      <tr *ngFor="let classData of synergiesService.classes">
+      <tr *ngFor="let clazz of classes">
         <td>
-          <img
-            class="synergy__icon"
-            [src]="'/assets/synergies/imgs/' + classData.keyword + '.png'"
-            [alt]="classData.keyword"
-          />
-          <br />
-          {{ classData.name }}({{ classData.stats | joinKeys: "/" }})
+          <div class="js-item js-item--class" [attr.data-keyword]="clazz.keyword">
+            <img
+              class="synergy__icon"
+              [src]="'/assets/synergies/imgs/' + clazz.keyword + '.png'"
+              [alt]="clazz.keyword"
+            />
+            <br />
+            {{ clazz.name }}({{ clazz.stats | joinKeys: "/" }})
+          </div>
         </td>
-        <td *ngFor="let origin of synergiesService.origins">
+        <td *ngFor="let origin of origins">
           <ng-container
             *ngFor="
               let hero of heroesService.getHeroesBySynergiesKeyword(
-                classData.keyword,
+                clazz.keyword,
                 origin.keyword
               )
             "
