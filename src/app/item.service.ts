@@ -5,6 +5,8 @@ export type itemType = typeof items[0];
 
 const idItemMap = new Map<number, itemType>();
 
+const firstLine = [0, ...Array.from({ length: 9 }, (_, i) => 1 << (i * 2))];
+
 items.forEach((item) => {
   idItemMap.set(item.id, item);
 });
@@ -42,4 +44,19 @@ export class ItemService {
     }
     return idItemMap.get(id);
   }
+
+  itemTable = [
+    firstLine.map((itemId) => {
+      return this.getById(itemId);
+    }),
+    ...Array.from({ length: 9 }, (_, i) => {
+      let t = 1 << (i * 2);
+      return [
+        ...Array.from({ length: 10 }, (_, i2) => {
+          let itemId = firstLine[i2] + t;
+          return this.getById(itemId);
+        }),
+      ];
+    }),
+  ];
 }

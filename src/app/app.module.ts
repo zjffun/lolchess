@@ -34,6 +34,7 @@ import { RouteReuseService } from './route-reuse.service';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatTabsModule } from '@angular/material/tabs';
 import { SynergyAccordionComponent } from './synergy-accordion/synergy-accordion.component';
+import { TeamBuilderComponent } from './team-builder/team-builder.component';
 
 @NgModule({
   declarations: [
@@ -52,6 +53,7 @@ import { SynergyAccordionComponent } from './synergy-accordion/synergy-accordion
     JoinKeysPipe,
     AboutComponent,
     SynergyAccordionComponent,
+    TeamBuilderComponent,
   ],
   imports: [
     BrowserModule,

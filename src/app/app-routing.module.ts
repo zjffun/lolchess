@@ -8,6 +8,7 @@ import { NavigationComponent } from './navigation/navigation.component';
 import { BackNavigationComponent } from './back-navigation/back-navigation.component';
 import { SynergiesTableComponent } from './synergies-table/synergies-table.component';
 import { AboutComponent } from './about/about.component';
+import { TeamBuilderComponent } from './team-builder/team-builder.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/items', pathMatch: 'full' },
@@ -34,6 +35,11 @@ const routes: Routes = [
         path: 'synergies-table',
         data: { reuse: true, title: '特性 X 职业' },
         component: SynergiesTableComponent,
+      },
+      {
+        path: 'team-builder',
+        data: { reuse: true, title: '阵容搭配' },
+        component: TeamBuilderComponent,
       },
       {
         path: 'about',

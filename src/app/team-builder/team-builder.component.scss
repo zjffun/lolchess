@@ -1,0 +1,31 @@
+.tab-wrapper {
+  position: relative;
+  z-index: 0;
+}
+
+.synergy-info {
+  &__icon {
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 0.3rem;
+    background: #000;
+    vertical-align: middle;
+  }
+}
+
+.hero-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+
+  &__item {
+    flex: none;
+    list-style: none;
+    width: 3rem;
+  }
+}
+
+.item-figure {
+  width: 100%;
+  height: 100%;
+}

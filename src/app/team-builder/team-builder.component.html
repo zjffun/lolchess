@@ -1,0 +1,45 @@
+<section>请拖入英雄</section>
+<section>请拖入装备</section>
+<div class="tab-wrapper">
+  <mat-tab-group>
+    <mat-tab label="英雄">
+      <ng-container *ngFor="let synergy of synergiesService.synergies">
+        <mat-expansion-panel>
+          <mat-expansion-panel-header>
+            <mat-panel-title>
+              <div class="synergy-info">
+                <img
+                  class="synergy-info__icon"
+                  [src]="'/assets/synergies/imgs/' + synergy.keyword + '.png'"
+                  [alt]="synergy.keyword"
+                />{{ synergy.name }}
+              </div>
+            </mat-panel-title>
+          </mat-expansion-panel-header>
+          <ul class="hero-list">
+            <li class="hero-list__item" *ngFor="let hero of synergy.heroes">
+              <app-hero-figure
+                [hero-keyword]="hero"
+                size="sm"
+              ></app-hero-figure>
+            </li>
+          </ul>
+        </mat-expansion-panel>
+      </ng-container>
+    </mat-tab>
+    <mat-tab label="装备">
+      <mat-grid-list cols="10" gutterSize="0">
+        <ng-container *ngFor="let items of itemService.itemTable">
+          <mat-grid-tile *ngFor="let item of items" [colspan]="1" [rowspan]="1">
+            <app-item-figure
+              class="item-figure"
+              [item]="item"
+              (click)="itemDetailPopper.show(item, $event)"
+            ></app-item-figure>
+          </mat-grid-tile>
+        </ng-container>
+      </mat-grid-list>
+      <app-item-detail-popper #itemDetailPopper></app-item-detail-popper>
+    </mat-tab>
+  </mat-tab-group>
+</div>
