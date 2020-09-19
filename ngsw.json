@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1600497614175,
+  "timestamp": 1600529723280,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.6aedc1ba0a6f44887d1e.js",
-        "/main-es5.6aedc1ba0a6f44887d1e.js",
+        "/main-es2015.b6acb36813a32b3ddba9.js",
+        "/main-es5.b6acb36813a32b3ddba9.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.f332a089ad1600448873.js",
         "/polyfills-es5.b13383c02142e13834f5.js",
@@ -40,18 +40,18 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/heroes.zh-CN.json": "c247385e9e6ee8fa4089b7da235ed91db4f7a2fb",
+    "/assets/heroes.zh-CN.json": "05994aa96d40c7aa58fd33b44e50d0f880c7b9e3",
     "/assets/icons/icon-128x128.png": "2c73141fa6c3cb837d12af4a3513c0c395e45550",
     "/assets/icons/icon-72x72.png": "0ff3cd8746ca222647ee38c1d6d7f850a46df11f",
     "/assets/icons/icon-96x96.png": "1ab7bfa1ec888eb49e565afd1952069d01cddb55",
     "/assets/image_emoticon25.png": "084a9dc99592690b8ce47b9f5e2e644f854f7aad",
-    "/assets/items.zh-CN.json": "fe2d53e7c94d382c860ef8f4f051721b38b945fe",
+    "/assets/items.zh-CN.json": "e92c1dd5477ec89b4472b0b58c0c4d291f415500",
     "/assets/items/imgs/0.png": "976d8caf85574c38bb7ee3b63d2ea742dd7992fb",
-    "/assets/synergies.zh-CN.json": "1d7c127bdb5bfaa7ab06e8fbfd59fa4c6ed39ba3",
+    "/assets/synergies.zh-CN.json": "751d80493c3891a7d5b98af330fb1ec0eefc00b6",
     "/favicon.ico": "3af8568e7ec2545e7f34a5444099b2c5b71f0fb8",
-    "/index.html": "fde0f5e6302f8621183c055d29a75d337a7723db",
-    "/main-es2015.6aedc1ba0a6f44887d1e.js": "130dca5d4fe49264d4de78ceebf5edb3e57ae610",
-    "/main-es5.6aedc1ba0a6f44887d1e.js": "4bbbef04ede2c82b6231d279e0b89dba330bffb3",
+    "/index.html": "e194c2383b5e501f0f78203e18ee4ba163f6bbb3",
+    "/main-es2015.b6acb36813a32b3ddba9.js": "b0aa18a1a8e5a88dd31d67c5239748634fff57ac",
+    "/main-es5.b6acb36813a32b3ddba9.js": "73e8296b68915944f2bc6b5e767dd18a5b0dac2e",
     "/manifest.webmanifest": "343021ee5a9d27254e8bde9d65cdbc21f9f2c6c0",
     "/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.b13383c02142e13834f5.js": "c390b99d4d83e624546b67be7ad521eb12162e13",
