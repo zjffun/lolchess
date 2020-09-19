@@ -273,12 +273,24 @@
       64,
       64
     ],
-    "name": "炽天使之拥",
+    "name": "蓝霸符",
     "keywords": "法力值",
     "proStatus": "无",
-    "desc": "携带者每释放一次技能，回复20法力值",
-    "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/333.png"
+    "desc": "在施放一次技能后，将你的法力值设为20。唯一装备。",
+    "lolqqheroes": [
+      "225",
+      "250",
+      "209",
+      "241",
+      "200",
+      "195",
+      "222",
+      "218",
+      "248",
+      "229",
+      "247"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/356.png"
   },
   {
     "id": 257,
@@ -433,12 +445,12 @@
       1024,
       64
     ],
-    "name": "肃静",
-    "keywords": "法力值，魔抗，沉默",
+    "name": "能量圣杯",
+    "keywords": "法力值，魔抗，法力回复",
     "proStatus": "无",
-    "desc": "普通攻击有25%的几率沉默敌人，在4秒内阻止敌人获取法力值。",
+    "desc": "在战斗环节开始时，携带者及其左右邻格的友军获得30法术强度，持续整个回合。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/210.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/335.png"
   },
   {
     "id": 1280,
@@ -446,12 +458,26 @@
       1024,
       256
     ],
-    "name": "折剑者",
-    "keywords": "护甲，魔抗，缴械",
+    "name": "石像鬼板甲",
+    "keywords": "护甲，魔抗",
     "proStatus": "无",
-    "desc": "普通攻击有25%对敌人造成缴械3秒。缴械几率：33%",
-    "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/340.png"
+    "desc": "携带者每成为一名敌人的目标，就会提供+12护甲+12魔抗。",
+    "lolqqheroes": [
+      "245",
+      "228",
+      "211",
+      "224",
+      "244",
+      "219",
+      "233",
+      "207",
+      "235",
+      "242",
+      "238",
+      "234",
+      "232"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/GargoyleStoneplate.png"
   },
   {
     "id": 2048,
@@ -502,12 +528,14 @@
       4096,
       4
     ],
-    "name": "巨型九头蛇",
-    "keywords": "攻速，生命值",
+    "name": "兹若特传送门",
+    "keywords": "攻速，生命值，召唤",
     "proStatus": "无",
-    "desc": "基本攻击对目标和目标后面的敌人，造成基于携带者最大生命值3%的魔法伤害。",
-    "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/211.png"
+    "desc": "死亡后，召唤一个拥有1500/2250/3000生命值的虚灵，虚灵可嘲讽附近所有的敌人。",
+    "lolqqheroes": [
+      "234"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/323.png"
   },
   {
     "id": 4112,
@@ -555,12 +583,19 @@
       4096,
       256
     ],
-    "name": "红霸符",
-    "keywords": "持续伤害，护甲，生命值",
+    "name": "日炎斗篷",
+    "keywords": "护甲，生命值，灼烧",
     "proStatus": "无",
-    "desc": "携带者的普通攻击会燃烧目标，灼烧效果27%。在10秒里持续造成真实伤害，总额相当于目标25%的最大生命值，并在燃烧期间阻止80%治疗效果。",
-    "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/341.png"
+    "desc": "【唯一】在战斗环节开始时，每一秒灼烧2个内随机一名敌方英雄，在10秒里造成真实伤害，总额相当于25%最大生命值，该敌人收到的所有治疗效果降低50%",
+    "lolqqheroes": [
+      "244",
+      "233",
+      "207",
+      "235",
+      "242",
+      "238"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/SunfireCape.png"
   },
   {
     "id": 5120,
@@ -605,12 +640,12 @@
       16384,
       1
     ],
-    "name": "幽梦之灵",
-    "keywords": "攻击力，转职，暴击",
+    "name": "天神之剑",
+    "keywords": "攻击力，转职，天神",
     "proStatus": "无",
-    "desc": "携带者也是一名刺客",
+    "desc": "【唯一】携带者获得【天神】羁绊。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/201.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/DIvine.png"
   },
   {
     "id": 16388,
@@ -618,12 +653,12 @@
       16384,
       4
     ],
-    "name": "破败王者之刃",
-    "keywords": "攻速，转职，剑士",
+    "name": "决斗大师的狂热",
+    "keywords": "攻速，转职，决斗大师",
     "proStatus": "无",
-    "desc": "携带者也是一名剑士。",
+    "desc": "【唯一】携带者获得【决斗大师】羁绊。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/202.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/Duelist.png"
   },
   {
     "id": 16400,
@@ -631,12 +666,12 @@
       16384,
       16
     ],
-    "name": "地狱火熔渣",
-    "keywords": "法强，转职，炼狱",
+    "name": "夜幽莲华",
+    "keywords": "法强，转职，灵魂莲华夜幽",
     "proStatus": "无",
-    "desc": "携带者也是一名“炼狱”元素英雄。",
+    "desc": "【唯一】携带者获得【灵魂莲华夜幽】羁绊。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/203.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/MantleofDusk.png"
   },
   {
     "id": 16448,
@@ -644,12 +679,12 @@
       16384,
       64
     ],
-    "name": "法师之帽",
-    "keywords": "法力值，转职，法师",
+    "name": "魔法师之帽",
+    "keywords": "法力值，转职，魔法师",
     "proStatus": "无",
-    "desc": "携带者也是一名法师。",
+    "desc": "【唯一】携带者获得【魔法师】羁绊。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/204.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/4002.png"
   },
   {
     "id": 16640,
@@ -657,12 +692,12 @@
       16384,
       256
     ],
-    "name": "守护神板甲",
-    "keywords": "护甲，转职，守护神",
+    "name": "重装战士胸甲",
+    "keywords": "护甲，转职，重装战士",
     "proStatus": "无",
-    "desc": "携带者也是一名守护神。",
+    "desc": "【唯一】携带者获得【重装战士】羁绊",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/205.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/Vanguard.png"
   },
   {
     "id": 17408,
@@ -670,12 +705,12 @@
       16384,
       1024
     ],
-    "name": "光之护符",
-    "keywords": "魔抗，转职，光",
+    "name": "永恒之森幼苗",
+    "keywords": "魔抗，转职，永恒之森",
     "proStatus": "无",
-    "desc": "携带者也是一名“光”元素英雄",
+    "desc": "【唯一】携带者获得【永恒之森】羁绊。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/206.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/Elderwood.png"
   },
   {
     "id": 20480,
@@ -683,12 +718,12 @@
       16384,
       4096
     ],
-    "name": "冰霜之锤",
-    "keywords": "生命值，转职，极地",
+    "name": "三国猛将旌旗",
+    "keywords": "生命值，转职，三国猛将",
     "proStatus": "无",
-    "desc": "携带者也是一名“极地”元素英雄。",
+    "desc": "【唯一】携带者获得【三国猛将】羁绊。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/207.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/Warlord.png"
   },
   {
     "id": 32768,
@@ -699,9 +734,9 @@
     "name": "自然之力",
     "keywords": "可上阵人数+1",
     "proStatus": "无",
-    "desc": "可上阵人数+1",
+    "desc": "可上阵人数+1。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/208.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/351.png"
   },
   {
     "id": 65537,
@@ -773,12 +808,12 @@
       65536,
       256
     ],
-    "name": "冰脉护手",
-    "keywords": "，闪避，暴击，减速",
+    "name": "静止法衣",
+    "keywords": "护甲，暴击，法力消耗",
     "proStatus": "无",
-    "desc": "携带者在闪避时会创造一个可延展的区域，区域内的敌人会减少35%攻速。",
+    "desc": "【唯一】在战斗环节开始时，径直射出一道光速，来延缓敌人的第一次技能释放，使其最大法力值提升33%，直到他们释放技能为止。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/212.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/343.png"
   },
   {
     "id": 66560,
@@ -817,12 +852,12 @@
       65536,
       16384
     ],
-    "name": "狂战士之斧",
-    "keywords": "暴击，闪避，转职，狂战士",
+    "name": "幽梦之灵",
+    "keywords": "暴击，闪避，转职，刺客",
     "proStatus": "无",
-    "desc": "携带者也是一名狂战士。",
+    "desc": "【唯一】携带者获得【刺客】羁绊。",
     "lolqqheroes": [],
-    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/209.png"
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/Assassin.png"
   },
   {
     "id": 131072,

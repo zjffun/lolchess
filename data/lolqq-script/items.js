@@ -22,7 +22,8 @@ function getSyntheticItem(raws) {
 }
 
 const result = firstLine.map((id) => {
-  const item = lqRawData.find((d) => d.equipId === lqBasicItemsMap[id]);
+  const item = lqRawData.filter((d) => d.equipId === lqBasicItemsMap[id]).pop();
+  console.log(item);
   return {
     ...item,
     id,
@@ -33,7 +34,7 @@ const result = firstLine.map((id) => {
 for (let i = 0; i < 9; i++) {
   for (let j = 0; j <= i; j++) {
     const raws = [1 << (i * 2), 1 << (j * 2)];
-    const item = lqRawData.find(getSyntheticItem(raws));
+    const item = lqRawData.filter(getSyntheticItem(raws)).pop();
     result.push({
       ...item,
       id: (1 << (i * 2)) + (1 << (j * 2)),
