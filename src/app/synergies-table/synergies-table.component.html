@@ -7,7 +7,7 @@
           <div class="js-item" [attr.data-keyword]="origin.keyword">
             <img
               class="synergy__icon"
-              [src]="'/assets/synergies/imgs/' + origin.keyword + '.png'"
+              [src]="origin.imageURL"
               [alt]="origin.keyword"
             />
             <br />
@@ -20,7 +20,7 @@
           <div class="js-item js-item--class" [attr.data-keyword]="clazz.keyword">
             <img
               class="synergy__icon"
-              [src]="'/assets/synergies/imgs/' + clazz.keyword + '.png'"
+              [src]="clazz.imageURL"
               [alt]="clazz.keyword"
             />
             <br />

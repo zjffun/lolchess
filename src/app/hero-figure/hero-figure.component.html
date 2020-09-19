@@ -4,7 +4,7 @@
   [routerLink]="['/hero', heroInfo.keyword]"
 >
   <img
-    [src]="'/assets/heroes/imgs/' + heroInfo.keyword + '.png'"
+    [src]="heroInfo.imageURL"
     [alt]="heroInfo.displayName"
     class="hero__avatar"
   />

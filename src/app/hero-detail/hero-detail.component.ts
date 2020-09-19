@@ -48,18 +48,13 @@ export class HeroDetailComponent implements OnInit {
         }, 0);
 
         let lolqqitems: Array<itemType> = [];
-        let lolchessitems: Array<itemType> = [];
 
         this.itemService.items.forEach((item) => {
           if (item.lolqqheroes.includes(hero.keyword)) {
             lolqqitems.push(item);
           }
-          if (item.lolchessheroes.includes(hero.keyword)) {
-            lolchessitems.push(item);
-          }
         });
         this.lolqqitems = lolqqitems;
-        this.lolchessitems = lolchessitems;
 
         // reset
         this.itemDetailPopper?.hide();

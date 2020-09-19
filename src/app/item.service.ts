@@ -19,7 +19,7 @@ function item(data = {}) {
     desc: '',
     attrs: [],
     lolqqheroes: [],
-    lolchessheroes: [],
+    imageURL: '/assets/items/imgs/0.png',
     ...data,
   };
 }

@@ -1,418 +1,93 @@
 [
   {
     "id": 1,
-    "raws": [
-      1
-    ],
+    "raws": [],
     "name": "暴风大剑",
     "keywords": "攻击",
     "proStatus": "无",
     "desc": "+15攻击力",
-    "attrs": [
-      "+15 攻击力"
-    ],
     "lolqqheroes": [],
-    "lolchessheroes": []
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/301.png"
   },
   {
-    "id": 1024,
-    "raws": [
-      1024
-    ],
+    "id": 4,
+    "raws": [],
+    "name": "反曲之弓",
+    "keywords": "攻速",
+    "proStatus": "无",
+    "desc": "+15%攻速",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/302.png"
+  },
+  {
+    "id": 16,
+    "raws": [],
+    "name": "无用大棒",
+    "keywords": "法术强度",
+    "proStatus": "无",
+    "desc": "+15%技能伤害",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/303.png"
+  },
+  {
+    "id": 64,
+    "raws": [],
     "name": "女神之泪",
     "keywords": "法力值",
     "proStatus": "无",
     "desc": "+15法力值，相关成装也会相应调整。",
-    "attrs": [
-      "+15 法力值"
-    ],
     "lolqqheroes": [],
-    "lolchessheroes": []
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/304.png"
   },
   {
-    "id": 1025,
-    "raws": [
-      1,
-      1024
-    ],
-    "name": "朔极之矛",
-    "keywords": "攻击力，法力值，回蓝",
-    "proStatus": "无",
-    "desc": "在使用技能后，携带者的每次攻击回复18%最大法力值。",
-    "attrs": [
-      "+15 攻击力",
-      "+15 法力值"
-    ],
-    "lolqqheroes": [
-      "ashe",
-      "bard",
-      "ezreal",
-      "lulu",
-      "rakan",
-      "soraka",
-      "thresh",
-      "twistedfate",
-      "zoe"
-    ],
-    "lolchessheroes": [
-      "ashe",
-      "bard",
-      "ezreal",
-      "graves",
-      "janna",
-      "karma",
-      "lulu",
-      "rakan",
-      "soraka",
-      "thresh",
-      "twistedfate",
-      "urgot",
-      "viktor",
-      "yasuo"
-    ]
-  },
-  {
-    "id": 1028,
-    "raws": [
-      4,
-      1024
-    ],
-    "name": "斯塔缇克电刃",
-    "keywords": "攻速，法力值，魔法伤害",
-    "proStatus": "增强",
-    "desc": "每3次攻击，对3/4/5个敌人(随携带者的等级成长)造成85魔法伤害。每次弹跳伤害：85。现在会对有护盾或者被控制的目标造成额外的85真实伤害。",
-    "attrs": [
-      "+15% 攻速",
-      "+15 法力值"
-    ],
-    "lolqqheroes": [
-      "kogmaw"
-    ],
-    "lolchessheroes": [
-      "ashe",
-      "kogmaw",
-      "thresh",
-      "yasuo"
-    ]
-  },
-  {
-    "id": 1040,
-    "raws": [
-      16,
-      1024
-    ],
-    "name": "冰霜之心",
-    "keywords": "法力值，护甲，减速",
-    "proStatus": "无",
-    "desc": "降低邻近格子的敌人50%攻速，持续1秒。(多个【冰霜之心】可提升效果的半径)",
-    "attrs": [
-      "+25 护甲",
-      "+15 法力值"
-    ],
-    "lolqqheroes": [
-      "gnar",
-      "monkeyking",
-      "vi"
-    ],
-    "lolchessheroes": [
-      "ekko",
-      "fizz",
-      "gnar",
-      "leona",
-      "monkeyking",
-      "nocturne",
-      "rakan",
-      "shen",
-      "vi"
-    ]
-  },
-  {
-    "id": 1088,
-    "raws": [
-      64,
-      1024
-    ],
-    "name": "能量圣杯",
-    "keywords": "法力值，魔抗，法力回复",
-    "proStatus": "无",
-    "desc": "在战斗环节开始时，携带者及其左右邻格的友军获得30法术强度，持续20秒。",
-    "attrs": [
-      "+25 魔抗",
-      "+15 法力值"
-    ],
-    "lolqqheroes": [
-      "ahri",
-      "blitzcrank",
-      "janna",
-      "zoe"
-    ],
-    "lolchessheroes": [
-      "ahri",
-      "bard",
-      "janna",
-      "jayce",
-      "karma",
-      "lulu",
-      "soraka",
-      "zoe"
-    ]
-  },
-  {
-    "id": 128,
-    "raws": [
-      64,
-      64
-    ],
-    "name": "巨龙之爪",
-    "keywords": "魔抗",
-    "proStatus": "无",
-    "desc": "装备者获得50%魔法抗性。",
-    "attrs": [
-      "+25 魔抗",
-      "+25 魔抗"
-    ],
-    "lolqqheroes": [
-      "gnar",
-      "jayce",
-      "malphite",
-      "xinzhao"
-    ],
-    "lolchessheroes": [
-      "gnar",
-      "jayce",
-      "monkeyking",
-      "mordekaiser",
-      "poppy",
-      "xinzhao"
-    ]
-  },
-  {
-    "id": 1280,
-    "raws": [
-      256,
-      1024
-    ],
-    "name": "卢登的回声",
-    "keywords": "法力值，法强，溅射伤害",
-    "proStatus": "无",
-    "desc": "星级加成已移除。现在每次弹射造成200魔法伤害。",
-    "attrs": [
-      "+20% 技能伤害",
-      "+15 法力值"
-    ],
-    "lolqqheroes": [
-      "ezreal",
-      "riven"
-    ],
-    "lolchessheroes": [
-      "ahri",
-      "aurelionsol",
-      "cassiopeia",
-      "ezreal",
-      "lucian",
-      "syndra",
-      "teemo",
-      "ziggs"
-    ]
-  },
-  {
-    "id": 131072,
-    "raws": [
-      65536,
-      65536
-    ],
-    "name": "窃贼手套",
-    "keywords": "闪避，暴击，装备",
-    "proStatus": "无",
-    "desc": "这个装备需要占用全部3个物品栏位。在备战环节开始时，携带者会随机装备两个临时装备，临时装备的品质取决于玩家的等级。",
-    "attrs": [
-      "+10% 暴击几率, +10% 闪避",
-      "+10% 暴击几率, +10% 闪避"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 16,
-    "raws": [
-      16
-    ],
+    "id": 256,
+    "raws": [],
     "name": "锁子甲",
     "keywords": "护甲",
     "proStatus": "无",
     "desc": "+25护甲",
-    "attrs": [
-      "+25 护甲"
-    ],
     "lolqqheroes": [],
-    "lolchessheroes": []
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/305.png"
+  },
+  {
+    "id": 1024,
+    "raws": [],
+    "name": "负极斗篷",
+    "keywords": "魔抗",
+    "proStatus": "无",
+    "desc": "+25魔抗",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/306.png"
+  },
+  {
+    "id": 4096,
+    "raws": [],
+    "name": "巨人腰带",
+    "keywords": "生命值",
+    "proStatus": "无",
+    "desc": "+200生命值",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/307.png"
   },
   {
     "id": 16384,
-    "raws": [
-      16384
-    ],
+    "raws": [],
     "name": "金铲铲",
     "keywords": "特殊装备",
     "proStatus": "无",
     "desc": "它必须做点什么（特殊装备）",
-    "attrs": [
-      "你可以用它搞点事情"
-    ],
     "lolqqheroes": [],
-    "lolchessheroes": []
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/308.png"
   },
   {
-    "id": 16385,
-    "raws": [
-      1,
-      16384
-    ],
-    "name": "破败王者之刃",
-    "keywords": "攻击力，剑士",
+    "id": 65536,
+    "raws": [],
+    "name": "拳套",
+    "keywords": "暴击，闪避",
     "proStatus": "无",
-    "desc": "携带者也是一名剑士。",
-    "attrs": [
-      "+15 攻击力"
-    ],
+    "desc": "+10%暴击几率和+10%闪避",
     "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 16388,
-    "raws": [
-      4,
-      16384
-    ],
-    "name": "刺客的利爪",
-    "keywords": "攻速，转职，刺客",
-    "proStatus": "无",
-    "desc": "携带者也是一名刺客。",
-    "attrs": [
-      "+15% 攻速"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 16400,
-    "raws": [
-      16,
-      16384
-    ],
-    "name": "奥德赛勋章",
-    "keywords": "护甲，转职，奥德赛",
-    "proStatus": "无",
-    "desc": "携带者也是一名奥德赛。",
-    "attrs": [
-      "+25 护甲"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 16448,
-    "raws": [
-      64,
-      16384
-    ],
-    "name": "星神法球",
-    "keywords": "魔抗，转职，星神",
-    "proStatus": "无",
-    "desc": "携带者也是一名星神。",
-    "attrs": [
-      "+25 魔抗"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 16640,
-    "raws": [
-      256,
-      16384
-    ],
-    "name": "战地机甲镀板",
-    "keywords": "转职，战地机甲",
-    "proStatus": "无",
-    "desc": "携带者也是一名战地机甲英雄",
-    "attrs": [
-      "+20% 技能伤害"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": [
-      "blitzcrank",
-      "ezreal",
-      "graves",
-      "malphite"
-    ]
-  },
-  {
-    "id": 17,
-    "raws": [
-      1,
-      16
-    ],
-    "name": "守护天使",
-    "keywords": "攻击力，护甲，复活",
-    "proStatus": "无",
-    "desc": "当携带者死亡时，清除自身的负面效果，并在2秒后复活且恢复400生命值。在复活状态期间不能被治疗。这个效果每场战斗只能触发一次。",
-    "attrs": [
-      "+15 攻击力",
-      "+25 护甲"
-    ],
-    "lolqqheroes": [
-      "darius",
-      "fiora",
-      "gangplank",
-      "irelia",
-      "jayce",
-      "jhin",
-      "jinx",
-      "karma",
-      "neeko",
-      "nocturne",
-      "poppy",
-      "riven",
-      "shaco",
-      "soraka",
-      "syndra",
-      "urgot",
-      "vi",
-      "yasuo",
-      "zed"
-    ],
-    "lolchessheroes": [
-      "darius",
-      "gangplank",
-      "irelia",
-      "jayce",
-      "jhin",
-      "jinx",
-      "neeko",
-      "riven",
-      "shaco",
-      "syndra",
-      "urgot",
-      "yasuo",
-      "zed"
-    ]
-  },
-  {
-    "id": 17408,
-    "raws": [
-      1024,
-      16384
-    ],
-    "name": "星之守护者的挂坠",
-    "keywords": "法力值，转职，星之守护者",
-    "proStatus": "无",
-    "desc": "携带者也是一名星之守护者。",
-    "attrs": [
-      "+15 法力值"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/309.png"
   },
   {
     "id": 2,
@@ -423,882 +98,28 @@
     "name": "死亡之刃",
     "keywords": "攻击",
     "proStatus": "无",
-    "desc": "在击杀或助攻后，获得一层额外的25攻击力，持续到战斗结束（可无限叠加）（初始层数：2）(现在会显示已获取的攻击力数值，而非层数)。",
-    "attrs": [
-      "+15 攻击力",
-      "+15 攻击力"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": [
-      "irelia",
-      "jhin",
-      "kogmaw",
-      "vayne",
-      "xayah",
-      "zed"
-    ]
-  },
-  {
-    "id": 20,
-    "raws": [
-      4,
-      16
-    ],
-    "name": "泰坦的坚决",
-    "keywords": "攻速，护甲",
-    "proStatus": "无",
-    "desc": "当携带者打出或受到一次暴击，会获得一层1%伤害的加成，至多叠加100层。在100层时，携带者获得25护甲和魔法抗性，并且体型也会提升。每回合都会重置。",
-    "attrs": [
-      "+15% 攻速",
-      "+25 护甲"
-    ],
+    "desc": "在击杀或助攻后，获得一层额外的20攻击力，持续到战斗结束（可无限叠加）（初始层数：2）(现在会显示已获取的攻击力数值，而非层数)。",
     "lolqqheroes": [
-      "annie",
-      "fizz",
-      "rumble",
-      "xinzhao"
+      "236"
     ],
-    "lolchessheroes": [
-      "annie",
-      "rumble",
-      "xinzhao"
-    ]
-  },
-  {
-    "id": 2048,
-    "raws": [
-      1024,
-      1024
-    ],
-    "name": "蓝霸符",
-    "keywords": "法力值",
-    "proStatus": "无",
-    "desc": "在施放一次技能后，将你的法力值设为20。唯一装备。",
-    "attrs": [
-      "+15 法力值",
-      "+15 法力值"
-    ],
-    "lolqqheroes": [
-      "aurelionsol",
-      "bard",
-      "cassiopeia",
-      "syndra",
-      "teemo",
-      "urgot",
-      "viktor",
-      "ziggs"
-    ],
-    "lolchessheroes": [
-      "ashe",
-      "aurelionsol",
-      "bard",
-      "cassiopeia",
-      "irelia",
-      "janna",
-      "lucian",
-      "lulu",
-      "syndra",
-      "teemo",
-      "thresh",
-      "urgot",
-      "viktor",
-      "ziggs"
-    ]
-  },
-  {
-    "id": 20480,
-    "raws": [
-      4096,
-      16384
-    ],
-    "name": "圣盾使的胸甲",
-    "keywords": "生命值，转职，圣盾使",
-    "proStatus": "无",
-    "desc": "携带者也是一名圣盾使。",
-    "attrs": [
-      "+200 生命值"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 256,
-    "raws": [
-      256
-    ],
-    "name": "无用大棒",
-    "keywords": "法术强度",
-    "proStatus": "无",
-    "desc": "+20%技能伤害",
-    "attrs": [
-      "+20% 技能伤害"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 257,
-    "raws": [
-      1,
-      256
-    ],
-    "name": "海克斯科技枪",
-    "keywords": "全能吸血",
-    "proStatus": "增强",
-    "desc": "法术吸血：45%。35%治疗转化率，来自技能伤害。这件装备的过量治疗现在会生成一个护盾(护盾的最大生命值为400)。",
-    "attrs": [
-      "+15 攻击力",
-      "+20% 技能伤害"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 260,
-    "raws": [
-      4,
-      256
-    ],
-    "name": "鬼索的狂暴之刃",
-    "keywords": "攻速，法强",
-    "proStatus": "无",
-    "desc": "每次攻击增加5%的攻速，可无限叠加。",
-    "attrs": [
-      "+15% 攻速",
-      "+20% 技能伤害"
-    ],
-    "lolqqheroes": [
-      "ashe",
-      "caitlyn",
-      "masteryi",
-      "xerath"
-    ],
-    "lolchessheroes": [
-      "ashe",
-      "bard",
-      "masteryi",
-      "vayne",
-      "xerath"
-    ]
-  },
-  {
-    "id": 272,
-    "raws": [
-      16,
-      256
-    ],
-    "name": "钢铁烈阳之匣",
-    "keywords": "法强，护甲，护盾",
-    "proStatus": "增强",
-    "desc": "为同一列2格内的友军提供250/300/375生命值的护盾(随携带者的等级成长)，持续8秒。",
-    "attrs": [
-      "+25 护甲",
-      "+20% 技能伤害"
-    ],
-    "lolqqheroes": [
-      "illaoi",
-      "jarvaniv",
-      "shen"
-    ],
-    "lolchessheroes": [
-      "fiora",
-      "jarvaniv",
-      "vi",
-      "zoe"
-    ]
-  },
-  {
-    "id": 32,
-    "raws": [
-      16,
-      16
-    ],
-    "name": "棘刺背心",
-    "keywords": "护甲，反弹伤害",
-    "proStatus": "无",
-    "desc": "使来自暴击的额外伤害变得无效。在被一次普通攻击命中时，对附近的所有敌人造成100/140/200魔法伤害(每2秒最多触发1次)。伤害值随携带者的星级成长。",
-    "attrs": [
-      "+25 护甲",
-      "+25 护甲"
-    ],
-    "lolqqheroes": [
-      "annie",
-      "fizz",
-      "illaoi",
-      "jarvaniv",
-      "leona",
-      "malphite",
-      "mordekaiser",
-      "neeko",
-      "poppy",
-      "rumble",
-      "shen",
-      "xinzhao"
-    ],
-    "lolchessheroes": [
-      "annie",
-      "gnar",
-      "illaoi",
-      "jarvaniv",
-      "jayce",
-      "leona",
-      "malphite",
-      "monkeyking",
-      "mordekaiser",
-      "neeko",
-      "poppy",
-      "rumble",
-      "shen",
-      "xinzhao"
-    ]
-  },
-  {
-    "id": 320,
-    "raws": [
-      64,
-      256
-    ],
-    "name": "离子火花",
-    "keywords": "法强，魔抗",
-    "proStatus": "无",
-    "desc": "2格内的敌人在施放技能时会被震击，受到相当于其225%最大法力值的魔法伤害。并且会减少附近敌人40%魔法抗性",
-    "attrs": [
-      "+25 魔抗",
-      "+20% 技能伤害"
-    ],
-    "lolqqheroes": [
-      "blitzcrank",
-      "ekko",
-      "fiora",
-      "gangplank",
-      "gnar",
-      "jayce",
-      "monkeyking",
-      "nautilus",
-      "neeko",
-      "poppy",
-      "rakan",
-      "vi"
-    ],
-    "lolchessheroes": [
-      "annie",
-      "darius",
-      "ekko",
-      "fiora",
-      "fizz",
-      "gangplank",
-      "gnar",
-      "illaoi",
-      "jarvaniv",
-      "jayce",
-      "leona",
-      "malphite",
-      "monkeyking",
-      "mordekaiser",
-      "nautilus",
-      "neeko",
-      "nocturne",
-      "poppy",
-      "rakan",
-      "riven",
-      "rumble",
-      "vi"
-    ]
-  },
-  {
-    "id": 32768,
-    "raws": [
-      16384,
-      16384
-    ],
-    "name": "自然之力",
-    "keywords": "可上阵人数+1",
-    "proStatus": "无",
-    "desc": "可上阵人数+1。",
-    "attrs": [],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 4,
-    "raws": [
-      4
-    ],
-    "name": "反曲之弓",
-    "keywords": "攻速",
-    "proStatus": "无",
-    "desc": "+15%攻速",
-    "attrs": [
-      "+15% 攻速"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 4096,
-    "raws": [
-      4096
-    ],
-    "name": "巨人腰带",
-    "keywords": "生命值",
-    "proStatus": "无",
-    "desc": "+200生命值",
-    "attrs": [
-      "+200 生命值"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 4097,
-    "raws": [
-      1,
-      4096
-    ],
-    "name": "基克的先驱",
-    "keywords": "攻击力，生命值，攻速",
-    "proStatus": "无",
-    "desc": "战斗开始时，携带者和站在同一排1格内的友军获得+30%攻速，持续至本回合战斗环节结束。",
-    "attrs": [
-      "+15 攻击力",
-      "+200 生命值"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": [
-      "karma",
-      "nocturne",
-      "yasuo",
-      "zed"
-    ]
-  },
-  {
-    "id": 4100,
-    "raws": [
-      4,
-      4096
-    ],
-    "name": "兹若特传送门",
-    "keywords": "攻速，生命值，召唤",
-    "proStatus": "无",
-    "desc": "死亡后，召唤一个拥有1500/2250/3000生命值的虚灵，虚灵可嘲讽附近所有的敌人。",
-    "attrs": [
-      "+15% 攻速",
-      "+200 生命值"
-    ],
-    "lolqqheroes": [
-      "illaoi",
-      "jarvaniv",
-      "leona",
-      "mordekaiser",
-      "shen"
-    ],
-    "lolchessheroes": [
-      "annie",
-      "blitzcrank",
-      "illaoi",
-      "jarvaniv",
-      "malphite",
-      "nautilus",
-      "neeko",
-      "poppy",
-      "xinzhao",
-      "zoe"
-    ]
-  },
-  {
-    "id": 4112,
-    "raws": [
-      16,
-      4096
-    ],
-    "name": "红霸符",
-    "keywords": "持续伤害，护甲，生命值",
-    "proStatus": "无",
-    "desc": "携带者的普通攻击会燃烧目标，灼烧效果27%。在10秒里持续造成真实伤害，总额相当于目标25%的最大生命值，并在燃烧期间阻止80%治疗效果。",
-    "attrs": [
-      "+25 护甲",
-      "+200 生命值"
-    ],
-    "lolqqheroes": [
-      "graves",
-      "jinx",
-      "kogmaw",
-      "lucian"
-    ],
-    "lolchessheroes": [
-      "ekko",
-      "ezreal",
-      "graves",
-      "jinx",
-      "kogmaw",
-      "lucian"
-    ]
-  },
-  {
-    "id": 4160,
-    "raws": [
-      64,
-      4096
-    ],
-    "name": "灵风",
-    "keywords": "魔抗，生命值，放逐单位",
-    "proStatus": "无",
-    "desc": "战斗开始时，携带者会在棋盘的对面召唤旋风，将旋风处或旋风最邻近的敌人放逐5秒。（每个英雄仅能装备一个）",
-    "attrs": [
-      "+25 魔抗",
-      "+200 生命值"
-    ],
-    "lolqqheroes": [
-      "janna",
-      "karma",
-      "nautilus",
-      "thresh"
-    ],
-    "lolchessheroes": [
-      "bard",
-      "blitzcrank",
-      "caitlyn",
-      "fiora",
-      "karma",
-      "leona",
-      "lulu",
-      "nautilus",
-      "nocturne",
-      "soraka",
-      "vi",
-      "ziggs",
-      "zoe"
-    ]
-  },
-  {
-    "id": 4352,
-    "raws": [
-      256,
-      4096
-    ],
-    "name": "莫雷洛秘典",
-    "keywords": "法强，生命值，持续伤害",
-    "proStatus": "无",
-    "desc": "在携带者用技能造成伤害时，会燃烧目标，灼烧效果：27%。在10秒里持续造成真实伤害，总额相当于目标25%的最大生命值，并在燃烧期间阻止50%治疗效果。",
-    "attrs": [
-      "+20% 技能伤害",
-      "+200 生命值"
-    ],
-    "lolqqheroes": [
-      "ahri",
-      "aurelionsol",
-      "cassiopeia",
-      "ekko",
-      "ezreal",
-      "monkeyking",
-      "mordekaiser",
-      "rakan",
-      "teemo",
-      "twistedfate",
-      "viktor"
-    ],
-    "lolchessheroes": [
-      "ahri",
-      "aurelionsol",
-      "cassiopeia",
-      "ekko",
-      "fizz",
-      "gangplank",
-      "monkeyking",
-      "mordekaiser",
-      "rakan",
-      "riven",
-      "teemo",
-      "twistedfate",
-      "viktor",
-      "xerath",
-      "ziggs"
-    ]
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/310.png"
   },
   {
     "id": 5,
     "raws": [
-      1,
-      4
+      4,
+      1
     ],
     "name": "巨人杀手",
     "keywords": "攻击，攻速",
     "proStatus": "无",
-    "desc": "当前生命值物理伤害：12%，现在不再造成真实伤害，而是造成符合携带者的伤害类型(物理或魔法)的(折前)伤害",
-    "attrs": [
-      "+15 攻击力",
-      "+15% 攻速"
-    ],
+    "desc": "当前生命值物理伤害：12%，现在不再造成真实伤害，而是造成符合携带者的伤害类型(物理或魔法)的(折前)伤害10/90%",
     "lolqqheroes": [
-      "graves",
-      "jinx",
-      "lucian",
-      "vayne",
-      "xayah"
+      "198",
+      "240",
+      "213"
     ],
-    "lolchessheroes": [
-      "ahri",
-      "caitlyn",
-      "jhin",
-      "jinx",
-      "kogmaw",
-      "rumble",
-      "vayne",
-      "xayah"
-    ]
-  },
-  {
-    "id": 512,
-    "raws": [
-      256,
-      256
-    ],
-    "name": "灭世者的死亡之帽",
-    "keywords": "法强，技能伤害",
-    "proStatus": "无",
-    "desc": "额外法术强度：50%",
-    "attrs": [
-      "+20% 技能伤害",
-      "+20% 技能伤害"
-    ],
-    "lolqqheroes": [
-      "aurelionsol",
-      "darius",
-      "ekko",
-      "gangplank",
-      "karma",
-      "riven",
-      "syndra",
-      "teemo",
-      "thresh",
-      "viktor",
-      "xerath",
-      "ziggs",
-      "zoe"
-    ],
-    "lolchessheroes": [
-      "aurelionsol",
-      "cassiopeia",
-      "darius",
-      "fizz",
-      "gangplank",
-      "karma",
-      "masteryi",
-      "riven",
-      "syndra",
-      "teemo",
-      "twistedfate",
-      "viktor",
-      "xerath",
-      "ziggs"
-    ]
-  },
-  {
-    "id": 5120,
-    "raws": [
-      1024,
-      4096
-    ],
-    "name": "救赎",
-    "keywords": "法力值，生命值，生命回复",
-    "proStatus": "无",
-    "desc": "携带者在阵亡时治疗整个队伍800生命值",
-    "attrs": [
-      "+15 法力值",
-      "+200 生命值"
-    ],
-    "lolqqheroes": [
-      "leona",
-      "nautilus"
-    ],
-    "lolchessheroes": [
-      "blitzcrank",
-      "fiora",
-      "graves",
-      "leona",
-      "nautilus",
-      "rakan",
-      "shen",
-      "vi"
-    ]
-  },
-  {
-    "id": 64,
-    "raws": [
-      64
-    ],
-    "name": "负极斗篷",
-    "keywords": "魔抗",
-    "proStatus": "无",
-    "desc": "+25魔抗",
-    "attrs": [
-      "+25 魔抗"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 65,
-    "raws": [
-      1,
-      64
-    ],
-    "name": "饮血剑",
-    "keywords": "攻击力，魔抗，普攻吸血",
-    "proStatus": "无",
-    "desc": "普攻攻击附带45%吸血，生命偷取：45%",
-    "attrs": [
-      "+15 攻击力",
-      "+25 魔抗"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": [
-      "shaco"
-    ]
-  },
-  {
-    "id": 65536,
-    "raws": [
-      65536
-    ],
-    "name": "拳套",
-    "keywords": "暴击，闪避",
-    "proStatus": "无",
-    "desc": "+10%暴击几率和+10%闪避",
-    "attrs": [
-      "+10% 暴击几率, +10% 闪避"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": []
-  },
-  {
-    "id": 65537,
-    "raws": [
-      1,
-      65536
-    ],
-    "name": "无尽之刃",
-    "keywords": "攻击力，暴击",
-    "proStatus": "无",
-    "desc": "携带者增加100%暴击几率和+20%暴击伤害。现在是唯一装备。",
-    "attrs": [
-      "+15 攻击力",
-      "+20% 闪避"
-    ],
-    "lolqqheroes": [
-      "irelia",
-      "jhin",
-      "nocturne",
-      "shaco",
-      "vayne",
-      "xayah",
-      "yasuo",
-      "zed"
-    ],
-    "lolchessheroes": [
-      "caitlyn",
-      "darius",
-      "irelia",
-      "jhin",
-      "jinx",
-      "lucian",
-      "nocturne",
-      "shaco",
-      "twistedfate",
-      "vayne",
-      "xayah",
-      "yasuo",
-      "zed"
-    ]
-  },
-  {
-    "id": 65540,
-    "raws": [
-      4,
-      65536
-    ],
-    "name": "最后的轻语",
-    "keywords": "攻速，暴击，破甲",
-    "proStatus": "无",
-    "desc": "暴击会使目标的护甲降低90%，持续3秒。这个效果不会叠加。",
-    "attrs": [
-      "+15% 攻速",
-      "+20% 闪避"
-    ],
-    "lolqqheroes": [
-      "irelia",
-      "jhin",
-      "vayne",
-      "xayah"
-    ],
-    "lolchessheroes": [
-      "caitlyn",
-      "irelia",
-      "jhin",
-      "jinx",
-      "lucian",
-      "shaco",
-      "vayne",
-      "xayah"
-    ]
-  },
-  {
-    "id": 65552,
-    "raws": [
-      16,
-      65536
-    ],
-    "name": "静止法衣",
-    "keywords": "护甲，暴击，法力消耗",
-    "proStatus": "无",
-    "desc": "战斗开始时，向前射出一道光线，使得所有被击中的敌人最大法力值提高40%，直到他们施放一次技能。（宽度：1.5格）",
-    "attrs": [
-      "+25 护甲",
-      "+10% 暴击几率, +10% 闪避"
-    ],
-    "lolqqheroes": [],
-    "lolchessheroes": [
-      "blitzcrank",
-      "fiora",
-      "illaoi",
-      "malphite",
-      "nautilus",
-      "shen",
-      "soraka",
-      "zoe"
-    ]
-  },
-  {
-    "id": 65600,
-    "raws": [
-      64,
-      65536
-    ],
-    "name": "水银",
-    "keywords": "魔抗，暴击，免疫控制",
-    "proStatus": "无",
-    "desc": "携带者最初10秒免疫控制（携带唯一）。",
-    "attrs": [
-      "+25 魔抗",
-      "+20% 暴击几率"
-    ],
-    "lolqqheroes": [
-      "annie",
-      "fizz",
-      "masteryi",
-      "rumble",
-      "urgot",
-      "xerath"
-    ],
-    "lolchessheroes": [
-      "annie",
-      "janna",
-      "masteryi",
-      "riven",
-      "rumble",
-      "xayah",
-      "xerath"
-    ]
-  },
-  {
-    "id": 65792,
-    "raws": [
-      256,
-      65536
-    ],
-    "name": "珠光护手",
-    "keywords": "法强，暴击",
-    "proStatus": "无",
-    "desc": "携带者的技能可以暴击并且携带者获得+30%暴击伤害。",
-    "attrs": [
-      "+20% 技能伤害",
-      "+20% 闪避"
-    ],
-    "lolqqheroes": [
-      "ahri",
-      "darius"
-    ],
-    "lolchessheroes": [
-      "ahri",
-      "aurelionsol",
-      "darius",
-      "ekko",
-      "fizz",
-      "gangplank",
-      "syndra",
-      "teemo",
-      "twistedfate",
-      "viktor",
-      "xerath"
-    ]
-  },
-  {
-    "id": 66560,
-    "raws": [
-      1024,
-      65536
-    ],
-    "name": "正义之手",
-    "keywords": "法力值，暴击",
-    "proStatus": "增强",
-    "desc": "在战斗环节开始时，携带者获得下面两项增益之一：1.普通攻击和技能造成的伤害+50%；2.普攻和技能为携带者提供相当于50%实际伤害值的治疗效果。",
-    "attrs": [
-      "+15 法力值",
-      "+20% 闪避"
-    ],
-    "lolqqheroes": [
-      "fiora",
-      "yasuo"
-    ],
-    "lolchessheroes": []
-  },
-  {
-    "id": 68,
-    "raws": [
-      4,
-      64
-    ],
-    "name": "卢安娜的飓风",
-    "keywords": "攻速，魔抗",
-    "proStatus": "增强",
-    "desc": "普通攻击会对附近的另一名敌人发射一个额外的弹体，造成携带者75%攻击力的伤害并附带攻击特效。",
-    "attrs": [
-      "+15% 攻速",
-      "+25 魔抗"
-    ],
-    "lolqqheroes": [
-      "bard",
-      "caitlyn"
-    ],
-    "lolchessheroes": [
-      "ashe",
-      "caitlyn",
-      "janna",
-      "kogmaw",
-      "lulu",
-      "masteryi",
-      "soraka",
-      "thresh"
-    ]
-  },
-  {
-    "id": 69632,
-    "raws": [
-      4096,
-      65536
-    ],
-    "name": "伏击之爪",
-    "keywords": "生命值，暴击，法术护盾",
-    "proStatus": "无",
-    "desc": "在战斗环节开始时，获得一层法术护盾。当法术护盾被打破时，对打破该护盾的英雄造成4秒的晕眩效果。",
-    "attrs": [
-      "+200 生命值",
-      "+20% 暴击几率"
-    ],
-    "lolqqheroes": [
-      "caitlyn"
-    ],
-    "lolchessheroes": []
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/311.png"
   },
   {
     "id": 8,
@@ -1310,46 +131,454 @@
     "keywords": "攻速，攻击距离",
     "proStatus": "无",
     "desc": "200%攻击距离并且携带者的攻击不会未命中。现在，当【疾射火炮】携带者的攻击距离较短时，会在攻击时显示一个可见的光束。",
-    "attrs": [
-      "+15% 攻速",
-      "+15% 攻速"
-    ],
     "lolqqheroes": [
-      "cassiopeia",
-      "graves",
-      "masteryi",
-      "nocturne",
-      "shaco",
-      "soraka",
-      "zed"
+      "243",
+      "195",
+      "249",
+      "214"
     ],
-    "lolchessheroes": [
-      "cassiopeia",
-      "masteryi",
-      "shaco",
-      "thresh",
-      "urgot",
-      "zed"
-    ]
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/319.png"
+  },
+  {
+    "id": 17,
+    "raws": [
+      16,
+      1
+    ],
+    "name": "海克斯科技枪",
+    "keywords": "全能吸血",
+    "proStatus": "无",
+    "desc": "法术吸血：33%。35%治疗转化率，来自技能伤害。这件装备的过量治疗现在会生成一个护盾(护盾的最大生命值为400)。",
+    "lolqqheroes": [
+      "196",
+      "228",
+      "225",
+      "203",
+      "241",
+      "215",
+      "195",
+      "230",
+      "221",
+      "201",
+      "218",
+      "232"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/312.png"
+  },
+  {
+    "id": 20,
+    "raws": [
+      16,
+      4
+    ],
+    "name": "鬼索的狂暴之刃",
+    "keywords": "攻速，法强",
+    "proStatus": "无",
+    "desc": "每次攻击增加6%的攻击速度，可无限叠加。",
+    "lolqqheroes": [
+      "237",
+      "243",
+      "198",
+      "240",
+      "204",
+      "213",
+      "199",
+      "214",
+      "197"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/320.png"
+  },
+  {
+    "id": 32,
+    "raws": [
+      16,
+      16
+    ],
+    "name": "灭世者的死亡之帽",
+    "keywords": "法强，技能伤害",
+    "proStatus": "无",
+    "desc": "额外法术强度：40%",
+    "lolqqheroes": [
+      "239",
+      "227",
+      "223",
+      "194",
+      "216",
+      "226",
+      "220"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/326.png"
+  },
+  {
+    "id": 65,
+    "raws": [
+      64,
+      1
+    ],
+    "name": "朔极之矛",
+    "keywords": "攻击力，法力值，回蓝",
+    "proStatus": "无",
+    "desc": "在使用技能后，每次普攻回复5法力值。",
+    "lolqqheroes": [
+      "239",
+      "237",
+      "250",
+      "209",
+      "200",
+      "227",
+      "204",
+      "223",
+      "194",
+      "222",
+      "221",
+      "226",
+      "199",
+      "248",
+      "229",
+      "220"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/313.png"
+  },
+  {
+    "id": 68,
+    "raws": [
+      64,
+      4
+    ],
+    "name": "斯塔缇克电刃",
+    "keywords": "攻速，法力值，魔法伤害",
+    "proStatus": "无",
+    "desc": "每3次攻击，对3/4/5个敌人(随携带者的等级成长)造成80魔法伤害。每次弹跳伤害：80。现在会对有护盾或者被控制的目标造成额外的80真实伤害。",
+    "lolqqheroes": [
+      "197"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/321.png"
   },
   {
     "id": 80,
     "raws": [
-      16,
+      64,
+      16
+    ],
+    "name": "卢登的回声",
+    "keywords": "法力值，法强，溅射伤害",
+    "proStatus": "无",
+    "desc": "星级加成已移除。现在每次弹射造成180魔法伤害。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/327.png"
+  },
+  {
+    "id": 128,
+    "raws": [
+      64,
       64
+    ],
+    "name": "炽天使之拥",
+    "keywords": "法力值",
+    "proStatus": "无",
+    "desc": "携带者每释放一次技能，回复20法力值",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/333.png"
+  },
+  {
+    "id": 257,
+    "raws": [
+      256,
+      1
+    ],
+    "name": "守护天使",
+    "keywords": "攻击力，护甲，复活",
+    "proStatus": "无",
+    "desc": "当携带者死亡时，清除自身的负面效果，并在2秒后复活且恢复400生命值。在复活状态期间不能被治疗。这个效果每场战斗只能触发一次。",
+    "lolqqheroes": [
+      "243",
+      "198",
+      "250",
+      "203",
+      "208",
+      "215",
+      "210",
+      "219",
+      "217",
+      "206",
+      "230",
+      "231",
+      "205",
+      "201",
+      "216",
+      "246",
+      "212",
+      "213",
+      "249",
+      "193",
+      "226",
+      "199",
+      "197",
+      "247",
+      "220"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/314.png"
+  },
+  {
+    "id": 260,
+    "raws": [
+      256,
+      4
+    ],
+    "name": "泰坦的坚决",
+    "keywords": "攻速，护甲",
+    "proStatus": "无",
+    "desc": "当携带者打出或受到一次暴击，会获得一层1%伤害的加成，至多叠加25层。每回合都会重置。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/354.png"
+  },
+  {
+    "id": 272,
+    "raws": [
+      256,
+      16
+    ],
+    "name": "钢铁烈阳之匣",
+    "keywords": "法强，护甲，护盾",
+    "proStatus": "无",
+    "desc": "为同一列2格内的友军提供250/300/375生命值的护盾(随携带者的等级成长)，持续8秒。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/328.png"
+  },
+  {
+    "id": 320,
+    "raws": [
+      256,
+      64
+    ],
+    "name": "冰霜之心",
+    "keywords": "法力值，护甲，减速",
+    "proStatus": "无",
+    "desc": "降低邻近格子的敌人50%攻击速度，持续1秒。(多个【冰霜之心】可提升效果的半径)",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/334.png"
+  },
+  {
+    "id": 512,
+    "raws": [
+      256,
+      256
+    ],
+    "name": "棘刺背心",
+    "keywords": "护甲，反弹伤害",
+    "proStatus": "无",
+    "desc": "使来自暴击的额外伤害变得无效。在被一次普通攻击命中时，对附近的所有敌人造成100/140/200魔法伤害(每2秒最多触发1次)。伤害值随携带者的星级成长。",
+    "lolqqheroes": [
+      "245",
+      "234"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/339.png"
+  },
+  {
+    "id": 1025,
+    "raws": [
+      1024,
+      1
+    ],
+    "name": "饮血剑",
+    "keywords": "攻击力，魔抗，普攻吸血",
+    "proStatus": "无",
+    "desc": "普攻攻击附带40%吸血，生命偷取：40%",
+    "lolqqheroes": [
+      "236",
+      "249"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/315.png"
+  },
+  {
+    "id": 1028,
+    "raws": [
+      1024,
+      4
+    ],
+    "name": "卢安娜的飓风",
+    "keywords": "攻速，魔抗",
+    "proStatus": "无",
+    "desc": "普通攻击会对附近的另一名敌人发射一个额外的弹体，造成携带者75%攻击力的伤害并附带攻击特效。弹体现在可以暴击。弹体现在有无限制的距离。",
+    "lolqqheroes": [
+      "240",
+      "214"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/322.png"
+  },
+  {
+    "id": 1040,
+    "raws": [
+      1024,
+      16
+    ],
+    "name": "离子火花",
+    "keywords": "法强，魔抗",
+    "proStatus": "无",
+    "desc": "2格内的敌人在施放技能时会被震击，受到相当于其225%最大法力值的魔法伤害。并且会减少附近敌人40%魔法抗性",
+    "lolqqheroes": [
+      "203",
+      "210",
+      "217",
+      "206",
+      "231",
+      "201",
+      "193"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/329.png"
+  },
+  {
+    "id": 1088,
+    "raws": [
+      1024,
+      64
+    ],
+    "name": "肃静",
+    "keywords": "法力值，魔抗，沉默",
+    "proStatus": "无",
+    "desc": "普通攻击有25%的几率沉默敌人，在4秒内阻止敌人获取法力值。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/210.png"
+  },
+  {
+    "id": 1280,
+    "raws": [
+      1024,
+      256
     ],
     "name": "折剑者",
     "keywords": "护甲，魔抗，缴械",
-    "proStatus": "增强",
+    "proStatus": "无",
     "desc": "普通攻击有25%对敌人造成缴械3秒。缴械几率：33%",
-    "attrs": [
-      "+25 护甲",
-      "+25 魔抗"
-    ],
     "lolqqheroes": [],
-    "lolchessheroes": [
-      "ezreal"
-    ]
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/340.png"
+  },
+  {
+    "id": 2048,
+    "raws": [
+      1024,
+      1024
+    ],
+    "name": "巨龙之爪",
+    "keywords": "魔抗",
+    "proStatus": "无",
+    "desc": "装备者获得60%魔法抗性。",
+    "lolqqheroes": [
+      "196",
+      "245",
+      "211",
+      "208",
+      "224",
+      "202",
+      "244",
+      "219",
+      "233",
+      "205",
+      "207",
+      "216",
+      "235",
+      "242",
+      "238",
+      "232"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/344.png"
+  },
+  {
+    "id": 4097,
+    "raws": [
+      4096,
+      1
+    ],
+    "name": "基克的先驱",
+    "keywords": "攻击力，生命值，攻速",
+    "proStatus": "无",
+    "desc": "战斗开始时，携带者和站在同一排1格内的友军获得+30%攻击速度，持续至本回合战斗环节结束。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/316.png"
+  },
+  {
+    "id": 4100,
+    "raws": [
+      4096,
+      4
+    ],
+    "name": "巨型九头蛇",
+    "keywords": "攻速，生命值",
+    "proStatus": "无",
+    "desc": "基本攻击对目标和目标后面的敌人，造成基于携带者最大生命值3%的魔法伤害。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/211.png"
+  },
+  {
+    "id": 4112,
+    "raws": [
+      4096,
+      16
+    ],
+    "name": "莫雷洛秘典",
+    "keywords": "法强，生命值，持续伤害",
+    "proStatus": "无",
+    "desc": "在携带者用技能造成伤害时，会燃烧目标，灼烧效果：27%。在10秒里持续造成真实伤害，总额相当于目标25%的最大生命值，并在燃烧期间阻止50%治疗效果。",
+    "lolqqheroes": [
+      "239",
+      "237",
+      "225",
+      "210",
+      "204",
+      "217",
+      "206",
+      "223",
+      "194",
+      "231",
+      "221",
+      "193",
+      "229"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/330.png"
+  },
+  {
+    "id": 4160,
+    "raws": [
+      4096,
+      64
+    ],
+    "name": "救赎",
+    "keywords": "法力值，生命值，生命回复",
+    "proStatus": "无",
+    "desc": "携带者在阵亡时治疗整个队伍800生命值",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/336.png"
+  },
+  {
+    "id": 4352,
+    "raws": [
+      4096,
+      256
+    ],
+    "name": "红霸符",
+    "keywords": "持续伤害，护甲，生命值",
+    "proStatus": "无",
+    "desc": "携带者的普通攻击会燃烧目标，灼烧效果27%。在10秒里持续造成真实伤害，总额相当于目标25%的最大生命值，并在燃烧期间阻止80%治疗效果。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/341.png"
+  },
+  {
+    "id": 5120,
+    "raws": [
+      4096,
+      1024
+    ],
+    "name": "灵风",
+    "keywords": "魔抗，生命值，放逐单位",
+    "proStatus": "无",
+    "desc": "战斗开始时，携带者会在棋盘的对面召唤旋风，将旋风处或旋风最邻近的敌人放逐5秒。（每个英雄仅能装备一个）",
+    "lolqqheroes": [
+      "209",
+      "200",
+      "222",
+      "248"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/345.png"
   },
   {
     "id": 8192,
@@ -1361,40 +590,251 @@
     "keywords": "158",
     "proStatus": "无",
     "desc": "+600生命值。(这件装备目前共提供1000生命值，并且没有其它属性。)",
-    "attrs": [
-      "+200 生命值",
-      "+200 生命值"
-    ],
     "lolqqheroes": [
-      "blitzcrank",
-      "malphite"
+      "228",
+      "211",
+      "224",
+      "202",
+      "247"
     ],
-    "lolchessheroes": [
-      "gnar",
-      "illaoi",
-      "jarvaniv",
-      "mordekaiser",
-      "neeko",
-      "poppy",
-      "shen",
-      "urgot",
-      "xinzhao"
-    ]
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/348.png"
+  },
+  {
+    "id": 16385,
+    "raws": [
+      16384,
+      1
+    ],
+    "name": "幽梦之灵",
+    "keywords": "攻击力，转职，暴击",
+    "proStatus": "无",
+    "desc": "携带者也是一名刺客",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/201.png"
+  },
+  {
+    "id": 16388,
+    "raws": [
+      16384,
+      4
+    ],
+    "name": "破败王者之刃",
+    "keywords": "攻速，转职，剑士",
+    "proStatus": "无",
+    "desc": "携带者也是一名剑士。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/202.png"
+  },
+  {
+    "id": 16400,
+    "raws": [
+      16384,
+      16
+    ],
+    "name": "地狱火熔渣",
+    "keywords": "法强，转职，炼狱",
+    "proStatus": "无",
+    "desc": "携带者也是一名“炼狱”元素英雄。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/203.png"
+  },
+  {
+    "id": 16448,
+    "raws": [
+      16384,
+      64
+    ],
+    "name": "法师之帽",
+    "keywords": "法力值，转职，法师",
+    "proStatus": "无",
+    "desc": "携带者也是一名法师。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/204.png"
+  },
+  {
+    "id": 16640,
+    "raws": [
+      16384,
+      256
+    ],
+    "name": "守护神板甲",
+    "keywords": "护甲，转职，守护神",
+    "proStatus": "无",
+    "desc": "携带者也是一名守护神。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/205.png"
+  },
+  {
+    "id": 17408,
+    "raws": [
+      16384,
+      1024
+    ],
+    "name": "光之护符",
+    "keywords": "魔抗，转职，光",
+    "proStatus": "无",
+    "desc": "携带者也是一名“光”元素英雄",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/206.png"
+  },
+  {
+    "id": 20480,
+    "raws": [
+      16384,
+      4096
+    ],
+    "name": "冰霜之锤",
+    "keywords": "生命值，转职，极地",
+    "proStatus": "无",
+    "desc": "携带者也是一名“极地”元素英雄。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/207.png"
+  },
+  {
+    "id": 32768,
+    "raws": [
+      16384,
+      16384
+    ],
+    "name": "自然之力",
+    "keywords": "可上阵人数+1",
+    "proStatus": "无",
+    "desc": "可上阵人数+1",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/208.png"
+  },
+  {
+    "id": 65537,
+    "raws": [
+      65536,
+      1
+    ],
+    "name": "无尽之刃",
+    "keywords": "攻击力，暴击",
+    "proStatus": "无",
+    "desc": "提供75%暴击几率(包含基础装备)，会将持有者溢出的每1%暴击几率转化为1%暴击伤害。",
+    "lolqqheroes": [
+      "212"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/318.png"
+  },
+  {
+    "id": 65540,
+    "raws": [
+      65536,
+      4
+    ],
+    "name": "最后的轻语",
+    "keywords": "攻速，暴击，破甲",
+    "proStatus": "无",
+    "desc": "暴击会使目标的护甲降低90%，持续3秒。这个效果不会叠加。",
+    "lolqqheroes": [
+      "212"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/325.png"
+  },
+  {
+    "id": 65552,
+    "raws": [
+      65536,
+      16
+    ],
+    "name": "珠光护手",
+    "keywords": "法强，暴击",
+    "proStatus": "无",
+    "desc": "携带者的技能可以暴击并且携带者获得+50%暴击伤害。",
+    "lolqqheroes": [
+      "241",
+      "227",
+      "218"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/332.png"
+  },
+  {
+    "id": 65600,
+    "raws": [
+      65536,
+      64
+    ],
+    "name": "正义之手",
+    "keywords": "法力值，暴击",
+    "proStatus": "无",
+    "desc": "在战斗环节开始时，携带者获得下面两项增益之一：1.普通攻击和技能造成的伤害+45%；2.普攻和技能为携带者提供相当于45%实际伤害值的治疗效果。",
+    "lolqqheroes": [
+      "208",
+      "205",
+      "246"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/338.png"
+  },
+  {
+    "id": 65792,
+    "raws": [
+      65536,
+      256
+    ],
+    "name": "冰脉护手",
+    "keywords": "，闪避，暴击，减速",
+    "proStatus": "无",
+    "desc": "携带者在闪避时会创造一个可延展的区域，区域内的敌人会减少35%攻速。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/212.png"
+  },
+  {
+    "id": 66560,
+    "raws": [
+      65536,
+      1024
+    ],
+    "name": "水银",
+    "keywords": "魔抗，暴击，免疫控制",
+    "proStatus": "无",
+    "desc": "【唯一】携带者在战斗环节开始后的最初12秒里免疫控制效果。",
+    "lolqqheroes": [
+      "215",
+      "236",
+      "230",
+      "246"
+    ],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/347.png"
+  },
+  {
+    "id": 69632,
+    "raws": [
+      65536,
+      4096
+    ],
+    "name": "伏击之爪",
+    "keywords": "生命值，暴击，法术护盾",
+    "proStatus": "无",
+    "desc": "格挡击中携带者的第一个敌方技能，该技能的释放者会被眩晕4秒。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/350.png"
   },
   {
     "id": 81920,
     "raws": [
-      16384,
+      65536,
+      16384
+    ],
+    "name": "狂战士之斧",
+    "keywords": "暴击，闪避，转职，狂战士",
+    "proStatus": "无",
+    "desc": "携带者也是一名狂战士。",
+    "lolqqheroes": [],
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/209.png"
+  },
+  {
+    "id": 131072,
+    "raws": [
+      65536,
       65536
     ],
-    "name": "暗星之心",
-    "keywords": "暴击，闪避，转职，暗星",
+    "name": "窃贼手套",
+    "keywords": "闪避，暴击，装备",
     "proStatus": "无",
-    "desc": "携带者也是一名暗星。",
-    "attrs": [
-      "+10% 暴击几率, +10% 闪避"
-    ],
+    "desc": "这个装备需要占用全部3个物品栏位。在备战环节开始时，携带者会随机装备两个临时装备，临时装备的品质取决于玩家的等级。",
     "lolqqheroes": [],
-    "lolchessheroes": []
+    "imageURL": "https://game.gtimg.cn/images/lol/act/img/tft/equip/353.png"
   }
 ]
